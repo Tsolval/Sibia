@@ -4,10 +4,10 @@ Resilient like the mountains, dwarves were raised up from the earth in the elder
 Squat and often bearded, the original dwarves carved cities and strongholds into mountainsides and under the earth. Their oldest legends tell of conflicts with the monsters of mountaintops and the Underdark, whether those monsters were towering giants or subterranean horrors. Inspired by those tales, dwarves of any culture often sing of valorous deeds - especially of the little overcoming the mighty.
 
 == Dwarf Traits ==
-*Creature Type.* Humanoid
-*Size.* Medium (about 4-5 feet tall) 
-*Speed.* 30 feet
-*Life Span.* 350 years on average.
+*Creature Type.* Humanoid<br>
+*Size.* Medium (about 4-5 feet tall)<br>
+*Speed.* 30 feet<br>
+*Life Span.* 350 years on average<br>
 
 As a Dwarf, you have these special traits.
 | Special Traits     | Point Value | Description                                                                                                                                                                                                                                                                                                                                                   |
@@ -15,9 +15,11 @@ As a Dwarf, you have these special traits.
 | Dwarven Toughness  | 3           | Your Hit Point Maximum increases by 1, and it increases by 1 again whenever you gain a level.                                                                                                                                                                                                                                                                 |
 | Dwarven Resilience | 2           | You have Resistance to Poison Damage.  You also have Advantage on Saving Throws you make to avoid or end the [[../Conditions#Poisoned|Poisoned]] Condition on yourself.                                                                                                                                                                                       |
 | Forge Wise         | 1           | You gain Tool Proficiency with two of the following options of your choice: Jeweler's Tools, Mason's Tools, Smith's Tools, or Tinker's Tools.                                                                                                                                                                                                                 |
-| Darkvision         | 1           | You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.                                                                                                                                                                                 |
+| Darkvision         | 1           | You have Darkvision with a range of 60 feet.                                                                                                                                                                                                                                                                                                                  |
 | Stonecunning       | 1           | As a Bonus Action, you gain Tremorsense with a range of 60 feet for 10 minutes.  You must be on a stone surface or touching such a surface to use this Tremorsense.  The stone can be natural or worked.<br> You can use this Bonus Action a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest. |
 
 == Dwarves of Many Worlds ==
 On some worlds in the multiverse, the first dwarven settlements were built in hills or mountains, and the dwarven families who trace their ancestry to those settlements call themselves hill dwarves or mountain dwarves, respectively. Oerth and Krynn (the worlds of the Greyhawk and Dragonlance settings, respectively) are examples of worlds that have such dwarven communities.
 In other worlds, dwarves have given themselves other cultural designations. For example, on the continent of Faerûn in the Forgotten Realms, the dwarves of the south call themselves gold dwarves, and the dwarves of the north are shield dwarves.
+
+

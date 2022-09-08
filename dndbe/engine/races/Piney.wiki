@@ -1,5 +1,5 @@
 = Piney =
-Great, magical forests cover large portions of worlds all throughout the mundane plane, transforming the maleable humans who live there into a creature more plant than animal.  Thus, the Piney are created.  These strange beings are followers of a strict code known to outsides as "the old ways", though the pineys themselves do not refer to it as such.  For them, the rules of the forest are as natural as the leaves growing on the boughs above.
+Great, magical forests cover large portions of worlds all throughout the mundane plane, transforming the maleable humans who live there into something more plant than animal.  Thus are the Piney created.  These strange beings are followers of a strict code known to outsides as "the old ways", though the pineys themselves do not refer to it as such.  For them, the rules of the forest are as natural as the leaves growing on the boughs above.
 
 On occasion, a piney leaves the limits of its forest.  This may be a personal choice or due to banishment as a result of breaking their code.  These wanderers and cast-outs soon lose the extreme features of their kind, reverting to a more human form.  However, the magic of the great forest still courses through their blood, manifesting in strange and sometimes dreadful ways.
 
@@ -13,7 +13,7 @@ Their too-long limbs and blank, inchoate eyes suggest a fey influence, but their
 Pineys do not recognize gender and are utterly unconcerned with prescriptive roles based on arbitrary physical characteristics.  When a piney wishes to reproduce, the magic of the forest allows them to alter their form as required to ensure success.
 
 == Piney Traits ==
-*Creature Type.* Humanoid<br>
+*Creature Type.* Humanoid, Plant<br>
 *Size.* Medium (about 4-8 feet tall) or Small (about 2-4 feet tall), chosen when you select this race<br>
 *Speed.* 30 feet<br>
 *Life Span.* 80 years on average<br>
@@ -28,3 +28,4 @@ As a Piney, you have these special traits.
 
 == Pineys of Many Worlds ==
 In the world of Midguard, Pineys refuse to worship the divine, and those who are caught doing so are swiftly banished from their villages.  While in the world of Sibia, pineys are prolific worshipers of the Forest Queen, Mielikki.
+

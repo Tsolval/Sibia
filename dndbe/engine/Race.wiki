@@ -1,10 +1,11 @@
 = Race =
-When you choose your character's Race, you determine whether your character is a member of the human race or of a fantastical race.  This section provides descriptions and rules for the following Race options: Human, Ardling, Dragonborn, Dwarf, Elf, Gnome, Halfling, Orc, and Tiefling.
+When you choose your character's Race, you determine whether your character is a member of the human race or of a fantastical race.  This section provides descriptions and rules for the following Race options:
+[[races/Human|Human]], [[races/Ardling|Ardling]], [[races/Dragonborn|Dragonborn]], [[races/Dwarf|Dwarf]], [[races/Elf|Elf]], [[races/Gnome|Gnome]], [[races/Halfling|Halfling]], [[races/Orc|Orc]], [[races/Tiefling|Tiefling]], [[races/Piney|Piney]], [[races/Kijani|Kijani]], [[races/Leshy|Leshy]]
 
 The description of each Race includes a section of game traits, which your character gains if you select that Race.  NPCs of the same ancestry don't necessarily have the same traits, as explained in the Monster Manual; the traits here pertain to player characters.
 
 == Creature Type ==
-Every creature in the game has a special tag in the rules that identifies their Creature Type, and Hybrid creatures have more than one Creature Type.  Most player characters are of type Humanoid.  These types do not have rules themselves, but some rules in the game affect creatures of certain types in different ways.  For example, the text of the Cure Wounds spell specifies that the spell does not work on a creature with the Construct type.  A creature can be affected by a game effect if it works on any of its creature types.
+Every creature in the game has a special tag in the rules that identifies their Creature Type, and Hybrid creatures have more than one Creature Type.  These types do not have rules themselves, but some rules in the game affect creatures of certain types in different ways.  For example, the text of the Cure Wounds spell specifies that the spell does not work on a creature with the Construct type.  A creature can be affected by a game effect if it works on any of its creature types.
 
 See [[Creature Type]] for more information.
 
@@ -19,12 +20,10 @@ Your Speed determines how far you can move when traveling and fighting.  See [[M
 == Life Span ==
 This represents the average life span for a member of your Race, assuming the dangers of adventure don't shorten it.
 
-== Special Traits ==
-Each Race provides special traits, which are a collection of abilities that characters gain from their ancestors.  By default, all Race options have a total of 8 points of special traits allotted to them.  In order to tailor their campaign to a less magical setting or to increase difficulty, a Dungeon Master could specify a lesser amount of points to allocate to your character.  By contrast, if a DM wanted to run a higher powered campaign, they could increase the number of points they allot and allow players to choose additional traits from a given list or from the Human Race's Special Traits.
+== Racial Traits ==
+Each Race provides racial traits, which are a collection of abilities that characters gain from their ancestors.  By default, all Race options have a total of 8 points of racial traits allotted to them.  In order to tailor their campaign to a less magical setting or to increase difficulty, a Dungeon Master could specify a lesser amount of points to allocate to your character.  By contrast, if a DM wanted to run a higher powered campaign, they could increase the number of points they allot and allow players to choose additional traits from a given list or from the Human Race's racial traits.
 
-TODO:
- * create additional Racial Traits based on various cultures. 
- * update Inter-Racial block to allow selection from both parent races.
+TODO: create additional Racial Traits based on various cultures. 
 
 == Children of Different Humanoid Kinds ==
 Thanks to the magical workings of the multiverse, Humanoids of different kinds sometimes have children together.  For example, folk who have a human parent and an orc or elf parent are particularly common.  Many other combinations are possible.  
@@ -45,10 +44,10 @@ Finally, determine the average of the two option's Life Span traits to figure ou
 [[races/Halfling|Halfling]]
 [[races/Orc|Orc]]
 [[races/Tiefling|Tiefling]]
-
 [[races/Piney|Piney]]
-Kijani
-Leshy
+[[races/Kijani|Kijani]]
+[[races/Leshy|Leshy]]
+
 Ursanon
 Leonin
 Kenku
