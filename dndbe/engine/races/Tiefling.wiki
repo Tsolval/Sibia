@@ -11,11 +11,11 @@ A tiefling chooses whether to embrace or lament their fiendish legacy. The three
 
 == Tiefling Traits ==
 *Creature Type.* Humanoid, Fiend<br>
-*Size.* Medium (about 4-7 feet tall) or Small (about 3-4 feet tall), chosen when you select this Race<br>
+*Size.* Medium (about 4-7 feet tall) or Small (about 3-4 feet tall), chosen when you select this Ancestry<br>
 *Speed.* 30 feet<br>
 *Life Span.* 100 years on average<br>
 
-As an Tiefling, you have these special traits.
+As an Tiefling, you have these ancestral traits.
 | Tiefling Trait       | Point Value | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 |----------------------|:-----------:|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Fiendish Legacy      |      4      | Choose a legacy from the Fiendish Legacies table.  At 1st level, you gain Resistance to the specified Damage Type and you know the specified cantrip.  At 3rd level and again at 5th level, you gain the ability to cast a higher-level Spell with this trait, as shown on the table. Once you cast the Spell with this trait, you can't cast that Spell with it again until you finish a Long Rest; however, you can cast the Spell using any Spell Slots you have of appropriate level.<br> Intelligence, Wisdom, or Charisma is your spellcasting ability for the Spells you cast with this trait (choose the ability when you select the legacy).  |

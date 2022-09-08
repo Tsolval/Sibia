@@ -9,8 +9,8 @@ Anyone who has spent time around halflings, and particularly halfling adventurer
 *Speed.* 30 feet<br>
 *Life Span.* 150 years on average<br>
 
-As a Halfling, you have these special traits.
-| Special Traits      | Point Value | Description                                                                                                                     |
+As a Halfling, you have these ancestral traits.
+| Halfling Traits     | Point Value | Description                                                                                                                     |
 |---------------------|:-----------:|---------------------------------------------------------------------------------------------------------------------------------|
 | Brave               |      1      | You have Advantage on Saving Throws you make to avoid or end the [[../Conditions#Frightened|Frightened]] Condition on yourself. |
 | Halfling Nimbleness |      2      | You can move through the space of any creature that is of a Size larger than yours, but you cannot stop there.                  |

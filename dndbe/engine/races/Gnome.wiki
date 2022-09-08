@@ -9,7 +9,7 @@ Gnomes are petite folk with big eyes, pointed ears, and wistful imaginations. Ha
 *Speed.* 30 feet<br>
 *Life Span.* 425 years on average<br>
 
-As an Gnome, you have these special traits.
+As an Gnome, you have these ancestral traits.
 | Gnome Trait     | Point Value | Description                                                                                                                                                                                                                           |
 |-----------------|:-----------:|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Gnomish Lineage |      4      | Choose a lineage from the Gnomish Lineages table and gain its benefits.<br> Intelligence, Wisdom, or Charisma is your spellcasting ability for the Spells you cast with this trait (choose the ability when you select the lineage). |

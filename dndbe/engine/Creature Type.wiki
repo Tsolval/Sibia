@@ -1,5 +1,5 @@
 = Creature Type =
-Every character and monster in the game has a Creature Type.  This is a special tag in the rules that identifies the type of creature they are.  Some abilities, features, and spells work better or do not work at all on some creature types.  Most player characters are of the Humanoid type. 
+Every creature in the game has a special tag in the rules that identifies their Creature Type, and Hybrid creatures have more than one Creature Type.  These types do not have rules themselves, but some rules in the game affect creatures of certain types in different ways.  For example, the text of the Cure Wounds spell specifies that the spell does not work on a creature with the Construct type.  A creature can be affected by a game effect if it works on any of its creature types.
 
 The following table shows all of the game's Creature Types:
 
