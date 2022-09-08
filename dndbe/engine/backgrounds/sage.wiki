@@ -1,0 +1,17 @@
+= Sage =
+*Ability Scores:* +2 Intelligence, +1 Wisdom
+*Skill Proficiencies:* Arcana, History
+*Tool Proficiency:* Calligrapher's Supplies
+*Language:* Elvish
+*Feat:* Magic Initiate (Arcane)
+
+You spent your formative years traveling between manors and monasteries, performing various odd jobs and services in exchange for access to their libraries. You wiled away many a long evening with your nose buried in books and scrolls, learning the lore of the multiverse— even the rudiments of magic—and your mind only yearns for more.
+
+*Equipment*
+Book (History)
+Calligrapher's Supplies
+Parchment (8 sheets)
+Quarterstaff
+Robe
+8 GP
+

@@ -49,10 +49,10 @@ You can manifest protective wings that can shield you or others. When you or ano
 === Metallic Breath Weapon ===
 When you take the Attack action on your turn, you can replace one of your attacks with an exhalation in a 15-foot cone. The save DC for this breath is 8 + your Constitution modifier + your proficiency bonus. Whenever you use this trait, choose one of the following options:
 
- * *Enervating Breath.* Each creature in the cone must succeed on a Constitution saving throw or become [[Conditions#Incapacitated|Incapacitated]] until the start of your next turn.
- * *Repulsion Breath.* Each creature in the cone must succeed on a Strength saving throw or be pushed 20 feet away from you and be knocked [[Conditions#Prone|Prone]].
- * *Slowing Breath.* Each creature in the cone must succeed on a Constitution saving throw or become [[Conditions#Slowed|Slowed]] until the start of your next turn.
- * *Weakening Breath.* Each creature in the cone must succeed on a Strength saving throw or become [[Conditions#Disadvantaged|Disadvantaged]] on Strength tests until the start of your next turn.
+ * *Enervating Breath.* Each creature in the cone must succeed on a Constitution saving throw or become [[../conditions#Incapacitated|Incapacitated]] until the start of your next turn.
+ * *Repulsion Breath.* Each creature in the cone must succeed on a Strength saving throw or be pushed 20 feet away from you and be knocked [[../conditions#Prone|Prone]].
+ * *Slowing Breath.* Each creature in the cone must succeed on a Constitution saving throw or become [[../conditions#Slowed|Slowed]] until the start of your next turn.
+ * *Weakening Breath.* Each creature in the cone must succeed on a Strength saving throw or become [[../conditions#Disadvantaged|Disadvantaged]] on Strength tests until the start of your next turn.
 
 === Psionic Mind ===
 You can send telepathic messages to any creature you can see within 30 feet of you. You don’t need to share a language with the creature for it to understand these messages, but it must be able to understand at least one language to comprehend them.

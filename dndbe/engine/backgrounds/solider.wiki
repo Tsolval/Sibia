@@ -1,0 +1,19 @@
+= Soldier =
+*Ability Scores:* +2 Strength, +1 Constitution
+*Skill Proficiencies:* Athletics, Intimidation
+*Tool Proficiency:* Gaming Set (one of your choice)
+*Language:* Goblin
+*Feat:* Savage Attacker
+
+You began training for war at such an early age that you carry only a precious few memories of what life was like before you took up arms. Battle is in your blood. Sometimes you catch yourself reflexively performing the basic fighting exercises you learned as a youth. Eventually, you put that training to use on the battlefield, protecting the realm by waging war and studying the strategies of goblinoid generals.
+
+*Equipment*
+Arrow (20)
+Gaming Set (same as above)
+Healer's Kit
+Quiver
+Shortbow
+Spear
+Traveler's Clothes
+14 GP
+

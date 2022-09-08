@@ -1,0 +1,17 @@
+= Artisan =
+*Ability Scores:* +2 Intelligence, +1 Charisma
+*Skill Proficiencies:* Investigation, Persuasion
+*Tool Proficiency:* Artisan's Tools (one of your choice)
+*Language:* Gnomish
+*Feat:* Crafter
+
+You began mopping floors and scrubbing counters in an artisan’s workshop for a few coppers per day as soon as you were strong enough to carry a bucket. When you were finally old enough to apprentice, you learned to create basic crafts of your own, as well as how to sweet-talk the occasional demanding customer. As part of your studies, you picked up Gnomish, the tongue from which so many of the artisan’s terms of art are derived.
+
+*Equipment*
+Abacus
+Artisan's Tools (same as above)
+Merchant's Scale
+Pouch (2)
+Traveler's Clothes
+25 GP
+

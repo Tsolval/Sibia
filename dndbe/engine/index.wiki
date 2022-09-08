@@ -3,8 +3,8 @@
 === Phase 1 ===
 Do the following in any order to build your character's foundation.  Each choice you make in this phase will add feats to your feat pool, which you will be able to pull from in Phase 2.
   * Generate Abilities
-  * Choose your [[Ancestry]]
-  * Choose your Background
+  * Choose your [[ancestries/index|Ancestry]]
+  * Choose your [[backgrounds/index|Background]]
   * Choose your Class
 
 === Phase 2 ===
@@ -12,5 +12,5 @@ The following steps will turn your zero into a hero!  Each step will build on th
   1. Pick Your Feats 
   2. Calculate Your Health
 
-== [[Conditions]] ==
-== [[Playing on a Grid]] ==
+== [[conditions|Conditions]] ==
+== [[playing-on-a-grid|Playing on a Grid]] ==

@@ -12,7 +12,7 @@ Anyone who has spent time around halflings, and particularly halfling adventurer
 As a Halfling, you have these ancestral traits.
 | Halfling Traits     | Point Value | Description                                                                                                                     |
 |---------------------|:-----------:|---------------------------------------------------------------------------------------------------------------------------------|
-| Brave               |      1      | You have Advantage on Saving Throws you make to avoid or end the [[../Conditions#Frightened|Frightened]] Condition on yourself. |
+| Brave               |      1      | You have Advantage on Saving Throws you make to avoid or end the [[../conditions#Frightened|Frightened]] Condition on yourself. |
 | Halfling Nimbleness |      2      | You can move through the space of any creature that is of a Size larger than yours, but you cannot stop there.                  |
 | Luck                |      3      | When you roll a 1 on the d20 of a D20 Test, you can reroll the die, and you must use the new roll.                              |
 | Naturally Stealthy  |      2      | You have Proficiency in the Stealth Skill, and Ability Checks made to track you have Disadvantage.                              |

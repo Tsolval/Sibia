@@ -1,0 +1,17 @@
+= Criminal =
+*Ability Scores:* +2 Dexterity, +1 Intelligence
+*Skill Proficiencies:* Slight of Hand, Stealth
+*Tool Proficiency:* Thieves' Tools
+*Language:* Thieves' Cant
+*Feat:* Alert
+
+You learned to earn your coin in dark alleyways, cutting purses or burgling shops. Perhaps you were part of a small gang of like-minded wrongdoers, who looked out for each other. Or maybe you were a lone wolf, fending for yourself against the local thieves’ guild and older, more fearsome lawbreakers
+
+*Equipment*
+Crowbar
+Dagger (2)
+Pouch (2)
+Thieves' Tools
+Traveler's Clothes
+16 GP
+

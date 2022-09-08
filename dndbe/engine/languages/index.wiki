@@ -1,0 +1,41 @@
+= Languages =
+The Standard Languages table lists languages that are widespread on D&D worlds in the Material Plane, and the Rare Languages table lists languages that are more rarely known on those worlds. In each table, typical users of a language are mentioned.
+
+Knowledge of a language means your character can communicate in that language and can read and write it.
+
+== Standard Languages ==
+| Languages            | Typical Users | Script   |
+|----------------------|---------------|----------|
+| Common               | Anyone        | Common   |
+| Common Sign Language | Anyone        |          |
+| Dwarvish             | Dwarves       | Dwarvish |
+| Elvish               | Elves         | Elvish   |
+| Giant                | Giants        | Dwarvish |
+| Gnomish              | Gnomes        | Dwarvish |
+| Goblin               | Goblinoids    | Dwarvish |
+| Halfling             | Halflings     | Common   |
+| Orc                  | Orcs          | Dwarvish |
+
+== Rare Languages ==
+| Languages     | Typical Users       | Script    |
+|---------------|---------------------|-----------|
+| Abyssal       | Demons              | Infernal  |
+| Celestial     | Celestials          | Celestial |
+| Deep Speech   | Aberrations         | -         |
+| Draconic      | Dragons, Dragonborn | Draconic  |
+| Druidic       | Druids              | -         |
+| Infernal      | Devils              | Infernal  |
+| Primordial    | Elementals          | Dwarvish  |
+| Sylvan        | Fey                 | Elvish    |
+| Thieves' Cant | Rogues              | -         |
+| Undercommon   | Underdark folk      | Elvish    |
+
+
+Note that some languages do not have a script.  This doesn't mean that there is no written form of the language, just that no standard script is required for those fluent to understand it. 
+
+Druids leave marks in the wilderness that would be easily overlooked by outsiders.  If you see a tree whose moss grows on the wrong side or a bush with a strangely twisted branch, you may be looking at a druidic text.  
+
+Similarly, Rogues make marks on buildings that look like graffitti, but which those in the know recognize and clearly understand.  A marking that looks like an eye, for instance, may indicate guards on patrol in this area.
+
+Aberrations that use writing typically use other languages so that they can more easily bait the curious to move in the direction they choose, but if you come across any strange, otherworldly, static phenomena, like rifts spilling out with eldritch mucus and undulating tentacles, this could be a form of Aberrant writing.
+

@@ -1,0 +1,20 @@
+= Hermit =
+*Ability Scores:* +2 Wisdom, +1 Constitution
+*Skill Proficiencies:* Medicine, Religion
+*Tool Proficiency:* Herbalism Kit
+*Language:* Sylvan
+*Feat:* Magic Initiate (Primal)
+
+You spent your early years secluded in a hut or monastery located well beyond the outskirts of the nearest settlement. In those days, your only companions were the creatures of the forest, who would occasionally visit to bring news of the outside world and supplies. The quiet and solitude you found in your time outside society allowed you to spend many hours pondering the mysteries of creation, attuning your mind to the magical energy flowing through the natural world.
+
+*Equipment*
+Bedroll
+Book (Philosophy)
+Fishing Tackle
+Herbalism Kit
+Lamp
+Oil (3 flasks)
+Quarterstaff
+Traveler's Clothes
+15 GP
+
