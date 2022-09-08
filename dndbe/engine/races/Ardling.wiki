@@ -1,0 +1,38 @@
+= Ardling =
+Ardlings are supernal beings who are either born on the Upper Planes or have one or more ancestors who originated there. Their bright souls shine with the light of immortal beings who call the Upper Planes home.
+
+An ardling has a head resembling that of an animal, typically one with virtuous associations. Depending on the animal, the ardling might also have soft fur, downy feathers, or supple bare skin. The ardling’s celestial legacy determines the animal it resembles.
+
+An ardling gains a measure of magical power from their celestial legacy, as well as the ability to manifest spectral wings. An ardling’s moral and ethical outlook is self-determined, however, not fixed by ancestry.
+
+The three celestial legacies are as follows:
+
+*Exalted.* The fierce passions of Arborea, the heroic heart of Ysgard, and the wondrous nature of the Beastlands call to ardlings who have the Exalted celestial legacy. Their celestial ancestors are heroic champions of the Chaotic Good planes. 
+
+*Heavenly.* The blissful harmony of Arcadia, the unwavering justice of Mount Celestia, and the bucolic paradise of Bytopia touch the souls of ardlings who have the Heavenly celestial legacy. Their celestial ancestors are staunch defenders of the Lawful Good planes.
+
+*Idyllic.* The Idyllic celestial legacy connects ardlings not only to the Beastlands and Bytopia but also to the eternal compassion of Elysium. Their celestial ancestors are paragons of kindness who hail from the Neutral Good planes.
+
+== Ardling Traits ==
+*Creature Type.* Humanoid, Celestial<br>
+*Size.* Medium (about 4-8 feet tall) or Small (about 2-4 feet tall), chosen when you select this race<br>
+*Speed.* 30 feet<br>
+*Life Span.* 200 years on average<br>
+
+As an Ardling, you have these special traits.
+| Ardling Trait     | Point Value | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+|-------------------|:-----------:|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Angelic Flight    |      3      | As a Bonus Action, you sprout spectral wings which last until the end of your next turn, at which time they disappear unless you use another Bonus Action to extend the duration.  These wings allow you to fly up to your number of feet equal to your Speed.  If you are in the air when your wings disappear, you fall if nothing is holding you aloft.  You can use this Bonus Action a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.                                                                                                                                                                                                                                                                                                                                                                              |
+| Celestial Legacy  |      4      | You are the recipient of a celestial legacy that grants you magical abilities.  Choose a legacy from the Celestial Legacies table: The Chaotic Good Exalted, Lawful Good Heavenly, or the Neutral Good Idyllic.  Your choice grants you a cantrip and a spell that you learn at 1st level.  You also choose the animal you most closely resemble. The table provides a few suggestions for each legacy.  The table also indicates spells that you learn at 3rd and 5th levels.  You can cast these spells once with this trait at the Spell's lowest level and you regain the ability to do so again when you finish a Long Rest.  You can also cast the Spell using any Spell Slots you have of the appropriate level.   Intelligence, Wisdom, or Charisma is your spellcasting ability for the Spells you cast with this trait (choose the ability when you select the legacy). |
+| Damage Resistance |      1      | You have Resistance to Radiant Damage.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+
+| Legacy   | Alignment              | Suggested Animals         | 1st Level    | 3rd Level        | 5th Level          |
+|----------|------------------------|---------------------------|--------------|------------------|--------------------|
+| Exalted  | Chaotic Good           | Cat, eagle, goat, mule    | Thaumaturgy  | Divine Favor     | Lesser Restoration |
+| Heavenly | Lawful Good            | Elephant, owl, pig, stork | Light        | Cure Wounds      | Zone of Truth      |
+| Idyllic  | Neutral Good           | Bear, dog, raven, toad    | Guidance     | Healing Word     | Animal Messenger   |
+
+== Ardlings of Many Worlds ==
+Ardlings bring a little bit of the Upper Planes with them wherever they go. On many worlds, the first ardlings used the magic of their celestial legacies to inspire and heal others. 
+
+By virtue of their celestial legacies, some ardlings strive to make the world a better place. Others use their supernal gifts to be the best version of themselves they can be. Still others are delighted to have a connection to the Upper Planes without the responsibility of always having to do the right thing.

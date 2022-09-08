@@ -1,0 +1,120 @@
+= Sentient Creatures =
+== Plants ==
+Piney - Margreve Guide (Medium)
+Kijani - Unlikely Heroes (Medium)
+Leshy - Pathfinder Lost Omens | Races of Ydrasia (Tiny-Large, Flying)
+
+== Beast == 
+Ursanon|Bearfolk (Large)
+Leonin|Werelion|Lionkin (Medium, Mountable)
+Kenku|Ravenfolk (Small-Medium, Flying)
+
+== Monster ==
+Harpy (Small|Medium, Flying)
+Centaur (Large, Mountable)
+Yuan-ti|Lamia (Medium)
+
+== Humanoid ==
+[[Human|races/Human]] (Small-Large, Flying) 
+Dwarf (Medium)
+Halfling (Small)
+
+== Giant ==
+Goliath (Medium)
+Verbeeg (Large)
+Oni (Flying)
+
+== Fey ==
+Elf (Medium)
+Fairy (Small, Flying)
+Alesid (Large, Mountable)
+
+
+Human
+Dwarf
+Elf
+Gnome
+Goblin
+Prinari (Halfling)
+
+Centaur - (made large)
+Firbolg - (made large)
+
+Human genetics allow for mutations and inter-breeding, allowing for the following half-races:
+ * Half-Orc - interbred
+ * Half-Elf - interbred
+ * Tiefling - planetouched
+ * Aasimar - planetouched
+ * Genasi - planetouched
+ * Kalashtar - planetouched
+
+= Any Environment Races =
+Human (Medium) [!Underwater, !Underdark]
+Owlin (Small or Medium, Flying) [!Underwater, !Underdark]
+
+= Arctic Races =
+Dragonborn, Silver (Medium)
+Dragonborn, White (Medium)
+Goliath (Large)
+Human (Medium)
+
+= Coastal Races =
+Dragonborn, Blue (Medium)
+Dragonborn, Bronze (Medium)
+Halfling (Small)
+Human (Medium)
+
+= Desert Races =
+Dragonborn, Blue (Medium)
+Dragonborn, Brass (Medium)
+Human (Medium)
+
+= Forest Races =
+Fairy (Small, Flying)
+Dragonborn, Gold (Medium)
+Dragonborn, Green (Medium)
+Elf (Medium)
+Firbolg (Large)
+Gnome, Forest (Small)
+Human (Medium)
+Halfling (Small)
+Ursa (Medium)
+
+= Grassland Races =
+Centaur (Large)
+Halfling (Small)
+Human (Medium)
+Dragonborn, Gold (Medium)
+Leonin (Medium)
+
+= Hill Races =
+Dwarf, Hill (Medium)
+Gnome, Rock (Small)
+Halfling (Small)
+Human (Medium)
+Dragonborn, Copper (Medium)
+Dragonborn, Red (Medium)
+
+= Mountain Races =
+Aarakocra (Medium, Flying)
+Dwarf, Mountain (Medium)
+Gnome, Rock (Small)
+Goliath (Large)
+Halfling (Small)
+Human (Medium)
+Dragonborn, Red (Medium)
+Dragonborn, Silver (Medium)
+
+= Swamp Races =
+Human (Medium)
+Dragonborn, Black (Medium)
+
+= Underdark  Races =
+Duergar (Medium)
+Svirfneblin (Small)
+Drow (Medium)
+
+= Underwater Races =
+Elf, Sea (Medium)
+
+

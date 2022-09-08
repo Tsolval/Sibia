@@ -1,0 +1,13 @@
+= Creature Type =
+Every character and monster in the game has a Creature Type.  This is a special tag in the rules that identifies the type of creature they are.  Some abilities, features, and spells work better or do not work at all on some creature types.  Most player characters are of the Humanoid type. 
+
+The following table shows all of the game's Creature Types:
+
+| Aberration  | Fiend       |
+| Beast       | Giant       |
+| Celestial   | Humanoid    |
+| Construct   | Monstrosity |
+| Dragon      | Ooze        |
+| Elemental   | Plant       |
+| Fey         | Undead      |
+

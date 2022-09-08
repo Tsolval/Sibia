@@ -1,0 +1,5 @@
+= Dungeons & Dragons - Badger Edition =
+This is a modified version of Dungeons and Dragons based on 5th edition.  It has been heavily modified with inspirations from all across the community.  Many of these ideas may be copywritten or otherwise protected by companies or individuals and belong wholly to them.  Others have been highly modified beyond recognition.  Either way, this product is not for sale.  If you use someone else's product, you must do so legally.  This document, written for use by me and my team, collects, combines, and presents ideas that we have gathered legally from many sources.  All Rights Reseved.
+
+  * [[engine/index|The Game Engine]]
+  * [[worlds/umia/index|The World of Umia]]

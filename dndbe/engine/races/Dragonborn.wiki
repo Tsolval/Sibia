@@ -1,0 +1,71 @@
+= Dragonborn =
+The earliest dragonborn hatched from the eggs of dragons. One story holds that these eggs were blessed by the dragon gods Bahamut and Tiamat, who wanted to populate the worlds of dragons with people created in their image. Another story holds that dragons created the first dragonborn without the gods’ blessings. Whatever their origin, dragonborn have made homes for themselves on the worlds of the Material Plane.
+Dragonborn look like wingless, bipedal dragons—scaly, bright-eyed, and thick-boned, with horns on their heads. Dragonborn of chromatic ancestry have scales that are black, blue, green, red, or white, whereas dragonborn of metallic ancestry have scales that are the color of brass, bronze, copper, gold, or silver. When two dragonborn whose scales are of different colors produce a child, their offspring’s scales match those of one parent or the other.
+
+Like their draconic ancestors, dragonborn can exhale acid, cold, fire, lightning, or poison. One can tell the type of energy a dragonborn breathes by the color of the dragonborn’s scales
+
+The three draconic legacies are as follows:
+
+*Chromatic.*  Your ancestors were chromatic dragons, fierce, selfish, and evil.  Theirs is the raw elemental fury of the volcano, the biting arctic winds, raging lightning storms, the creeping death of the corrosive swamp, or the subtle whisper of the toxic forest.
+
+*Metallic.*  Your ancestors were metallic dragons, proud, tenacious, and good. Theirs is the fire of hearth and forge, the cold of high mountain air, the spark of inspiration, and the scouring touch of purifying acid.
+
+*Gem.*  Your ancestors were gem dragons, mysterious and neutral.  Theirs are the wonders of the mind, the force of will, the brilliant light of insight, the resounding echo of discovery, and the desiccation of despair.
+
+== Dragonborn Traits ==
+*Creature Type.* Humanoid, Dragon<br>
+*Size.* Your size is Medium (about 5-7 feet tall)<br>
+*Speed.* 30 feet<br>
+*Life Span.* 80 years on average<br>
+
+As a Dragonborn, you have these special traits.
+| Special Traits    | Point Value | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+|-------------------|-------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Draconic Ancestry | 4           | You are the recipient of a draconic legacy that grants you magical abilities.  Choose a legacy from the Draconic legacies table, then choose a Damage Type based on your ancestors scale color. You gain Resistance to the chosen Damage Type, and you also gain the first level draconic ability listed.  The table also indicates abilities that you gain at 3rd and 5th levels.  Those abilities are defined below the table.                                                                                                                                                                                                                                                              |
+| Breath Weapon     | 3           | When you take the Attack action on your turn, you can replace one of your attacks with an exhalation of magical energy in a 15-foot cone. Each creature in that area must make a Dexterity saving throw (DC = 8 + your Constitution modifier + your proficiency bonus). On a failed save, the creature takes 1d10 damage of the type associated with your Draconic Ancestry. On a successful save, it takes half as much damage. This damage increases by 1d10 when you reach 5th level (2d10), 11th level (3d10), and 17th level (4d10). You can use your Breath Weapon a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.                                                                                |
+| Darkvision        | 1           | You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+
+| Legacy    | Alignment   | Damage Type                                                                                          | 1st Level          | 3rd Level            | 5th Level              |
+|-----------|-------------|------------------------------------------------------------------------------------------------------|--------------------|----------------------|------------------------|
+| Chromatic | Any Evil    | Black: Acid<br> Blue: Lightning<br> Green: Poison<br> Red: Fire<br> White: Cold                      | Draconic Toughness | Chromatic Infusion   | Chromatic Warding      |
+| Metallic  | Any Good    | Brass: Fire<br> Bronze: Lightning<br> Copper: Acid<br> Gold: Fire<br> Silver: Cold                   | Draconic Healing   | Protective Wings     | Metallic Breath Weapon |
+| Gem       | Any Neutral | Amethyist: Force<br> Crystal: Radiant<br> Emerald: Psychic<br> Sapphire: Thunder<br> Topaz: Necrotic | Psionic Mind       | Telekinetic Reprisal | Gem Flight             |
+
+=== Draconic Resilience ===
+Due to your Draconic Ancestry you are naturally resilient to damage.  At 1st level, your hit point maximum increases by 1 and increases by 1 again whenever you gain a level.  Additionally, your scales provide a natural armor.  When you are not wearing armor, your AC equals 10 + your Constitution Modifier.
+
+=== Chromatic Infusion ===
+As a bonus action, you can touch a simple or martial weapon and infuse it with the Damage Type associated with your Draconic Ancestry. For the next minute, the weapon deals an extra 1d4 damage of the that type when it hits. After you use this bonus action, you can’t do so again until you finish a long rest.
+
+=== Chromatic Warding ===
+As an action, you can channel your draconic energy to protect yourself. For 1 minute, you become immune to the Damage Type associated with your Draconic Ancestry. Once you use this trait, you can’t do so again until you finish a long rest.
+
+=== Draconic Healing ===
+You learn the [[spells/Cure Wounds|Cure Wounds]] spell. You can cast this spell without expending a spell slot. Once you cast this spell in this way, you can’t do so again until you finish a long rest. You can also cast this spell using spell slots you have. The spell’s spellcasting ability is Intelligence, Wisdom, or Charisma when you cast it with this trait (choose when you gain the trait).
+
+=== Protective Wings ===
+You can manifest protective wings that can shield you or others. When you or another creature you can see within 5 feet of you is hit by an attack roll, you can use your reaction to manifest spectral wings from your back for a moment. You grant a bonus to the target’s AC equal to your proficiency bonus against that attack roll, potentially causing it to miss. You can use this reaction a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
+
+=== Metallic Breath Weapon ===
+When you take the Attack action on your turn, you can replace one of your attacks with an exhalation in a 15-foot cone. The save DC for this breath is 8 + your Constitution modifier + your proficiency bonus. Whenever you use this trait, choose one of the following options:
+
+ * *Enervating Breath.* Each creature in the cone must succeed on a Constitution saving throw or become [[Conditions#Incapacitated|Incapacitated]] until the start of your next turn.
+ * *Repulsion Breath.* Each creature in the cone must succeed on a Strength saving throw or be pushed 20 feet away from you and be knocked [[Conditions#Prone|Prone]].
+ * *Slowing Breath.* Each creature in the cone must succeed on a Constitution saving throw or become [[Conditions#Slowed|Slowed]] until the start of your next turn.
+ * *Weakening Breath.* Each creature in the cone must succeed on a Strength saving throw or become [[Conditions#Disadvantaged|Disadvantaged]] on Strength tests until the start of your next turn.
+
+=== Psionic Mind ===
+You can send telepathic messages to any creature you can see within 30 feet of you. You don’t need to share a language with the creature for it to understand these messages, but it must be able to understand at least one language to comprehend them.
+
+=== Telekinetic Reprisal ===
+When you take damage from a creature that is within 10 feet of you, you can use your reaction to emanate telekinetic energy. The creature that dealt damage to you must make a Strength saving throw.  The DC for this test equals 8 + your Proficiency Bonus + Intelligence, Wisdom, or Charisma modifier (which you choose when you pick up this trait).  On a failed save, the creature takes 2d8 force damage and is pushed up to 10 feet away from you. On a successful save, the creature takes half as much damage and isn’t pushed. You can use this reaction a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
+
+=== Gem Flight ===
+You can use a Bonus Action to manifest spectral wings on your body. These wings last for 1 minute. For the duration, you gain a flying speed equal to your walking speed and can hover. Once you use this trait, you can’t do so again until you finish a long rest.
+
+== Dragonborn of Many Worlds ==
+Like dragons, dragonborn have a mystical bond to the Material Plane and are spread across its many worlds.
+
+On some worlds, the earliest dragonborn settlements were built near dragon lairs so that the dragonborn could pay tribute to their draconic progenitors. Many of these ancient settlements still exist. For example, the dragonruled continent of Argonnessen (on the world of Eberron) has dragonborn cities tucked among its mountain ranges.
+
+On other worlds, dragonborn ply their skills in settlements populated mostly by nondragonborn, fulfilling an urge to expand their presence and influence, much as dragons do.

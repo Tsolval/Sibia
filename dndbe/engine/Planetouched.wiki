@@ -1,0 +1,5 @@
+= Planetouched =
+A creature or object that is planetouched was affected by the essence of another plane of existence.  This causes the planetouched to display properties of the plane in question.
+There are multiple examples of how interacting with another plane of existence might alter a creature.
+  * Elves are fey who are planetouched by the mundane plane.
+  * Genasi, Aasimar, and Tieflings are humans planetouched by elemental, celestial, and fiendish planes, respectively.

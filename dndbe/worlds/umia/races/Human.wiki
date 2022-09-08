@@ -1,0 +1,99 @@
+= Human =
+It is said that some races can be summed up with a single word.  If this is the case, then I think the word that best describes humans is "Strive."  
+Humans strive against the world.  They strive against oppression and tyranny as equally as they strive against peace and harmony.  They strive against the other races - both older and younger - and they strive against themselves.  They strive both for and against their gods and they strive to live as well as to die.
+
+== A Diverse Species ==
+With their penchant for migration and conquest, humans are more physically diverse than other common races. There is no typical human. An individual can stand from as little as 50 cm (about 20 inches) to a little nearly 9 feet tall and weigh anywhere from 2 kg (about 4 lbs) to 442 kg (about 974 lbs). Human skin tones range from reds to blues and can have shades from striking blacks to very pale, alabaster whites. Their hair can also vary widely in color with individuals commonly having several shaeds of black, brown, auburn, blonde, red, silver, grey, and even blue hair, which may be naturally curly, kinky, straight or missing. Nearly all humans have hair all over their bodies, but it grows thickest on the tops of their heads, under their arms, and between their legs.  Some, usually males, can also grow thick facial hair, as well. A lot of humans have a dash of nonhuman blood, revealing hints of elf, orc, or other lineages - sometimes quite exotic. Humans reach adulthood in their late teens and rarely live even a single century.
+
+== Variety in All Things ==
+Humans are the most adaptable people among the common races, and this axiom also applies to their ambitions. Some tribes are content to live out their nomadic existence, taking what they need from the land and then moving on.  Still others play the role of scavengers, taking what they want from whomever crosses their path - by force if necessary.  More often, though, the humans settle.  And when they settle, they stay. They build great, sprawling cities which they join together to form and massive kingdoms which they then expand across contenient and century.  An individual human might have a relatively short life span, but a human nation or culture preserves traditions with origins far beyond the reach of any single human’s memory. They live fully in the present - which makes them well suited to the adventuring life - but also plan for the future, striving to leave a lasting legacy. Individually and as a group, humans are adaptable opportunists, and they stay alert to changing political and social dynamics.
+
+== Lasting Institutions ==
+Where a single elf or dwarf might take on the responsibility of guarding a special location or a powerful secret, humans found sacred orders and institutions for such purposes. While dwarf clans and halfling elders pass on the ancient traditions to each new generation, human temples, governments, libraries, and codes of law fix their traditions in the bedrock of history. Humans dream of immortality, but (except for those few who seek undeath or divine ascension to escape death’s clutches) they achieve it by ensuring that they will be remembered when they are gone.
+
+Although some humans can be xenophobic, in general their societies are inclusive. Human lands welcome large numbers of nonhumans compared to the proportion of humans who live in nonhuman lands.
+
+== Exemplars of Ambition ==
+Humans who seek adventure are the most daring and ambitious members of a daring and ambitious race. They seek to earn glory in the eyes of their fellows by amassing power, wealth, and fame. More than other people, humans champion causes rather than territories or groups.
+
+== Human Names and Ethnicities ==
+TODO: Generate nationality and sample names for world
+
+== Human Traits ==
+The following is true of your human character:
+
+=== Age ===
+Humans reach adulthood in their late teens and live less than a century.
+
+=== Size ===
+Humans vary widely in height and build. If you are less than 120 cm (about 4 ft), your size is small.  If you are larger than 240 cm (about 8 ft), your size is large.  These sizes are extremely rare, as most humans are Medium.
+| 1d100 | Size   | Average Height  | Average Weight    |
+|-------|--------|:---------------:|:-----------------:|
+| 1-4   | Small  | 116 cm (~3'10") | 18 kg (~40 lbs)   |
+| 5-99  | Medium | 169 cm (~5'5")  | 64 kg (~141 lbs)  |
+| 100   | Large  | 251 cm (~8'3")  | 190 kg (~419 lbs) |
+
+=== Speed ===
+Your base walking speed is 30 feet.
+
+=== Languages ===
+You can speak your native language.  If your Intelligence is 6 or above, you can also read and write your native language.
+
+Unless your DM tells you otherwise, you can write 'Common' in the place of your native toungue.  Common is a language abstraction which allows you to communicate with multiple races in a region, especially those that live, work, trade, or adventure together.  
+
+You will also likely know one other common language which is spoken by people or creatures that you deal with often.  These can include obscure dialects.  Humans are fond of sprinkling their speedch with words borrowed from other tongues: Orcish curses, Elvish musical expressions, Dwarvish military phrases, and so on.
+
+If your Intelligence is 10 or higher, you can also read and write this second language.
+
+== Racial Feats ==
+These feats are added to the feat pool for your character to choose from whenever you gain a level.  At first level, after you create your character and build your feat pool, you can choose 5 feats.
+
+=== Versatile ===
+*Requires:* Only available at level 1
+You gain three points that you can distribute among your ability scores.  You can add no more than 2 points to any one ability score.
+
+=== Versatile II ===
+*Requires:* Versatile
+Versatile gains an additional two points, for a total of 5.
+
+=== Versatile III ===
+*Requires:* Versatile II
+Versatile gains an additional two points, for a total of 6.
+
+=== Darkvision ===
+*Requires:* Planetouched or Bloodline feat
+You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.
+
+=== Trained ===
+You gain proficiency in one skill of your choice.
+
+=== Bloodline ===
+The blood of another race flows through you.  Choose from the following:
+| Bloodline | Benefit                                                                                                                |
+|-----------|------------------------------------------------------------------------------------------------------------------------|
+| Elf       | You have advantage on saving throws against being charmed and magic can't put you to sleep.                            |
+| Orc       | Once per long rest, when you are reduced to 0 hit points but not killed outright, you can drop to 1 hit point instead. |
+
+=== Planetouched ===
+  * Fey Touched (Rename to Planetouched: Fey)
+  * Shadow Touched (Rename to Planetouched: Shadow)
+
+=== Other Racial Feats ===
+  * Elven Accuracy: *Requires:* Bloodline: Elf
+  * Orcish Fury: *Requires:* Bloodline: Orc
+  * Prodigy
+  * Squat Nimbleness: *Requires:* Size: Small
+
+=== General Feats ===
+  * Athlete
+  * Dungeon Delver
+  * Durable
+  * Keen Mind
+  * Linguist
+  * Lucky
+  * Mobile
+  * Observant
+  * Resilient
+  * Telekinetic
+  * Telepathic
+  * Tough

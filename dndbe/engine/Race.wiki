@@ -1,0 +1,63 @@
+= Race =
+When you choose your character's Race, you determine whether your character is a member of the human race or of a fantastical race.  This section provides descriptions and rules for the following Race options: Human, Ardling, Dragonborn, Dwarf, Elf, Gnome, Halfling, Orc, and Tiefling.
+
+The description of each Race includes a section of game traits, which your character gains if you select that Race.  NPCs of the same ancestry don't necessarily have the same traits, as explained in the Monster Manual; the traits here pertain to player characters.
+
+== Creature Type ==
+Every creature in the game has a special tag in the rules that identifies their Creature Type, and Hybrid creatures have more than one Creature Type.  Most player characters are of type Humanoid.  These types do not have rules themselves, but some rules in the game affect creatures of certain types in different ways.  For example, the text of the Cure Wounds spell specifies that the spell does not work on a creature with the Construct type.  A creature can be affected by a game effect if it works on any of its creature types.
+
+See [[Creature Type]] for more information.
+
+== Size ==
+A character's Size determines the amount of space the character occupies.  Characters of most races are Medium or Small.  Certain rules affect creatures of various sizes differently.  The most important of these rules is that Small creatures have trouble wielding heavy weapons.
+
+See [[Creature Sizes]] for more information.
+
+== Speed ==
+Your Speed determines how far you can move when traveling and fighting.  See [[Movement]] for more information.
+
+== Life Span ==
+This represents the average life span for a member of your Race, assuming the dangers of adventure don't shorten it.
+
+== Special Traits ==
+Each Race provides special traits, which are a collection of abilities that characters gain from their ancestors.  By default, all Race options have a total of 8 points of special traits allotted to them.  In order to tailor their campaign to a less magical setting or to increase difficulty, a Dungeon Master could specify a lesser amount of points to allocate to your character.  By contrast, if a DM wanted to run a higher powered campaign, they could increase the number of points they allot and allow players to choose additional traits from a given list or from the Human Race's Special Traits.
+
+TODO:
+ * create additional Racial Traits based on various cultures. 
+ * update Inter-Racial block to allow selection from both parent races.
+
+== Children of Different Humanoid Kinds ==
+Thanks to the magical workings of the multiverse, Humanoids of different kinds sometimes have children together.  For example, folk who have a human parent and an orc or elf parent are particularly common.  Many other combinations are possible.  
+
+If you would like to play the child of such a wondrous pairing, choose two Race options that are Humanoid to represent your parents.  Determine which of those Race options provides your Size, Speed, and Racial Traits.  Then, with your DMs approval, you can choose to replace one or more of your chosen Racial Traits with traits from your other parent, so long as they result in the same point value.
+
+Once you have selected your Racial Traits, you can then mix and match visual characteristics - color, ear shape, and the like - of the two options.  For example, if your character has a halfling and a gnome parent, you might choose Halfling for your game traits, replace your Naturally Stealthy trait with the gnome's Darkvision trait, and then decide that your character has the pointed ears that are characteristic of a gnome.
+
+Finally, determine the average of the two option's Life Span traits to figure out how long your character might live.  For example, a child of a halfling and a gnome has an average life span of 288 years.
+
+== Racial Options ==
+[[races/Human|Human]]
+[[races/Ardling|Ardling]]
+[[races/Dragonborn|Dragonborn]]
+[[races/Dwarf|Dwarf]]
+[[races/Elf|Elf]]
+[[races/Gnome|Gnome]]
+[[races/Halfling|Halfling]]
+[[races/Orc|Orc]]
+[[races/Tiefling|Tiefling]]
+
+[[races/Piney|Piney]]
+Kijani
+Leshy
+Ursanon
+Leonin
+Kenku
+Harpy
+Centaur
+Yuan-ti
+Goliath
+Verbeeg
+Oni
+Elf
+Fairy
+Alesid

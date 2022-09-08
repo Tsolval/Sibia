@@ -1,0 +1,16 @@
+= The Dungeons & Dragons Game Engine =
+== Character Creation ==
+=== Phase 1 ===
+Do the following in any order to build your character's foundation.  Each choice you make in this phase will add feats to your feat pool, which you will be able to pull from in Phase 2.
+  * Generate Abilities
+  * Choose your [[Race]]
+  * Choose your Class
+  * Choose your Background
+
+=== Phase 2 ===
+The following steps will turn your zero into a hero!  Each step will build on the next, so take these in order. The real meat of your character will come in phase two of character creation, below.
+  1. Pick Your Feats 
+  2. Calculate Your Health
+
+== [[Conditions]] ==
+
