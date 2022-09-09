@@ -1,0 +1,22 @@
+= Spells =
+
+== The Source of Magic ==
+The universe is suffused with magic.  It is a field of potential energy, which we sometimes call 'The Weave', that pervades all things, vibrating in specific patterns to create the reality that we see, feel, and experience.  One who understands how to manipulate this energy, whether that knowledge is earned or stolen, can use it to change the very fabric of reality.
+
+== Magical Categories ==
+There are three major approaches to magic taken by practicioners of the art, Arcane, Divine, and Primal.
+
+=== Arcane ===
+This is, by far, the most popular method of learning magic.  Probably because it just takes a measure of logic and a bit of common sense to make it work by simply duplicating the specific sounds and gestures discovered by the magicians of old.  Wizards spend their entire lives studying the weave, learning the mathematics and geometry of it, playing with the sounds and gestures that trigger it, deepening their understanding and increasing their power.  Warlocks take an easier route to power, spending their time learning how to contact and construct deals with powerful beings to shortcut their way to the top.  Sorcerers, the savants of the magical world, are able to intuitively understand the weave they manipulate without the years of study.  Bards, perhaps to the surprise of no one, learn to manipulate the weave with song, speech, and dance.  There is a special magic in entertaining a crowd, after all.
+
+Artificiers, Bards, Sorcerers, Wizards, Warlocks and other Arcane spellcasters get their spells from the [[spells/arcane|Arcane Spells]] list.
+
+=== Divine ===
+Divine casters don't manipulate the weave themselves.  Instead, they have an in with the gods that they follow - or the ones that follow them.  A Cleric raises their god's emblem to the sky and beeseches the divine entity to intervene in the world on their behalf.  If their intentions and will are clear, the god or their servants will manipulate the weave in response.  A Paladin makes a Sacred Vow, which they follow without wavering.  Those dieties who wish that vow fulfilled will act to intervene on the Paladin's behalf.  If a Cleric loses faith in their god, their spells may no longer function, but a Paladin may anger every god and, so long as at least one supports the vow, the Paladin will maintain their power.  Betray the vow, however, and they are a Paladin no longer.
+
+Clerics and Paladins get their spells from the [[spells/divine|Divine Spells]] list.
+
+=== Primal ===
+Primal magic is all around us.  It is in the trees that sway in the breeze; it is in the movements of the animals; it is in the great storms that blow in from the sea; and it is in the earth that swallows buildings whole.  By observing and communing with nature, the Primal caster learns to manipulate the weave to reproduce wild and powerful effects.  Wielding primal magic is dangerous and requires patience, self-discipline, and foresight to keep it under control.  Failure to do so could cause fatal harm to the caster and those around them.  Druids delve deeply into the secrets of nature, learning to manipulate the weave as deftly as any Wizard, despite the latter's accusations of recklessness. Rangers walk the line between nature and civilization, using their physical and magical abilities to protect one from the other.  Barbarians embrace a Primal fury that empowers their every ability.
+
+Druids and Rangers, along with the occasional Barbarian, get their spells from the [[spells/primal|Primal Spells]] list.

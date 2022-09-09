@@ -9,8 +9,10 @@ Do the following in any order to build your character's foundation.  Each choice
 
 === Phase 2 ===
 The following steps will turn your zero into a hero!  Each step will build on the next, so take these in order. The real meat of your character will come in phase two of character creation, below.
-  1. Pick Your Feats 
+  1. Pick Your [[feats/index|Feats]] 
   2. Calculate Your Health
 
 == [[conditions|Conditions]] ==
 == [[playing-on-a-grid|Playing on a Grid]] ==
+== [[spells|Spells]] ==
+

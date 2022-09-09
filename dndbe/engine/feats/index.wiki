@@ -1,0 +1,28 @@
+= Feats =
+This section offers a collection of 1st-level Feats, which are special features not tied to a single Class. At 1st level, your character gains a Feat from the character’s Background.
+
+== Parts of a Feat ==
+The description of a Feat contains the following parts, which are presented after the Feat’s name:
+
+*Level.* Each Feat has a level. To take a Feat, your level must equal or exceed the Feat’s level.
+
+*Prerequisite.* You must meet any prerequisite specified in a Feat to take that Feat. If you lose a Feat’s prerequisite, you can’t use that Feat until you regain the prerequisite.
+
+*Repeatable.* If a Feat is repeatable, you can take it more than once. If it isn’t repeatable, you can take the Feat only once.
+
+= Feat List =
+
+| Name            | Level | Prerequisite | Repeatable | Summary             |
+|-----------------|-------|--------------|------------|---------------------|
+| Alert           | 1     | N            | N          | Initiative          |
+| Crafter         | 1     | N            | N          | Crafting, Trading   |
+| Healer          | 1     | N            | N          | Healing             |
+| Lucky           | 1     | N            | N          | Luck                |
+| Magic Initiate  | 1     | N            | Y          | Magic               |
+| Musician        | 1     | N            | N          | Musical Inspiration |
+| Savage Attacker | 1     | N            | N          | Damage              |
+| Skilled         | 1     | N            | Y          | Skills              |
+| Tavern Brawler  | 1     | N            | N          | Unarmed Combat      |
+| Tough           | 1     | N            | N          | Hit Points          |
+
+
