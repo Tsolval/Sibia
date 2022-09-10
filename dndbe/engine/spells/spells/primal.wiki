@@ -1,0 +1,33 @@
+= Primal Spells = 
+== 0-Level Spells (Cantrips) ==
+Druidcraft
+Guidance
+Mending
+Message
+Poison Spray
+Produce Flame
+Resistance
+Shillelagh
+Spare the Dying
+Thorn Whip
+
+== 1st-Level Spells ==
+Animal Friendship
+Create or Destroy Water
+Cure Wounds
+Detect Magic
+Detect Poison and Disease
+Ensnaring Strike
+Entangle
+Faerie Fire
+Fog Cloud
+Goodberry
+Hail of Thorns
+Healing Word
+Hunter’s Mark
+Jump
+Longstrider
+Purify Food and Drink
+Speak with Animals
+Thunderwave
+

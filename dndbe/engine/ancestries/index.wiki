@@ -1,6 +1,6 @@
 = Character Ancestry =
 When you choose your character's Ancestry, you determine whether your character is a member of the human race or of a fantastical race.  This section provides descriptions and rules for the following Ancestry options:
-[[human|Human]], [[ardling|Ardling]], [[dragonborn|Dragonborn]], [[dwarf|Dwarf]], [[elf|Elf]], [[gnome|Gnome]], [[halfling|Halfling]], [[orc|Orc]], [[tiefling|Tiefling]], [[piney|Piney]], [[kijani|Kijani]], [[leshy|Leshy]]
+[[human|Human]], [[ardling|Ardling]], [[dragonborn|Dragonborn]], [[dwarf|Dwarf]], [[elf|Elf]], [[gnome|Gnome]], [[halfling|Halfling]], [[orc|Orc]], [[tiefling|Tiefling]]
 
 The description of each Ancestry includes a section of game traits, which your character gains if you select that Ancestry.  NPCs of the same ancestry don't necessarily have the same traits, as explained in the Monster Manual; the traits here pertain to player characters.
 
@@ -37,7 +37,8 @@ Once you have selected your Racial Traits, you can then mix and match visual cha
 
 Finally, determine the average of the two option's Life Span traits to figure out how long your character might live.  For example, a child of a halfling and a gnome has an average life span of 288 years.
 
-== Ancestry Options ==
+== Ancestry in the Multiverse ==
+=== Umia ===
 [[human|Human]]
 [[ardling|Ardling]]
 [[dragonborn|Dragonborn]]

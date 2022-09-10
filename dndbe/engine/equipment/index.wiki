@@ -1,0 +1,11 @@
+= Equipment =
+
+== Artisan's Tools ==
+Artisan's Tools are a category of tool with which a character can gain Tool Proficiency.  For a list of Artisan's Tools, see the 2014 Player's Handbook, but ignore the prices there; those tools now cost 15 GP each.
+
+== Gaming Sets ==
+Gaming Sets are a category of tool with which a character can gain Tool Proficiency. For a list of Gaming Sets, see the 2014 Player’s Handbook, but ignore the prices there; those sets now cost 1 GP each.
+
+== Musical Instruments ==
+Musical Instruments are a category of tool with which a character can gain Tool Proficiency. For a list of Musical Instruments, see the 2014 Player’s Handbook, but ignore the prices there; those instruments now cost 20 GP each.
+

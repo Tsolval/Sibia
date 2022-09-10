@@ -1,0 +1,8 @@
+= Tough =
+_1st Level Feat_
+
+*Prerequisite:* None
+*Repeatable:* No
+
+Your Hit Point Maximum increases by an amount equal to twice your character level when you gain this Feat. Whenever you gain a level thereafter, your Hit Point Maximum increases by an additional 2 Hit Points.
+

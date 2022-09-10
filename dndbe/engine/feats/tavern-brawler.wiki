@@ -1,0 +1,16 @@
+= Tavern Brawler =
+_1st Level Feat_
+
+*Prerequisite:* None
+*Repeatable:* No
+
+Accustomed to brawling, you gain the following benefits:
+
+*Enhanced Unarmed Strike.* When you hit with your Unarmed Strike* and deal damage, you can deal Bludgeoning Damage equal to 1d4 + your Strength modifier, instead of the normal damage of an Unarmed Strike.
+
+*Damage Rerolls.* Whenever you roll a damage die for your Unarmed Strike, you can reroll the die if it rolls a 1, and you must use the new roll. 
+
+*Shove.* When you hit a creature with an Unarmed Strike as part of the Attack Action on your turn, you can deal damage to the target and also push it 5 feet away. You can use this benefit only once per turn.
+
+*Furniture as Weapons.* You can wield furniture as a Weapon, using the rules of the Greatclub for Small or Medium furniture and the rules of the Club for Tiny furniture.
+

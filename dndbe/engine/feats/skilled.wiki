@@ -1,0 +1,8 @@
+= Skilled =
+_1st Level Feat_
+
+*Prerequisite:* None
+*Repeatable:* Yes
+
+You have exceptionally broad learning. Choose three Skills in which you lack Proficiency. You gain Proficiency in those Skills.
+

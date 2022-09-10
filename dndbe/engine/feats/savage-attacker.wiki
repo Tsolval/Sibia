@@ -1,0 +1,8 @@
+= Savage Attacker =
+_1st Level Feat_
+
+*Prerequisite:* None
+*Repeatable:* No
+
+You have trained to deal particularly damaging strikes. When you take the Attack Action and hit a target with a Weapon as part of that Action, you can roll the Weapon’s damage dice twice and use either roll against the target. You can use this benefit only once per turn.
+

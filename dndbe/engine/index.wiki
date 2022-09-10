@@ -14,5 +14,5 @@ The following steps will turn your zero into a hero!  Each step will build on th
 
 == [[conditions|Conditions]] ==
 == [[playing-on-a-grid|Playing on a Grid]] ==
-== [[spells|Spells]] ==
-
+== [[spells/index|Spells]] ==
+== [[equipment/index|Equipment]] ==

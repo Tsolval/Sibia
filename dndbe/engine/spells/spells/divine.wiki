@@ -1,0 +1,31 @@
+= Divine Spells =
+== 0-Level Spells (Cantrips) ==
+Guidance
+Light
+Resistance
+Sacred Flame
+Spare the Dying
+Thaumaturgy
+
+== 1st-Level Spells ==
+Bane
+Bless
+Command
+Compelled Duel
+Cure Wounds
+Detect Evil and Good
+Detect Magic
+Detect Poison and Disease
+Divine Favor
+Guiding Bolt
+Healing Word
+Heroism
+Inflict Wounds
+Protection from Evil and Good
+Purify Food and Drink
+Sanctuary
+Searing Smite
+Shield of Faith
+Thunderous Smite
+Wrathful Smite
+

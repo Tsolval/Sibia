@@ -1,0 +1,57 @@
+= Arcane Spells =
+== 0-Level Spells (Cantrips) ==
+Acid Splash
+Blade Ward
+Chill Touch
+Dancing Lights
+Fire Bolt
+Friends
+Light
+Mage Hand
+Mending
+Message
+Minor Illusion
+Poison Spray
+Prestidigitation
+Ray of Frost
+Shocking Grasp
+True Strike
+Vicious Mockery
+
+== 1st-Level Spells ==
+Alarm
+Armor of Agathys
+Arms of Hadar
+Burning Hands
+Charm Person
+Chromatic Orb
+Color Spray
+Comprehend Languages
+Detect Magic
+Disguise Self
+Dissonant Whispers
+Expeditious Retreat
+False Life
+Feather Fall
+Find Familiar
+Fog Cloud
+Grease
+Hellish Rebuke
+Hex
+Identify
+Illusory Script
+Jump
+Longstrider
+Mage Armor
+Magic Missile
+Protection from Evil and Good
+Ray of Sickness
+Shield
+Silent Image
+Sleep
+Tasha’s Hideous Laughter
+Tenser’s Floating Disk
+Thunderwave
+Unseen Servant
+Witch Bolt
+

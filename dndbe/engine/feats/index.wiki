@@ -12,17 +12,17 @@ The description of a Feat contains the following parts, which are presented afte
 
 = Feat List =
 
-| Name            | Level | Prerequisite | Repeatable | Summary             |
-|-----------------|-------|--------------|------------|---------------------|
-| Alert           | 1     | N            | N          | Initiative          |
-| Crafter         | 1     | N            | N          | Crafting, Trading   |
-| Healer          | 1     | N            | N          | Healing             |
-| Lucky           | 1     | N            | N          | Luck                |
-| Magic Initiate  | 1     | N            | Y          | Magic               |
-| Musician        | 1     | N            | N          | Musical Inspiration |
-| Savage Attacker | 1     | N            | N          | Damage              |
-| Skilled         | 1     | N            | Y          | Skills              |
-| Tavern Brawler  | 1     | N            | N          | Unarmed Combat      |
-| Tough           | 1     | N            | N          | Hit Points          |
+| Name                                | Level | Prerequisite | Repeatable | Summary             |
+|-------------------------------------|-------|--------------|------------|---------------------|
+| [[alert|Alert]]                     | 1     | N            | N          | Initiative          |
+| [[crafter|Crafter]]                 | 1     | N            | N          | Crafting, Trading   |
+| [[healer|Healer]]                   | 1     | N            | N          | Healing             |
+| [[lucky|Lucky]]                     | 1     | N            | N          | Luck                |
+| [[magic-initiate|Magic Initiate]]   | 1     | N            | Y          | Magic               |
+| [[musician|Musician]]               | 1     | N            | N          | Musical Inspiration |
+| [[savage-attacker|Savage Attacker]] | 1     | N            | N          | Damage              |
+| [[skilled|Skilled]]                 | 1     | N            | Y          | Skills              |
+| [[tavern-brawler|Tavern Brawler]]   | 1     | N            | N          | Unarmed Combat      |
+| [[tough|Tough]]                     | 1     | N            | N          | Hit Points          |
 
 
