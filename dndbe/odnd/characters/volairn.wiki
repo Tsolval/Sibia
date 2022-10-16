@@ -1,0 +1,107 @@
+= Volairn =
+_Elven Ranger, Guide_
+Volairn makes his home in the woods and plains surrounding the Elven lands and acts as a guide to those who need to move expeditiously through the dangers they present.
+
+*Level:* [1]      *Proficiency Bonus:* [+2]
+
+== Conditions & Characteristics ==
+*Hit Points:* [Max: 13, Current: 13, Temporary: 0]      *Initiative:* +4
+*Hit Dice:* [Size: d10, Max: 1, Current: 1]             *Armor Class:* 16
+
+| ATTR | STR | DEX | CON | INT | WIS | CHA |      
+|-----:|----:|----:|----:|----:|----:|----:|      
+| STAT |  14 |  18 |  16 |  12 |  18 |  12 |
+|  MOD |  +2 |  +4 |  +3 |  +1 |  +4 |  +1 |
+| SAVE |  +4 |  +6 |     |     |     |     |
+
+[-][STR] Athletics        [ ][INT] Arcana         [ ][WIS] Animal Handling  [ ][CHA] Deception
+[ ][DEX] Acrobatics       [ ][INT] History        [ ][WIS] Insight          [ ][CHA] Intimidation
+[ ][DEX] Sleight of Hand  [-][INT] Investigation  [ ][WIS] Medicine         [ ][CHA] Performance
+[+][DEX] Stealth          [ ][INT] Nature         [+][WIS] Perception       [ ][CHA] Persuasion
+                          [ ][INT] Religion       [-][WIS] Survival
+
+[-] Cartographer's Tools
+
+=== Weapons & Armor ===
+Simple, Martial, Light, Medium, Shields
+
+=== Languages ===
+Common, Elvish, Orc
+
+== Features and Traits ==
+*Creature Type.* [Wood Elf] Humanoid
+*Size.* [Wood Elf] Medium
+*Speed.* [Wood Elf] 30 feet + 5 feet (Elven Lineage, Wood Elf)
+*Life Span.* [Wood Elf] ~750 years
+*Darkvision.* [Wood Elf] 60 feet
+*Elven Lineage.* [Wood Elf] Grants additional speed, and spells at 1st, 3rd, 5th levels
+*Fey Ancestry.* [Wood Elf] Advantage on Saving Throws to avoid or end the Charmed Condition on yourself.
+*Trance.* [Wood Elf] You don't need to sleep, and magic can't put you to sleep.  You can finish a Long Rest in 4 hours of meditation.
+*Initiative Proficiency.* [Guide][Alert] When you roll Initiative, you can add your Proficiency Bonus to the roll.
+*Initiative Swap.* [Guide][Alert] Immediately after you roll Initiative, you can swap your Initiative with the Initiative of one willing ally in the same combat.  You can't make this swap if you or the ally is Incapacitated.
+*Favored Enemy.* Hunter's Mark is a class spell.  You do not have to concentrate on it once you cast it.  It lasts the full duration, until you end it as a Bonus Action, or until you are Incapacitated.
+*Spellcasting.* When you finish a Long Rest, you can prepare spells from the Primal Spell list from any School except Evocation. Wisdom is your Spellcasting Ability, and you can use a Druidic Focus for your Ranger spells.
+
+Race: Wood Elf, Background: Guide, Feat: Alert, Class Ranger
+Level 1: {Expertise, Favored Enemy, Spellcasting}
+
+== Equipment ==
+*Coins:* 35 gp
+*Gems:* None
+*Items:*
+|  QTY | Item                         |     Weight |     Cost |
+|-----:|------------------------------|-----------:|---------:|
+|    1 | Studded Leather Armor        |      13 lb |    45 gp |
+|    1 | Shield                       |       6 lb |    10 gp |
+|    1 | Longbow                      |       2 lb |    50 gp |
+|    1 | Quiver                       |       1 lb |     1 gp |
+|   20 | Arrows                       |       1 lb |     1 gp |
+|    1 | Shortsword                   |       2 lb |    10 gp |
+|    1 | Club                         |       2 lb |     1 sp |
+|    1 | Dagger                       |       1 lb |     2 gp |
+|    1 | Traveler's Clothes           |       4 lb |     2 gp |
+|    1 | Bedroll                      |       7 lb |     1 gp |
+|    1 | Fishing Tackle               |       4 lb |     1 gp |
+|    1 | Cartographer's Tools         |       6 lb |    15 gp |
+|    1 | Backpack                     |       5 lb |     2 gp |
+|    1 | Mess Kit                     |       1 lb |     2 sp |
+|    1 | Tinderbox                    |       1 lb |     5 sp |
+|    2 | Rations                      |       4 lb |     1 gp |
+|    1 | Waterskin                    |       5 lb |     2 sp |
+|    1 | Rope, Hempen (50 ft)         |      10 lb |     1 gp |
+|    1 | Sprig of mistletoe           |       0 lb |     1 gp |
+|    1 | Bell                         |       0 lb |     1 gp |
+|   20 | Caltrops, Bag of             |       2 lb |     1 gp |
+|    1 | Case, map                    |       1 lb |     1 gp |
+|    1 | Hunting Trap                 |      25 lb |     5 gp |
+|    1 | Lantern, hooded              |       2 lb |     5 gp |
+|    1 | Mirror, steel                |     0.5 lb |     5 gp |
+|    1 | Flask, oil                   |       1 lb |     1 sp |
+|    1 | Whetstone                    |       1 lb |     1 cp |
+|    1 | Whistle, signal              |       0 lb |     5 cp |
+|    4 | Sack                         |       2 lb |     4 cp |
+|    1 | Hammer                       |       3 lb |     1 gp |
+|    4 | Piton                        |       1 lb |     2 sp |
+|    1 | Parchment                    |       0 lb |     2 sp |
+|    1 | Pouch                        |       1 lb |     5 sp |
+|   10 | Spikes, iron                 |       5 lb |     1 gp |
+|    1 | whistle of gold-colored wood |       0 lb |        - |
+|------|------------------------------|------------|----------|
+| *90* | TOTALS                       | *119.5 lb* | *165 gp* |
+
+== Spells ==
+*Spell Slots.* 0:[ ][ ], 1:[ ][ ]
+
+=== Level 0 ===
+*Druidcraft.* [A][30ft][V,S] Predict tomorrow's weather, bloom a plant, create a harmless sensory effect in a 5 ft cube, light or extinguish a flame. 
+*Thorn Whip.* [A][30ft][V,S,M(stem of a plant with thorns)] Melee spell attack against a creature within range, pulling a Large or smaller creature up to 10 ft toward you on a hit and doing 1d6 piercing damage.
+*Shillelagh.* [BA,1m][V,S,M*(mistletoe, shamrock leaf, and club or quarterstaff)] Transmute a club or quaterstaff for 1 minute, making it a magical weapon dealing d8 bludgeoning and using Strength or Wisdom (my choice) for the attack or damage rolls. The spell ends if you cast it again or let go of the weapon.
+
+=== Level 1 ===
+*Ensnaring Strike.* [BA,C,1m][V] The next time you hit a creature with a weapon attack before this spell ends, the target must succeed on a Strength saving throw or be Restrained by magical vines.  Creatures larger than Medium have advantage on the save.  A Restrained target takes 1d6 piercing damage at the start of each of its turns.  A creature can use its Action to make a Strength check against your Spell Save DC to free the target.  The spell ends when you lose concentration or it no longer Restrains a creature.
+*Healing Word.* [BA][60ft][V] Heal a creature of your choice within range for 1d4 + your Wisdom modifier.  This spell has no effect on Undead or Constructs.
+*Hunter's Mark.* [BA,1h][90ft][V] You have advantage on any Wisdom (Perception) or Wisom (Survival) check you make to find the target and you deal an extra 1d6 damage to it whenever you hit it with a weapon attack.  If the target drops to 0 hit points before this spell ends, you can use a bonus action to mark a new creature.
+
+Longstrider (Elven Lineage, Wood Elf [3rd level])
+Pass Without Trace (Elven Lineage, Wood Elf [5th level])
+

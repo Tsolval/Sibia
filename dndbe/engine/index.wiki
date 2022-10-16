@@ -1,18 +1,43 @@
 = The Dungeons & Dragons Game Engine =
-== Character Creation ==
-=== Phase 1 ===
-Do the following in any order to build your character's foundation.  Each choice you make in this phase will add feats to your feat pool, which you will be able to pull from in Phase 2.
-  * Generate Abilities
-  * Choose your [[ancestries/index|Ancestry]]
-  * Choose your [[backgrounds/index|Background]]
-  * Choose your Class
+== The ABCs of Character Creation ==
+It's time you learn about the ABCs of character creation!  Each choice you make here will add feats to your feat pool, which you will be able to pull from as you level your character.
+  * 'A' is for [[ancestries/index|Ancestry]]
+  * 'B' is for [[backgrounds/index|Background]]
+  * 'C' is for [[classes/index|Class]]
+  * 's' is for Statistics 
 
-=== Phase 2 ===
-The following steps will turn your zero into a hero!  Each step will build on the next, so take these in order. The real meat of your character will come in phase two of character creation, below.
+=== Leveling Up ===
+The following steps will turn your zero into a hero!  The real meat of your character will come in phase two of character creation, below.
   1. Pick Your [[feats/index|Feats]] 
-  2. Calculate Your Health
 
 == [[conditions|Conditions]] ==
 == [[playing-on-a-grid|Playing on a Grid]] ==
 == [[spells/index|Spells]] ==
 == [[equipment/index|Equipment]] ==
+
+== Resource Die ==
+You have a Resource Die and a Resource Level.  Your resource value starts as the maximum face of your Resource Die.  When you use your resource, roll the die and potentially add the result to the resource effect.  If the result is lower than your current level, reduce the level.  If the result is maximum for that die, increase the value by one up to its max.  If the value is 1 and you roll a 1, you lose that resource, and may not call on it for the rest of the day.  Resource Die reset on a Long Rest.
+
+For example, the level 1 barbarian Ranik has a Rage Resource Die, which is a d4.  When he wakes up in the morning, having completed a long rest, he sets the resource value at 4, which is the maximum face of his d4.  As they adventure during the day, the rogue failed to open a door, so Ranik decides to break it down.  The DM asks him to make a DC 18 Strength (Athletics) check.  Ranik is proficient in that skill, but wants to make sure he succeeds to show up the arrogant rogue.  He decides to harness his Rage for this attempt.  He rolls his Strength (Athletics) check, (with advantage for raging), adds his Strength Modifier (+3) and Proficiency Bonus (+2), then rolls his Rage die and adds the value, getting a 15 on the d20 and a 2 on the d4, for a total of 22.  Because the result of his Rage die was a 2, which is less than his current value of 4, the Resource Level drains, becoming a 3.  
+
+On the other side of the door, a brace of goblins await, and Ranik engages them with the full fury of his Rage.  The following table shows the course of Ravik's Rage over the course of the fight.
+
+| Rage Level | Rage Die Roll | Result                                                                              |
+|:----------:|:-------------:|-------------------------------------------------------------------------------------|
+|     4      |       2       | Rarik breaks down the door, resulting in his rage level lowering.                   |
+|     3      |       1       | The Rage die rolls less that the current level, so the Level drops by 1.            |
+|     2      |       3       | Rage Die rolls equal to or greater than Level, so it remains at 2.                  |
+|     2      |       1       | The Rage die rolls less than the current level, so the Level drops by 1.            |
+|     1      |       4       | The Rage die roll is the maximum for that die, so the Level increases by 1.         |
+|     2      |       1       | The Rage die rolls less than the current level, so the Level drops by 1.            |
+|     1      |       2       | Rage Die rolls equal to or greater than Level, but not the max, so it remains at 1. |
+|     1      |       1       | Rage Die roll is 1, and the Value is 1, so Rarik's Rage subsides.                   |
+
+Rarik got a bit unlucky, and is already out of Rage for the day.  He will recover again after a Long Rest.
+
+
+== Resource Level ==
+A resource level is a number representing how much of a resource the character has remaining.  
+Health Levels, for instance.  When determining if a resource level decreases, make a saving throw against a DC.  If they succeed, the resource level remains the same.  If they fail, it decreases.
+
+For instance, a creature may have health levels instead of hit points.  When something does damage to it, the creature makes a Constitution Saving Throw versus the average damage of the attack.  On a success the creature loses no health, but on a failure they lose one health level.

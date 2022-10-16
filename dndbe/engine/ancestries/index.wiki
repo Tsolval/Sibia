@@ -27,6 +27,8 @@ Your character beings play knowing at least three [[../languages/index|Languages
 Each Ancestry provides racial traits, which are a collection of abilities that characters gain from their ancestors.  By default, all Ancestry options have a total of 8 points of racial traits allotted to them.  In order to tailor their campaign to a less magical setting or to increase difficulty, a Dungeon Master could specify a lesser amount of points to allocate to your character.  By contrast, if a DM wanted to run a higher powered campaign, they could increase the number of points they allot and allow players to choose additional traits from a given list or from the Human Ancestry's racial traits.
 
 TODO: create additional Racial Traits based on various cultures. 
+[[traits|Traits]]
+
 
 == Children of Different Humanoid Kinds ==
 Thanks to the magical workings of the multiverse, Humanoids of different kinds sometimes have children together.  For example, folk who have a human parent and an orc or elf parent are particularly common.  Many other combinations are possible.  

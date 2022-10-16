@@ -1,0 +1,83 @@
+= Fighter =
+Anyone can swing a sword or throw a punch.  We take peasants out of the streets every day and put them to work in the guard and the army.  Training them how to kill the enemy without killing themselves doesn't make these people fighters.  A Fighter has something special on their side.  They think tactically and they place their blades exactly where they are needed and with exactly the force required, no more.  A true Fighter can end a conflict without drawing a single drop of blood.
+
+== Creating a Fighter ==
+When you create your Fighter character, think about where they come from.  Where did they learn to fight?  Do they have a preferred weapon?  Are they working as a guard or in the army?  Are they fighting in underground tourneys or gladiator pits?  Or are they trying to leave that life behind?  
+
+When you build your Fighter, you should put your highest Ability Scores into Strength or Dexterity, depending on your weapon of choice, and Constitution.  Spellcasting Fighters might take their spellcasting ability as their second highest value instead.
+
+== Multiclassing ==
+You can take any class you want at 1st level, whether you qualify for it or not.  But in order to take levels in a different class, you must qualify for both your original class and the class you wish to take a level in. 
+
+To multiclass as a Fighter, you must have a Strength or Dexterity Score of at least 13.
+
+== The Fighter Table ==
+| Level | Proficiency Bonus | Features                | Tactics Die |
+|:-----:|:-----------------:|-------------------------|:-----------:|
+|  1st  |        +2         | Tactics, Fighting Style |     1d4     |
+|  2nd  |        +2         |                         |     1d4     |
+|  3rd  |        +2         |                         |     1d4     |
+|  4th  |        +2         |                         |     1d4     |
+|  5th  |        +3         |                         |     1d6     |
+|  6th  |        +3         |                         |     1d6     |
+|  7th  |        +3         |                         |     1d6     |
+|  8th  |        +3         |                         |     1d6     |
+|  9th  |        +4         |                         |     1d8     |
+| 10th  |        +4         |                         |     1d8     |
+| 11th  |        +4         |                         |     1d8     |
+| 12th  |        +4         |                         |     1d8     |
+| 14th  |        +5         |                         |    1d10     |
+| 15th  |        +5         |                         |    1d10     |
+| 16th  |        +5         |                         |    1d10     |
+| 17th  |        +6         |                         |    1d12     |
+| 18th  |        +6         |                         |    1d12     |
+| 19th  |        +6         |                         |    1d12     |
+| 20th  |        +6         |                         |    1d12     |
+
+== Class Features ==
+You gain the following features when you take up the Fighter Class.
+
+=== Hit Points ===
+*Hit Dice:* 1d10 per Fighter level
+*Hit Points at 1st Level:* 10 + Constitution modifier
+*Hit Points at Higher Levels:* 1d10 (6) + your Constitution Modifier per Fighter level after 1st.
+
+=== Proficiencies ===
+*Armor:* Heavy, Medium, Light, Shields
+*Weapons:* Martial, Simple
+*Tools:* None
+*Saving Throws:* Strength, Constitution
+*Skills:* Choose two skills from Acrobatics, Animal Handling, Athletics, History, Insight, Intimidation, Perception, and Survival
+
+=== Equipment ===
+You start with either 200 gold or your choices from the following equipment, in addition to the equipment granted by your background.
+
+ * chain mail                    or leather armor, longbow and 20 arrows
+ * a martial weapon and a shield or two martial weapons
+ * a light crossbow and 20 bolts or two handaxes
+ * a dungeoneer's pack           or an explorer's pack
+
+=== Tactics ===
+At level 1, you have a Tactics Resource Die which is a 1d4.  You also have an associated Resource Level which is equal to the largest face of the die, and which changes based on the result of your roll.  If you roll the highest face of your Resource Die, you increase the Resource Level by one, up to the die's maximum.  If the result of your Resource Die roll is less than or equal to your current Resource Level, you lose one Resource Level.  If your Resource Level is 1 and you lose a level, you lose the resource.  You will regain your Resource Die after you finish a Long Rest.
+
+As you grow in power as a Fighter, your Resource Die will grow with you, and you will gain other abilities that utilize your Tactics Resource Die as well.
+
+*Tactics DC.* The DC is 8 + your Proficiency Bonus + your Strength or Dexterity Modifier (your choice).
+
+You can use your Tactics Resource Die to perform the following actions.
+
+ * *Second Wind.* As a Bonus Action, you can expend one of your Hit Dice.  Roll it and your Resource Die.  You regain Hit Points equal to the sum of the two dice plus your Fighter level.
+ * *Trip.* When you hit a creature with a Weapon Attack, you can attempt to knock your target down.  Roll your Resource Die and add the result to your attack's damage roll.  If the target is no more than one size larger than you, it must make a Strength saving throw.  
+ * *Grapple.* When you hit a creature with a Weapon Atttack, you can attempt to grapple your target.  To do so, you must have at least one hand free and your target must be no more than one Size larger than you.  Roll your Tactics Resource Die and add the result to the damage of the attack.  The target is Grappled, and the grapple's escape DC is equal to your Tactics DC.
+ * *Shove.* When you hit a creature with a Weapon Attack, you can choose to either push the target 5 feet away or knock the target Prone.  This shove is only possible if the target is no more than one Size larger than you.  Roll your Tactics Resource die and add the result to the damage of your attack.
+
+=== Fighting Style ===
+Choose one of the following options.  You can't choose an option more than once, even if you get to choose again later.
+
+*Archery.* You gain a +2 bonus to attack rolls you make with ranged weapons.
+*Defense.* While you are wearing armor, you gain a +1 bonus to AC.
+*Dueling.* When you are wielding a melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon.
+*Great Weapon Fighting.* When you roll a 1 or 2 on a damage die for an attack you make with a Melee Weapon that you are wielding with two hands, you can reroll the die and must use the new roll, even if the new roll is a 1 or 2.  The weapon must have the two-handed or versatile property for you to gain this benefit.
+*Protection.* When a creature you can see attacks a target other than you that is within 5 feet of you, you can use your reaction to impose disadvantage on the attack roll.  You must be wielding a shield.
+*Two-Weapon Fighting.* When you engage in two-weapon fighting, you can add your ability modifier to the damage of the second attack.
+

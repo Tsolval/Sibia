@@ -1,0 +1,70 @@
+= Barbarian =
+When people think of Barbarians, they tend to think of big, dumb, lumps of muscle wielding great weapons and rushing heedlessly into combat.  And not without reason; there are certainly plenty of lunkheads that would rather rush to their death than be called cowardly.  But to be a barbarian - to be a True Barbarian - they must harness the Primal magics that flow within them, condense it into their Rage, and wield it against their enemies. 
+
+== Creating a Barbarian ==
+When you create your Barbarian character, think about where they come from.  Is your Barbarian from the wild outlands or do they make their living in the heart of the city?  Are you a soldier returning home from a great war?  Maybe you are a slave, raised from birth to fight in the gladiator's pits?  When you build your Barbarian, you should put your highest Ability Scores into Strength and Constitution.  
+
+== Multiclassing ==
+You can take any class you want at 1st level, whether you qualify for it or not.  But in order to take levels in a different class, you must qualify for both your original class and the class you wish to take a level in. 
+
+To multiclass as a Barbarian, you must have a Strength Score of at least 13.
+
+== The Barbarian Table ==
+| Level | Proficiency Bonus | Features                | Rage Die |
+|:-----:|:-----------------:|-------------------------|:--------:|
+|  1st  |        +2         | Rage, Unarmored Defense |   1d4    |
+|  2nd  |        +2         |                         |   1d4    |
+|  3rd  |        +2         |                         |   1d4    |
+|  4th  |        +2         |                         |   1d4    |
+|  5th  |        +3         |                         |   1d6    |
+|  6th  |        +3         |                         |   1d6    |
+|  7th  |        +3         |                         |   1d6    |
+|  8th  |        +3         |                         |   1d6    |
+|  9th  |        +4         |                         |   1d8    |
+| 10th  |        +4         |                         |   1d8    |
+| 11th  |        +4         |                         |   1d8    |
+| 12th  |        +4         |                         |   1d8    |
+| 13th  |        +5         |                         |   1d10   |
+| 14th  |        +5         |                         |   1d10   |
+| 15th  |        +5         |                         |   1d10   |
+| 16th  |        +5         |                         |   1d10   |
+| 17th  |        +6         |                         |   1d12   |
+| 18th  |        +6         |                         |   1d12   |
+| 19th  |        +6         |                         |   1d12   |
+| 20th  |        +6         |                         |   1d12   |
+
+== Class Features ==
+You gain the following features when you take up the Barbarian Class.
+
+=== Hit Points ===
+*Hit Dice:* 1d12 per Barbarian level
+*Hit Points at 1st Level:* 12 + Constitution modifier
+*Hit Points at Higher Levels:* 1d12 (7) + your Constitution Modifier per Barbarian level after 1st.
+
+=== Proficiencies ===
+Armor: Light, Medium, Shields
+Weapons: Simple, Martial
+Tools: None
+Saving Throws: Strength, Constitution
+Skills: Choose 2 from Animal Handling, Athletics, Intimidation, Nature, Perception, and Survival
+
+=== Equipment ===
+You start with your choice of 200 gold or your choices from the following equipment, in addition to the equipment granted by your background.
+
+ * a greataxe         or any martial melee weapon
+ * two handaxes       or any simple weapon
+ * an explorer's pack and four javelins
+
+=== Rage ===
+At level 1, you have a Rage Resource Die which is a 1d4.  You also have an associated Resource Level which is equal to the largest face of the die, and which changes based on the result of your roll.  If you roll the highest face of your Resource Die, you increase the Resource Level by one, up to the die's maximum.  If the result of your Resource Die roll is less than or equal to your current Resource Level, you lose one Resource Level.  If your Resource Level is 1 and you lose a level, you lose the resource.  You will regain your Resource Die after you finish a Long Rest.
+
+As you grow in power as a Barbarian, your Resource Die will grow with you, and you will gain other abilities that utilize your Rage Resource Die as well.
+
+You can use your Rage Resource Die to perform the following actions so long as you aren't wearing heavy armor.
+
+ * *Raging Blows.* When you take the Attack Action on your turn and hit with a Weapon Attack that uses your Strength, you can roll the Resource Die and add the result to your weapon damage.  
+ * *Raging Strength.* When you make a d20 Test involving Strength, you can roll your Resource Die and add the result to your d20 Test.
+ * *Raging Resistance.* As a reaction, which you take when you are hit by an Attack that deals Physical (Bludgeoning, Piercing, and/or Slashing) Damage, you can give yourself resistance Physical damage until the start of your next turn.  Roll your Rage Resource Die and subtract the result from the resisted damage of the triggering attack.
+
+=== Unarmored Defense ===
+While you are not wearing any armor, your Armor Class equals 10 + your Dexterity Modifier + your Constitution modifier.  You can use a shield and still gain this benefit.

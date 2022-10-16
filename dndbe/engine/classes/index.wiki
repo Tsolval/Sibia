@@ -1,0 +1,15 @@
+= Classes =
+Artificer
+[[barbarian|Barbarian]]
+Bard
+Cleric
+Druid
+[[fighter|Fighter]]
+[[monk|Monk]]
+Paladin
+Ranger
+Rogue
+Sorcerer
+Warlock
+Wizard
+

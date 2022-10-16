@@ -1,0 +1,77 @@
+= Arina Trickfoot =
+_Halfling Rogue, Urchin_
+In the city of Lastcross, a sizeable trading city that marks the edge of civilization, Arina moves confidently through the morning crowds. This is *her* town.  She greets old Nan Cluffwuddle warmly, subtly slapping a hand reaching toward her purse.  Wordlessly rebuffing the young cutpurse, she nods in the direction of a drunken lout making his way loudly out of a brothel, sending the young man toward a more worthy target.
+
+*Level:* [1]      *Proficiency Bonus:* [+2]
+
+== Conditions & Characteristics ==
+*Hit Points:* [Max: 12, Current: 12, Temporary: 0]      *Initiative:* +4
+*Hit Dice:* [Size: d8, Max: 1, Current: 1]              *Armor Class:* 16
+
+| ATTR | STR | DEX | CON | INT | WIS | CHA |      
+|-----:|----:|----:|----:|----:|----:|----:|      
+| STAT |  11 |  18 |  18 |  13 |  12 |  14 |
+|  MOD |  +0 |  +4 |  +4 |  +1 |  +1 |  +2 |
+| SAVE |     |  +6 |     |  +3 |     |     |
+
+[ ][STR] Athletics        [-][INT] Arcana         [ ][WIS] Animal Handling  [ ][CHA] Deception
+[-][DEX] Acrobatics       [ ][INT] History        [-][WIS] Insight          [ ][CHA] Intimidation
+[+][DEX] Sleight of Hand  [ ][INT] Investigation  [ ][WIS] Medicine         [ ][CHA] Performance
+[+][DEX] Stealth          [ ][INT] Nature         [ ][WIS] Perception       [-][CHA] Persuasion
+                          [ ][INT] Religion       [ ][WIS] Survival
+
+[-] Thieves' Tools
+
+== Weapons & Armor ==
+Simple, Martial weapons with Finesse, Light
+
+== Languages ==
+Common, Common Sign Language, Halfling, Thieves' Cant, Dwarven
+
+== Features & Traits ==
+*Creature Type.* [Halfling] Humanoid
+*Size.* [Halfling] Small
+*Speed.* [Halfling] 30 feet
+*Life Span.* [Halfling] ~150 years
+*Brave.* [Halfling] Advantage on Saving Throws to avoid or end the Frightened Condition on yourself.
+*Halfling Nimbleness.* [Halfling] Move through the space of any creature that is of a Size larger than yours, but can't stop there.  Moving through the space of another creature is difficult terrain.
+*Luck.* [Halfling] When you roll a 1 on a d20 Test, you can reroll the die, and you must use the new roll.
+*Naturally Stealthy.* [Halfling] You have Proficiency in the Stealth Skill.
+*Feat: Lucky.* You have a number of Luck Points equal to your Proficiency Bonus.  Immediately after you roll a d20 Test, or after a creature rolls a d20 for an attack roll against you, you can spend 1 Luck Point to give yourself Advantage or your attacker Disadvantage on the roll.  You regain all expended Luck Points when you finish a Long Rest.
+
+=== Level 1 ===
+*Sneak Attack.* Once on each of your turns, when you take the Attack Action with a Ranged or Finesse Weapon and you have Advantage on the attack or an Ally is within 5 feet of your target, that ally isn't Incapacitated, and you don't have Disadvantage on the Attack Roll, then roll {ceil(rogue level/2)}d6, and add the total to your weapon's damage.
+
+== Equipment ==
+*Coins:* 40 gp
+*Gems:* None
+*Items:*
+| QTY | Item                                 |  Cost | Weight |
+|----:|--------------------------------------|------:|-------:|
+|   3 | Dagger                               |  6 gp |   3 lb |
+|   1 | Rapier                               | 25 gp |   2 lb |
+|   1 | Sling                                |  1 sp |      - |
+|   1 | Studded leather armor                | 45 gp |  13 lb |
+|   1 | Clothes, common                      |  5 sp |   3 lb |
+|   1 | Pouch (bullets)                      |  5 sp |   1 lb |
+|  20 | Sling bullets                        |  4 cp | 1.5 lb |
+|   1 | Bag, ball bearings (1000)            |  1 gp |   2 lb |
+|   1 | Backpack                             |  1 gp |   5 lb |
+|   1 | Rope, hempen (50 feet)               |  1 gp |  10 lb |
+|   1 | Bedroll                              |  1 gp |   7 lb |
+|   1 | Thieves' Tools                       | 25 gp |   1 lb |
+|   1 | String (10 feet)                     |     - |      - |
+|   1 | Bell                                 |  1 gp |      - |
+|   5 | Candles                              |  5 cp |      - |
+|   1 | Crowbar                              |  2 gp |   5 lb |
+|   1 | Hammer                               |  1 gp |   3 lb |
+|  10 | Pitons                               |  5 sp | 2.5 lb |
+|   1 | Lantern, hooded                      |  5 gp |   2 lb |
+|   2 | Flask, oil                           |  2 sp |   2 lb |
+|   1 | Tinderbox                            |  5 sp |   1 lb |
+|   5 | Rations                              | 25 sp |  10 lb |
+|   1 | Waterskin                            |  2 sp |   5 lb |
+|   1 | Dice set                             |  1 gp |      - |
+|   1 | A scrap of cloth from an old banner. |     - |      - |
+
+

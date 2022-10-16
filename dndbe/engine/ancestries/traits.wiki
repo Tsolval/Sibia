@@ -1,0 +1,70 @@
+= Racial Feats =
+The feats listed here can be used for any race, though actual racial definitions will list the feats that they qualify for.  This list is part of the race system, while which race has access to each feat is part of the setting.
+
+== Parts of a Feat ==
+The description of each feat contains the following parts:
+
+=== Darkvision ===
+*Prerequisite:* Planetouched or Bloodline feat
+You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.
+
+=== Trained ===
+You gain proficiency in one skill of your choice.
+
+== Versatile ==
+*Level:* 1
+You gain three points that you can distribute among your ability scores.  You can add no more than 2 points to any one ability score.
+
+== Versatile II ==
+*Prerequisite:* Versatile
+Versatile gains an additional two points, for a total of 5.
+
+== Versatile III ==
+*Prerequisite:* Versatile II
+Versatile gains an additional two points, for a total of 6.
+
+== Bloodline ==
+The blood of another race flows through you.  Choose from the following:
+
+=== Bloodline: Elf ===
+*Level:* 1
+You have advantage on saving throws against being charmed and magic can't put you to sleep.
+
+=== Bloodline: Orc ===
+*Level:* 1
+Once per long rest, when you are reduced to 0 hit points but not killed outright, you can drop to 1 hit point instead.
+
+== Planetouched ==
+Your birth has been influenced by the power of another plane of existence.
+
+=== Planetouched: Fey ===
+Your exposure to the Feywild’s magic has changed you, granting you the following benefits:
+
+* Increase your Intelligence, Wisdom, or Charisma score by 1, to a maximum of 20. 
+* You learn the misty step spell and one 1st-level spell of your choice. The 1st-level spell must be from the divination or enchantment school of magic. You can cast each of these spells without expending a spell slot. Once you cast either of these spells in this way, you can’t cast that spell in this way again until you finish a long rest. You can also cast these spells using spell slots you have of the appropriate level. The spells’ spellcasting ability is the ability increased by this feat.
+
+=== Planetouched: Shadow ===
+Your exposure to the Shadowfell’s magic has changed you, granting you the following benefits:
+
+* Increase your Intelligence, Wisdom, or Charisma score by 1, to a maximum of 20.
+* You learn the invisibility spell and one 1st-level spell of your choice. The 1st-level spell must be from the illusion or necromancy school of magic. You can cast each of these spells without expending a spell slot. Once you cast either of these spells in this way, you can’t cast that spell in this way again until you finish a long rest. You can also cast these spells using spell slots you have of the appropriate level. The spells’ spellcasting ability is the ability increased by this feat.
+
+=== Other Racial Feats ===
+  * Elven Accuracy: *Requires:* Bloodline: Elf
+  * Orcish Fury: *Requires:* Bloodline: Orc
+  * Prodigy
+  * Squat Nimbleness: *Requires:* Size: Small
+
+=== General Feats ===
+  * Athlete
+  * Dungeon Delver
+  * Durable
+  * Keen Mind
+  * Linguist
+  * Lucky
+  * Mobile
+  * Observant
+  * Resilient
+  * Telekinetic
+  * Telepathic
+  * Tough
