@@ -1,0 +1,26 @@
+= Creature Sizes =
+A character's Size determines the amount of space the character occupies.  Characters of most Ancestries are Medium or Small.  Certain rules affect creatures of various sizes differently.  The most important of these rules is that Small creatures have trouble wielding heavy weapons.
+
+The following table describes the size categories, their rough sizes, and the rules that affect them.
+
+| Size       | Space     | Height          | Weight        | Reach       | Example                   | AC/Attack Mod | Grapple Mod | Hide Mod | Carrying Capacity |
+|------------|-----------|-----------------|---------------|-------------|---------------------------|---------------|-------------|----------|-------------------|
+| Fine       | 0.01 ft.² | up to 0.5 ft.   | up to 1/8 lb. | 0 ft.       | Cockroaches, Mice         | +8            | -16         | +16      | * 0.125           |
+| Diminutive | 0.04 ft.² | 0.5 ft. - 1 ft. | 1/8 - 1 lb.   | 0 ft.       | Rats, Squirrel            | +4            | -12         | +12      | * 0.25            |
+| Tiny       | 2.5 ft.²  | 1 ft. - 2 ft.   | 1 - 8 lbs.    | 0 ft.       | Foxes,  Racoons           | +2            | -8          | +8       | * 0.5             |
+| Small      | 5 ft.²    | 2 ft. - 4 ft.   | 8 - 60 lbs.   | 5 ft.       | Gnomes, Halflings         | +1            | -4          | +4       | * 0.75            |
+| Medium     | 5 ft.²    | 4 ft. - 8 ft.   | 60 - 500 lbs. | 5 ft.       | Dwarves, Goliaths         | +0            | +0          | +0       | * 1               |
+| Large      | 10 ft.²   | 8 ft. - 16 ft.  | 500 - 2 tons  | 5 - 10 ft.  | Centaur, Hill Giant       | -1            | +4          | -4       | * 2               |
+| Huge       | 15 ft.²   | 16 ft. - 32 ft. | 2 - 16 tons   | 10 - 15 ft. | Elephant, Killer Whale    | -2            | +8          | -8       | * 4               |
+| Gargantuan | 20 ft.²   | 32 ft. - 64 ft. | 16 - 125 tons | 15 - 20 ft. | Great Dragon, Sperm Whale | -4            | +12         | -12      | * 8               |
+| Colossal   | 30 ft.²   | 64 ft. and up   |               | 20 - 30 ft. | Tarrasque                 | -8            | +16         | -16      | * 16              |
+
+== Space ==
+A creature's space is the area in feet that it effectively controls in combat, not an expression of its physical dimensions. A typical Medium creature isn't 5 feet wide, for example, but it does control a space that wide. If a Medium hobgoblin stands in a 5‐foot-wide doorway, other creatures can't get through unless the hobgoblin lets them.
+
+A creature's space also reflects the area it needs to fight effectively. For that reason, there's a limit to the number of creatures that can surround another creature in combat. Assuming Medium combatants, eight creatures can fit in a 5-foot radius around another one.  A creature cannot attack if it shares its space with another creature unless one has mounted the other.
+
+Because larger creatures take up more space, fewer of them can surround a creature. If four Large creatures crowd around a Medium or smaller one, there's little room for anyone else. In contrast, as many as twenty Medium creatures can surround a Gargantuan one.
+
+A creature can squeeze through a space that is large enough for a creature one size smaller than it.  Thus, a Large creature can squeeze through a passage that is only 5 feet wide.  While squeezing through a space, a creature is [[../conditions#Slowed|Slowed]], and [[../conditions#Unsteady|Unsteady]].
+

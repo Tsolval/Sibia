@@ -1,34 +1,17 @@
 = Character Ancestry =
-When you choose your character's Ancestry, you determine whether your character is a member of the human race or of a fantastical race.  This section provides descriptions and rules for the following Ancestry options:
-[[human|Human]], [[ardling|Ardling]], [[dragonborn|Dragonborn]], [[dwarf|Dwarf]], [[elf|Elf]], [[gnome|Gnome]], [[halfling|Halfling]], [[orc|Orc]], [[tiefling|Tiefling]]
+When you choose your character's Ancestry, you determine whether your character is a member of the human race or of a fantastical race.  The description of each Ancestry includes a section of game traits, which your character gains if you select that Ancestry.  NPCs of the same ancestry don't necessarily have the same traits, as explained in the Monster Manual; the traits here are options for player characters.
 
-The description of each Ancestry includes a section of game traits, which your character gains if you select that Ancestry.  NPCs of the same ancestry don't necessarily have the same traits, as explained in the Monster Manual; the traits here pertain to player characters.
-
-== Creature Type ==
-Every creature in the game has a special tag in the rules that identifies their Creature Type, and Hybrid creatures have more than one Creature Type.  These types do not have rules themselves, but some rules in the game affect creatures of certain types in different ways.  For example, the text of the Cure Wounds spell specifies that the spell does not work on a creature with the Construct type.  A creature can be affected by a game effect if it works on any of its creature types.
-
-See [[creature-type|Creature Type]] for more information.
-
-== Size ==
-A character's Size determines the amount of space the character occupies.  Characters of most Ancestries are Medium or Small.  Certain rules affect creatures of various sizes differently.  The most important of these rules is that Small creatures have trouble wielding heavy weapons.
-
-See [[creature-sizes|Creature Sizes]] for more information.
-
-== Speed ==
-Your Speed determines how far you can move when traveling and fighting.  See [[Movement]] for more information.
-
-== Life Span ==
-This represents the average life span for a member of your Ancestry, assuming the dangers of adventure don't shorten it.
+ * [[creature-type|Creature Type]] - A Tag that identifies the Creature Type of your character.
+ * [[creature-size|Size]] - A tag that identifies the Size of your character.  Depending on your chosen Ancestry, you may get a choice.
+ * [[movement|Speed]] - A value, usually 30, that indicates the base Speed of your character.
+ * Life Span - A number that indicates the average life span of others from your Ancestry.
+ * [[../languages/index|Languages]] - Choose one language from the Standard languages table.  You know that language and Common.
 
 == Language ==
-Your character beings play knowing at least three [[../languages/index|Languages]].  You will know Common, one language you choose for your Ancestry, and one language you choose for your [[../backgrounds/index|Background]].  Whatever language you choose, think about why your character choose to spend time learning it.  Do they know goblin because they spent time trading with goblinoids?  Or was it because knowing that language helped to track and hunt their tribes.
+Your character begins play knowing at least three .  You will know Common, one language you choose for your Ancestry, and one language you choose for your [[../backgrounds/index|Background]].  Whatever language you choose, think about why your character choose to spend time learning it.  Do they know goblin because they spent time trading with goblinoids?  Or was it because knowing that language helped to track and hunt their tribes.
 
-== Racial Traits ==
-Each Ancestry provides racial traits, which are a collection of abilities that characters gain from their ancestors.  By default, all Ancestry options have a total of 8 points of racial traits allotted to them.  In order to tailor their campaign to a less magical setting or to increase difficulty, a Dungeon Master could specify a lesser amount of points to allocate to your character.  By contrast, if a DM wanted to run a higher powered campaign, they could increase the number of points they allot and allow players to choose additional traits from a given list or from the Human Ancestry's racial traits.
-
-TODO: create additional Racial Traits based on various cultures. 
-[[traits|Traits]]
-
+== Ancestral Traits ==
+Each Ancestry provides racial traits, which are a collection of abilities that characters gain from their ancestors by biology and culture.  By default, all Ancestry options have a total of 8 points of racial traits allotted to them.  In order to tailor their campaign to a less magical setting or to increase difficulty, a Dungeon Master could specify a lesser amount of points to allocate to your character.  By contrast, if a DM wanted to run a higher powered campaign, they could increase the number of points they allot and allow players to choose additional traits.
 
 == Children of Different Humanoid Kinds ==
 Thanks to the magical workings of the multiverse, Humanoids of different kinds sometimes have children together.  For example, folk who have a human parent and an orc or elf parent are particularly common.  Many other combinations are possible.  
@@ -40,6 +23,15 @@ Once you have selected your Racial Traits, you can then mix and match visual cha
 Finally, determine the average of the two option's Life Span traits to figure out how long your character might live.  For example, a child of a halfling and a gnome has an average life span of 288 years.
 
 == Ancestry in the Multiverse ==
+Ancestry can differ across different worlds of the Multiverse.  The elves of one realm may have different traits to choose from than those from another.  Your DM will provide you with your Ancestral traits.
+
+
+TODO: create additional Racial Traits based on various cultures. 
+[[traits|Traits]]
+
+This section provides descriptions and rules for the following Ancestry options:
+[[human|Human]], [[ardling|Ardling]], [[dragonborn|Dragonborn]], [[dwarf|Dwarf]], [[elf|Elf]], [[gnome|Gnome]], [[halfling|Halfling]], [[orc|Orc]], [[tiefling|Tiefling]]
+
 === Umia ===
 [[human|Human]]
 [[ardling|Ardling]]

@@ -1,53 +1,45 @@
 = Movement =
-Speed fuels a character's movement, determining how far your character can move when Adventuring and Fighting.  A creature's Speed is the distance in feet that it can walk in 1 round (6 seconds).  This number assumes short bursts of energetic movement in the midst of a life-threatening situation.  A creature may have multiple movement types, described below.
+When a creature Moves, it can go a distance up to its Speed, which represents how far a creature can move in short, adrenaline-driven bursts of movement.  It can also use its Speed to climb or swim, but if it does so, every foot the creature moves costs 1 extra point of Speed. A creature can also break up its Move, using some of its movement before and after any Action it takes on the same turn.  If it does so, its total distance moved must not exceed its Speed.  If a creature has multiattack, Extra Attack or any other feature that allows it to attack more than once, then it can move between attacks as well.
 
-On its turn, a creature can move a distance up to its speed, using as much or as little of its speed as it likes.  However you are moving, you deduct the distance of each part of your move from your speed until it is used up or until you are done moving.  
+Some creatures have special speeds, such as a Climb Speed, a Fly Speed, a Swim Speed, or a Burrow Speed. If a creature has more than one speed, it must choose which one to use each time it takes its Move.  If the creature takes more than on Move, such as with a Dash Action, it can choose to use the same speed for each move or different ones. 
 
-A creature can break up its movement on its turn, using some of its speed before and after its actions.  If it has a feature like mulitattack or extra attack, or makes more than one attack roll with a spell, it can move between attacks as well.
+== Burrow Speed ==
+A Burrow Speed can be used to move through sand, earth, mud or ice.  It can’t burrow through solid rock unless it has a special trait that allows it to do so.
 
-If a creature has more than one speed, such as a walking speed and a flying speed, it can switch back and forth between speeds during its move.  When doing so, subtract the distance it has already moved from the new speed.  The result determines how much farther you can move.  If the result is 0 or less, you cannot use the new speed during the move.  
+== Climb Speed ==
+A Climb Speed can be used to move on a vertical surface without expending the extra movement normally associated with climbing. A Climb Speed can also be used in any situation in which your Speed is usable.
+Some creatures have the Spider Climb trait, which allows their Climb Speed to work even on the underside of horizontal surfaces. 
 
-For example, a creature has a speed of Walk 30, Fly 60.  It starts its turn and flies 20 feet, then walks 10 feet.  It has moved a total of 30 feet and so cannot walk any further, but it can fly another 30 feet.
+== Fly Speed ==
+A Fly Speed can be used to move through the air. While you have a Fly Speed, you can stay aloft until you land, fall, or die.
+While flying, you fall if you are Incapacitated or Restrained. If you have the Hover trait, you can stay aloft even while Incapacitated or Restrained
 
-Types of movement are described below.
+== Swim Speed ==
+A Swim Speed can be used to move through a liquid without expending the extra movement normally associated with swimming.  A creature can't breath underwater unless it has a special trait that allows it to do so.
 
- * *Walk* - A creature's Walking speed determines how many feet it can move on its legs, tentacles, or other mobile appendages.  This speed limits the distance you can travel in a turn and can include jumping, climbing, and swimming movement.  Your Jump distance is limited by your strength, and if when Crawl, Climb or Swim using your Walk speed you are [[Conditions#Hindered|Hindered]].
- * *Swim* - A creature with a swimming speed has a natural ability to swim.  A creature's Swim speed is the number of feet that it can move through liquid in one round.
- * *Climb* - A creature with a climbing speed has a natural climbing ability.  A creature's Climb speed is the number of feet that it can move verticaly up walls, trees, cliffs, etc.  Some creatures, such as spiders, can seemingly defy gravity as they crawl across difficult terrain or the ceiling.  If a creature has this ability, it will be denoted as Climb (Cling).
- * *Fly* - A creature with a flying speed has wings, magic, or some other property which allows it to fly.  A creature's Fly speed is the number of feet that it can move through the air.  If a flying creature is knocked Prone, becomes [[Conditions#Immobile|Immobile]], or is otherwise deprived of the ability to move, the creature falls, unless it has the ability to Hover or is held aloft by magic, such as by the [[Spells#Fly|Fly]] spell.
- * *Burrow* - A creature with a burrowing speed has the ability to travel through the very earth.  A creature's Burrow speed is the number of feet it can move through the ground.
-
-At the DMs discretion, climbing a vertical surface that is slippery or has few handholds, or gaining any distance in rough water might require a successful Strength (Athletics) check.
-
-== Jumping ==
-Your Strength determines how far you can jump.
-
-=== Long Jump ===
-When you make a long jump, you cover a number of feet up to your Strength score if you move at least 10 feet on foot immediately before the jump. When you make a standing long jump, you can leap only half that distance. Either way, each foot you clear on the jump costs a foot of movement.
-
-This rule assumes that the height of your jump doesn't matter, such as a jump across a stream or chasm. At your DM's option, you must succeed on a DC 10 Strength (Athletics) or Dexterity (Acrobatics) check (DMs choice) to clear a low obstacle (no taller than a quarter of the jump's distance), such as a hedge or low wall. Otherwise, you hit it.
-
-When you land in difficult terrain, you must succeed on a DC 10 Dexterity (Acrobatics) check to land on your feet. Otherwise, you land prone.
-
-=== High Jump ===
-When you make a high jump, you leap into the air a number of feet equal to 3 + your Strength modifier (minimum of 0 feet) if you move at least 10 feet on foot immediately before the jump. When you make a standing high jump, you can jump only half that distance. Either way, each foot you clear on the jump costs a foot of movement. In some circumstances, your DM might allow you to make a Strength (Athletics) check to jump higher than you normally can.
-
-You can extend your arms half your height above yourself during the jump. Thus, you can reach above you a distance equal to the height of the jump plus 1 1/2 times your height.
+== Jump [Action] ==
+With the Jump Action, you attempt to leap more than 5 feet (a jump of 5 feet or less is treated as Difficult Terrain). When you take this Action, your Speed must be greater than 0, and you must make a DC 10 Strength Check (Acrobatics or Athletics). If you don’t Move at least 10 feet immediately before this Action, you have Disadvantage on the check.  On a failed check, you leap 5 feet horizontally or vertically. On a successful check, the check’s total determines the distance in feet that you can clear horizontally, or half that total if you’re jumping vertically (round down). This jump doesn’t expend your movement, but the distance you clear can’t exceed your Speed.
 
 == Difficult Terrain ==
-A creature moving through Difficult Terrain is [[Conditions#Hindered|Hindered]].  This is true even if multiple things in a space count as difficult terrain.  Some examples of difficult terrain are Low furniture, rubble, undergrowth, steep stairs, snow, shallow bogs, poisonous fumes, and the space of another creature (whether hostile or not).  Note that other movement effects stack with difficult terrain, so using your Speed to Crawl through difficult terrain will cost 2 feet of movement for every 1 foot gained, and doing so while Slowed will cost 3 feet of movement for every 1 foot moved.
+A creature moving through Difficult Terrain is [[../conditions#Hindered|Hindered]].  This is true even if multiple things in a space count as difficult terrain.  Some examples of difficult terrain are Low furniture, rubble, undergrowth, steep stairs, snow, shallow bogs, poisonous fumes, and the space of another creature (whether hostile or not).  Note that other movement effects stack with difficult terrain, so using your Speed to Crawl through difficult terrain will cost 2 feet of movement for every 1 foot gained, and doing so while Slowed will cost 3 feet of movement for every 1 foot moved.
+
+At the DMs discretion, climbing a vertical surface that is slippery or has few handholds, or gaining any distance in rough water might be Difficult Terrain, or it might require a successful Strength (Athletics) check to pass.
 
 == Being Prone ==
-Combatants often find themselves lying on the ground, either because they are knocked down or because they throw themselves down. In the game, they are [[Conditions#Prone|Prone]]. You can drop Prone without using any of your speed. Standing up from Prone costs 15 feet of movement.  You can't stand up if you don't have enough movement left or if your speed is 0.
+Combatants often find themselves lying on the ground, either because they are knocked down or because they throw themselves down. In the game, they are [[../conditions#Prone|Prone]]. You can drop Prone without using any of your speed. Standing up from Prone costs 15 feet of movement.  You can't stand up if you don't have enough movement left or if your speed is 0.
 
-To move while Prone, you must Crawl or use magic such as teleportation.
+Prone creatures are vulnerable to attackers within 5 feet, but are harder to hit from further away.
+
+To move while Prone, you must crawl or use magic such as teleportation.
+
+If a flying creature is knocked prone, then it will fall and take damage unless it can hover.    
 
 == Moving Around Other Creatures ==
-You can move through the space of a non-hostile creature.  In contrast, you can move through the space of a hostile creature only if that creature is two sizes larger or smaller than you.  Remember that any other creature's space is difficult terrain for you, whether hostile, non-hostile, alive, incapacitated, unconscious, or dead.  Whether a creature is friendly or hostile, you cannot willingly end your movement in its space.
+During its Move, a creature can pass through the space of an ally, an Incapacitated creature, or any creature that is two Sizes larger or smaller than it.  Another creature’s space is [[#Difficult Terrain|Difficult Terrain]].  A creature can’t willingly end its Move in a space occupied by another creature.
 
-If a creature is Mountable, it costs 15 feet of movement to mount the creature, at which point they may occupy the same space.
+An effect may throw you into another creature's space against your will.  If this happens, both creatures are knocked [[../conditions#Prone|Prone]].
 
-An effect may throw you into another creature's space against your will.  If this happens, both creatures are knocked [[Conditions#Prone|Prone]].
+If a creature is Mountable, it costs 15 feet of movement to mount the creature, at which point the two creatures may occupy the same space.  A creature may dismount with no movement cost, so long as there is an unoccupied space within 5 feet of their mount that they can occupy.
 
 == Travel Pace ==
 The following rules determine how far a creature can move in a minute, an hour, or a day.

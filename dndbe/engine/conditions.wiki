@@ -111,7 +111,7 @@ A Poisoned creature is [[#Impaired|Impaired]] and [[#Unsteady|Unsteady]]
 A Prepared creature has Advantage on Saving Throws.
 
 == Prone ==
-A Prone creature is lying on the ground. If it was above the ground when it was knocked prone, if it was flying for example, then it will fall and take damage unless it can hover or if it is held aloft by magic, such as the fly spell.  A Prone creature's only movement option is to Crawl unless it chooses to spend 15 foot of movement to stand up, thus ending the Prone condition.  
+A Prone creature is lying on the ground. If it was above the ground when it was knocked prone, if it was flying for example, then it will fall and take damage unless it can hover.  A Prone creature's only movement option is to crawl unless it chooses to spend 15 foot of movement to stand up, thus ending the Prone condition.  
 While Prone, a creature is [[#Unsteady|Unsteady]], [[#Vulnerable|Vulnerable]] to creatures above or within 5 feet of it, and [[#Braced|Braced]] against everyone else.
 
 == Resistant ==

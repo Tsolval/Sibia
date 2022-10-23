@@ -1,5 +1,7 @@
 = Languages =
-The Standard Languages table lists languages that are widespread on D&D worlds in the Material Plane, and the Rare Languages table lists languages that are more rarely known on those worlds. In each table, typical users of a language are mentioned.
+Your character begins play knowing at least three Languages.  You will know Common (or Common Sign Language), one language you choose for your [[../ancestries/index.wiki|Ancestry]], and one language you choose for your [[../backgrounds/index|Background]].  Whatever language you choose, think about how your character learned it.  Was it part of their culture?  Or did they go out of their way to learn this language?  If so, what drove them to do it?  Do they know goblin because they spent time trading with goblinoids?  Or was it because knowing that language helped to track and hunt their tribes.
+
+The Standard Languages table lists languages that are widespread on D&D worlds in the Material Plane, and the Rare Languages table lists languages that are more rarely known on those worlds.  In each table, typical users of a language are mentioned.
 
 Knowledge of a language means your character can communicate in that language and can read and write it.
 
@@ -37,5 +39,5 @@ Druids leave marks in the wilderness that would be easily overlooked by outsider
 
 Similarly, Rogues make marks on buildings that look like graffitti, but which those in the know recognize and clearly understand.  A marking that looks like an eye, for instance, may indicate guards on patrol in this area.
 
-Aberrations that use writing typically use other languages so that they can more easily bait the curious to move in the direction they choose, but if you come across any strange, otherworldly, static phenomena, like rifts spilling out with eldritch mucus and undulating tentacles, this could be a form of Aberrant writing.
+Aberrations that use writing typically use other languages so that they can more easily bait the curious to move in the direction they choose, but if you come across any strange, otherworldly, static phenomena, like rifts spilling out with eldritch mucus and undulating tentacles, this could be a form of Aberrant writing.  Or it could just be disgusting.
 
