@@ -1,15 +1,32 @@
 = Classes =
-Artificer
-[[barbarian|Barbarian]]
-Bard
-Cleric
-Druid
-[[fighter|Fighter]]
-[[monk|Monk]]
-Paladin
-Ranger
-Rogue
-Sorcerer
-Warlock
-Wizard
+== Expert Classes ==
+ * Bard
+ * Ranger
+ * Rogue
+ * Artificer*
+== Mage Classes ==
+ * Sorcerer
+ * Warlock
+ * Wizard
+== Priest Classes ==
+ * Cleric
+ * Druid
+ * Paladin
+== Warrior Classes ==
+ * [[barbarian|Barbarian]]
+ * [[fighter|Fighter]]
+ * [[monk|Monk]]
+
+
+= Multiclassing =
+If you are already a member of one or more classes and wish to take membership in a new class, you must meet the Multiclassing Requirements for your existing classes, as well as for the new one.  You then gain the Multiclass Proficiencies listed in the new class, if you don't already have them, and take the class feat.
+
+When you take a new class, you gain the Resource Die for that class unless you already have a Resource Die of the same name.  In this case, the levels of all classes with the same Resource contribute to the scaling of that Resource Die.
+
+Some classes share features.  For instance, several classes can take the Extra Attack feat at level 5.  You cannot take these features more than once and they do not stack with features that grant Effects of the same name.
+
+= Revised Classes =
+You take a class feat which grants you one or more game tags, your class defining proficiencies, a class resource, a number of class features which consume your resource, and 2 more options of your choice from the given selections.  You also gain a purse of coins which you can use to buy starting equipment.
+ * [[barbarian_v2|Barbarian]]
+ * [[fighter_v2|Fighter]]
 

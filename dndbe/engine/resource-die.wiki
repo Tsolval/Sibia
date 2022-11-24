@@ -1,0 +1,6 @@
+= Resource Die =
+Each class has a Resource Die which starts as a 1d4.  You also have an associated Resource Level which is equal to the largest face of the die, and which changes based on the result of your roll.  If you roll the highest face of your Resource Die, you increase the Resource Level by one, up to the die's maximum.  If the result of your Resource Die roll is less than or equal to your current Resource Level, you lose one Resource Level.  If your Resource Level is 1 and you lose a level, you lose the resource.  You will regain your Resource Die after you finish a Long Rest.
+
+As you grow in power, your Resource Die will grow with you, becoming a 1d6 at level 5, 1d8 at level 9, 1d10 at level 13, and 1d12 at level 17. 
+
+Your class will grant you features that call for the use of your class Resource Die.  If you have more than one class, you also have more than one class Resource Die.

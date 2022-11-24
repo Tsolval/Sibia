@@ -5,10 +5,8 @@ When you choose your character's Ancestry, you determine whether your character 
  * [[creature-size|Size]] - A tag that identifies the Size of your character.  Depending on your chosen Ancestry, you may get a choice.
  * [[movement|Speed]] - A value, usually 30, that indicates the base Speed of your character.
  * Life Span - A number that indicates the average life span of others from your Ancestry.
- * [[../languages/index|Languages]] - Choose one language from the Standard languages table.  You know that language and Common.
-
-== Language ==
-Your character begins play knowing at least three .  You will know Common, one language you choose for your Ancestry, and one language you choose for your [[../backgrounds/index|Background]].  Whatever language you choose, think about why your character choose to spend time learning it.  Do they know goblin because they spent time trading with goblinoids?  Or was it because knowing that language helped to track and hunt their tribes.
+ * [[../languages/index|Languages]] - Choose one language from the Standard languages table, which is the language you grew up speaking.  You know that language and Common.
+ * [[feats|Ancestral Feats]] - You have 8 Points to spend purchasing Ancestral Feats.  Depending on your DM and your Campaign World, the feats you select may be fixed based on your chosen Ancestry, or there may be restrictions on the Ancestral Feats you may select based on your chosen Ancestry.  It's also possible your DM may give you a different number of points to spend.
 
 == Ancestral Traits ==
 Each Ancestry provides racial traits, which are a collection of abilities that characters gain from their ancestors by biology and culture.  By default, all Ancestry options have a total of 8 points of racial traits allotted to them.  In order to tailor their campaign to a less magical setting or to increase difficulty, a Dungeon Master could specify a lesser amount of points to allocate to your character.  By contrast, if a DM wanted to run a higher powered campaign, they could increase the number of points they allot and allow players to choose additional traits.

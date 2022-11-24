@@ -1,0 +1,41 @@
+== Fighter ==
+Class Goals: Single Target Melee and Control, Skilled Damage; 
+Tags: Fighter, Warrior
+Hit Dice: 1d10
+Proficiencies: Light Armor, Medium Armor, Heavy Armor, Shields, Simple Weapons, Martial Weapons, Strength Saving Throws, Constitution Saving Throws, and two skills from Acrobatics, Animal Handling, Athletics, History, Intimidation, Perception, and Survival.
+Purse: 200 gp
+Feats: The following feats are added to your character advancement pool.  You must take the Tactics feat and one additional feat at this time.  
+
+=== Tactics ===
+You have a Tactics [[../resource-die|Resource Die]] which starts as a 1d4.  As you grow in power as a Fighter, your Resource Die will grow with you, and you will gain other abilities that utilize your Resource Die as well.  Your Resource Die increases at levels 5 (1d6), 9 (1d8), 13 (1d10), 17(1d12). 
+You can use your Tactics Resource Die to perform the following actions.  You will gain more features that consume your resource as you advance in this class.
+ * *Tactical Mark.*  When you make a melee attack against a creature, you can Mark it until the end of its next turn, making it easier to harry it with opportunity attacks.  Any opportunity attack you make against a marked target doesn't consume your reaction, though you are limited to one opportunity attack per turn, and you may not make an opportunity attack if an Effect, such as Shocking Grasp, or Condition, like Incapacitated, would prevent you from using your reaction.  When you take an opportunity attack against a Marked target, you can roll your Tactics Resource Die and add the result to either the to hit or the damage roll.
+ * *Tactical Shove.* When you take the Shove action, you can shove your target in any direction, not just away from you.  Roll your Tactics Resource Die and add the result to your Strength (Athletics) check.  If the target fails their Strength (Athletics) or Dexterity (Acrobatics) check, they are moved up to 5 feet to an unoccupied space within your reach.  If they fail their check by 10 or more points, you may also knock them prone.
+ * *Tactical Overrun.* When a creature tries to move through a hostile creature’s space, the mover can try to force its way through by overrunning the hostile creature. As an action or a bonus action, you make a Strength (Athletics) check contested by the hostile creature’s Strength (Athletics) check. The creature attempting the overrun has advantage on this check if it is larger than the hostile creature, or disadvantage if it is smaller. If you win the contest, you can move through the hostile creature’s space once this turn.
+ * *Tactical Tumble.* You can try to tumble through a hostile creature’s space, ducking and weaving past your opponent. As an action or a bonus action, you make a Dexterity (Acrobatics) check contested by the hostile creature’s Dexterity (Acrobatics) check. If you win the contest, you can move through your opponent's space once this turn.
+
+=== Fighting Style ===
+TODO: Break this up into multiple feats.
+You adopt a particular style of fighting as your specialty.  Choose one of the following options.  You can't take a Fighting Style option more than once, even if you later get to choose again.
+
+*Archery.* You gain a +2 bonus to attack rolls you make with ranged weapons.
+*Defense.* While you are wearing armor, you gain a +1 bonus to AC.
+*Dueling.* When you are wielding a melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon.
+*Great Weapon Fighting.* When you roll a 1 or 2 on a damage die for an attack you make with a melee weapon that you are wielding with two hands, you can reroll the die and must use the new roll, even if the new roll is a 1 or a 2. The weapon must have the two-handed or versatile property for you to gain this benefit.
+*Protection.* When a creature you can see attacks a target other than you that is within 5 feet of you, you can use your reaction to impose disadvantage on the attack roll. You must be wielding a shield.
+*Two-Weapon Fighting.* When you engage in two-weapon fighting, you can add your ability modifier to the damage of the second attack.
+*Blind Fighting.* You have blindsight with a range of 10 feet. Within that range, you can effectively see anything that isn’t behind total cover, even if you’re blinded or in darkness. Moreover, you can see an invisible creature within that range, unless the creature successfully hides from you.
+*Interception.* When a creature you can see hits a target, other than you, within 5 feet of you with an attack, you can use your reaction to reduce the damage the target takes by 1d10 + your proficiency bonus (to a minimum of 0 damage). You must be wielding a shield or a simple or martial weapon to use this reaction.
+*Superior Technique.* You learn one maneuver of your choice from among those available to the Battle Master archetype. If a maneuver you use requires your target to make a saving throw to resist the maneuver’s effects, the saving throw DC equals 8 + your proficiency bonus + your Strength or Dexterity modifier (your choice). This maneuver uses your Tactical Resource Die.
+*Thrown Weapon Fighting.* You can draw a weapon that has the thrown property as part of the attack you make with the weapon. In addition, when you hit with a ranged attack using a thrown weapon, you gain a +2 bonus to the damage roll.
+*Unarmed Fighting.* Your unarmed strikes can deal bludgeoning damage equal to 1d6 + your Strength modifier on a hit. If you aren’t wielding any weapons or a shield when you make the attack roll, the d6 becomes a d8. In addition, at the start of each of your turns, you can deal 1d4 bludgeoning damage to one creature grappled by you.
+
+=== Second Wind ===
+You have a well of stamina that you can draw on to protect yourself from harm. On your turn, you can use a bonus action to regain hit points equal to 1d10 + a roll of your Tactics Resource Die. 
+
+=== Action Surge ===
+You can push yourself beyond your normal limits for a moment. On your turn, you can take one additional action. Once you use this feature, you must finish a short or long rest before you can use it again.
+
+Starting at 17th level, you can use it twice before a rest, but only once on the same turn.
+
+

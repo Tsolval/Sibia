@@ -1,0 +1,120 @@
+= Ancestral Feats =
+Each Ancestry provides racial traits, which are a collection of abilities that characters gain from their ancestors by biology and culture.  By default, all Ancestry options have a total of 8 points of racial traits allotted to them.  In order to tailor their campaign to a less magical setting or to increase difficulty, a Dungeon Master could specify a lesser amount of points to allocate to your character.  By contrast, if a DM wanted to run a higher powered campaign, they could increase the number of points they allot and allow players to choose additional traits.
+
+The following are feats that can be chosen from for an Ancestry.  Depending on the campaign and world, the DM may decide to disallow any of these feats or allow them for specific races only.
+
+Each feat is listed by name, followed by its cost in Points, followed by its description.  Some feats cost a negative point amount.  These are negative feats, which provide some detriment to your character in exchange for more points to spend.
+
+*Angelic Flight.* [3 Point] As a Bonus Action, you sprout spectral wings which last until the end of your next turn, at which time they disappear unless you use another Bonus Action to extend the duration.  These wings allow you to fly up to your number of feet equal to your Speed.  If you are in the air when your wings disappear, you fall if nothing is holding you aloft.  You can use this Bonus Action a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.
+
+*Darkvision.* [1 Point] You have Darkvision with a range of 60 feet.
+
+*Resourceful.* [2 Points] You gain Inspiration whenever you finish a Long Rest.               
+
+*Skillful.* [1 Point] You gain Proficiency in one Skill of your choice.                   
+
+*Versatile.* [5 Points] You gain the Skilled Feat or another 1st level Feat of your choice.
+
+*Damage Resistance.* [1 Points] You have Resistance to Radiant Damage.
+
+*Dwarven Toughness.* [3 Points] Your Hit Point Maximum increases by 1, and it increases by 1 again whenever you gain a level.
+
+*Dwarven Resilience.* [2 Points] You have Resistance to Poison Damage.  You also have Advantage on Saving Throws you make to avoid or end the [[../conditions#Poisoned|Poisoned]] Condition on yourself.|
+
+*Keen Senses.* [1 Point.] You have Proficiency in the Perception Skill.
+
+*Fey Ancestry.* [1 Point] You have Advantage on saving throws you make to avoid or end the [[../conditions#Charmed|Charmed]] Condition on yourself.
+
+*Stonecunning.* [1 Point] As a Bonus Action, you gain Tremorsense with a range of 60 feet for 10 minutes.  You must be on a stone surface or touching such a surface to use this Tremorsense.  The stone can be natural or worked.<br> You can use this Bonus Action a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.
+
+*Forge Wise.* [1 Point] You gain Tool Proficiency with two of the following options of your choice: Jeweler's Tools, Mason's Tools, Smith's Tools, or Tinker's Tools.
+
+*Trance.* [1 Point] You don't need to sleep, and magic can't put you to sleep.  You can finish a Long Rest in 4 hours if you spend those hours in a trancelike meditation, during which you retain conciousness.
+
+*Gnomish Cunning.* [3 Points] You have Advantage on Intelligence, Wisdom, and Charisma saving throws.
+
+*Breath Weapon.* [3 Points] When you take the Attack action on your turn, you can replace one of your attacks with an exhalation of magical energy in a 15-foot cone. Each creature in that area must make a Dexterity saving throw (DC = 8 + your Constitution modifier + your proficiency bonus). On a failed save, the creature takes 1d10 damage of the type associated with your Draconic Ancestry. On a successful save, it takes half as much damage. This damage increases by 1d10 when you reach 5th level (2d10), 11th level (3d10), and 17th level (4d10). You can use your Breath Weapon a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
+
+*Mark of the Great Forest.* [3 Points] You can meet your daily nutritional requirements either by consuming a suitable amount of food or by staning in direct sunlight for 30 minutes.  In addition, you are Resistant to Poison Damage and have Advantage on Saving Throws you make to avoid or end the [[../conditions#Poisoned|Poisoned]] Condition.
+
+*Roots.* [2 Points] You are Proficient in the Nature and Survival skills.
+
+*Resourceful.* [2 Points] You gain Inspiration whenever you finish a Long Rest.
+
+*Contained Fury.* [4 Points] While below half your Maximum Hit Points you devolve into the fury which is the hallmark of your Ancestry.  Once per turn, when you hit with a weapon or spell attack while in your fury, you deal an extra 1d4 damage of the same type as the attack.  As a reaction, when you are hit by an attack during your fury from an attacker you can see, you can add 2 to your AC against that attack, potentially causing the attack to miss.
+
+*Plantborn.* [2 Points] Though you enter a state of dormancy during Long Rests similar to the way other creatures sleep, you are Immune to any effect that would put you to sleep.  When you reach 5th level, you also gain the ability to cast the Speak With Plants Spell with this trait.  Once you cast the Spell with this trait, you can't cast that spell again until you finish a Long Rest; however, you can cast the Spell using any Spell Slots you have of the appropriate level.
+
+*Roots of the Past.* [1 Point] You gain Proficiency in one Skill of your choice that your ancestors knew.
+
+*Rapid Regeneration.* [3 Points] As an Action, while you are in direct sunlight, you can regenerate some of your hit points.  Expend one of your Hit Dice and roll it.  You regain a number of Hit Points equal to the roll + your Consitution modifer + your Proficiency Bonus.  You can use this feature a number of times equal to your Proficiency Bonus and you regain all expended uses when you finsih a Long Rest.
+
+*Plant Nourishment.* [2 Points] You gan nourishment through some combination of photosynthesis, absorbing minerals with your roots, or scavenging decaying matter.  If you go without nourishment for 1 week, you begin to starve.
+
+*Leshy Resistance.* [2 Points] You have Resistance to Poison Damage.  You also have Advantage on Saving Throws you make to avoid or end the [[../conditions#Poisoned|Poisoned]] Condition on yourself.
+
+*Quadrapedal.* [0 Points] (Large only) Your Speed increases to 40 feet.  Because you are Long, you have to squeeze when moving through trapdoors, manholes, and similar structures designed for creatures that are not Long, even if they are designed for Large creatures.  In addition, ladders, stairs, and similar structures are Difficult Terrain for you.  Any climb that requires hands and feet is especially difficult for you.  When you make such a climb, each foot of movement cost you an extra 4 feet instead of the normal 1 extra foot.
+
+*Brave.* [1 Point] You have Advantage on Saving Throws you make to avoid or end the [[../conditions#Frightened|Frightened]] Condition on yourself.
+
+*Halfling Nimbleness.* [2 Points] You can move through the space of any creature that is of a Size larger than yours, but you cannot stop there.                  |
+
+*Luck.* [3 Points] When you roll a 1 on the d20 of a D20 Test, you can reroll the die, and you must use the new roll.
+
+*Naturally Stealthy.* [2 Points] You have Proficiency in the Stealth Skill, and Ability Checks made to track you have Disadvantage.
+
+*Relentless Endurance.* [3 Points] When you are reduced to 0 Hit Points but not killed outright, you can drop to 1 Hit Point instead.  Once you use this trait, you can't do so again until you finish a Long Rest.
+
+*Adrenaline Rush.* [2 Points] You can take the Dash Action as a Bonus Action.  When you do so, you gain a number of Temporary Hit Points equal to your Proficiency Bonus.<br> You can use this trait a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.
+
+*Powerful Build* [2 Points] You count as one Size larger when determining your carrying capacity and the weight you can push, drag, and lift.
+
+*Otherworldy Presence.* [3 Points] You know the Thaumaturgy cantrip.  When you cast it with this trait, the Spell uses the same spellcasting ability you use for your Fiendish Legacy trait.
+
+*Celestial Legacy.* [4 Points] You are the recipient of a celestial legacy that grants you magical abilities.  Choose a legacy from the Celestial Legacies table: The Chaotic Good Exalted, Lawful Good Heavenly, or the Neutral Good Idyllic.  Your choice grants you a cantrip and a spell that you learn at 1st level.  You also choose the animal you most closely resemble. The table provides a few suggestions for each legacy.  The table also indicates spells that you learn at 3rd and 5th levels.  You can cast these spells once with this trait at the Spell's lowest level and you regain the ability to do so again when you finish a Long Rest.  You can also cast the Spell using any Spell Slots you have of the appropriate level.   Intelligence, Wisdom, or Charisma is your spellcasting ability for the Spells you cast with this trait (choose the ability when you select the legacy). |
+
+| Legacy   | Alignment              | Suggested Animals         | 1st Level    | 3rd Level        | 5th Level          |
+|----------|------------------------|---------------------------|--------------|------------------|--------------------|
+| Exalted  | Chaotic Good           | Cat, eagle, goat, mule    | Thaumaturgy  | Divine Favor     | Lesser Restoration |
+| Heavenly | Lawful Good            | Elephant, owl, pig, stork | Light        | Cure Wounds      | Zone of Truth      |
+| Idyllic  | Neutral Good           | Bear, dog, raven, toad    | Guidance     | Healing Word     | Animal Messenger   |
+
+*Draconic Ancestry.* [4 Points] You are the recipient of a draconic legacy that grants you magical abilities.  Choose a legacy from the Draconic legacies table, then choose a Damage Type based on your ancestors scale color. You gain Resistance to the chosen Damage Type, and you also gain the first level draconic ability listed.  The table also indicates abilities that you gain at 3rd and 5th levels.  Those abilities are defined below the table.
+
+| Legacy    | Alignment   | Damage Type                                                                                          | 1st Level          | 3rd Level            | 5th Level              |
+|-----------|-------------|------------------------------------------------------------------------------------------------------|--------------------|----------------------|------------------------|
+| Chromatic | Any Evil    | Black: Acid<br> Blue: Lightning<br> Green: Poison<br> Red: Fire<br> White: Cold                      | Draconic Toughness | Chromatic Infusion   | Chromatic Warding      |
+| Metallic  | Any Good    | Brass: Fire<br> Bronze: Lightning<br> Copper: Acid<br> Gold: Fire<br> Silver: Cold                   | Draconic Healing   | Protective Wings     | Metallic Breath Weapon |
+| Gem       | Any Neutral | Amethyist: Force<br> Crystal: Radiant<br> Emerald: Psychic<br> Sapphire: Thunder<br> Topaz: Necrotic | Psionic Mind       | Telekinetic Reprisal | Gem Flight             |
+
+*Elven Lineage.* [4 Points] Choose a lineage from the Elven Lineages table.  You gain the 1st level benefit of that lineage.<br> Starting at 3rd level and again at 5th level, you also gain the ability to cast a Spell with this trait.  Once you cast the Spell with this trait, you can't cast that spell with it again until you finish a Long Rest; however, you can cast the Spell using any Spell Slots you have of the apprpriate level.<br> Intelligence, Wisdom, or Charisma is your spellcasting ability for the Spells you cast with this trait (choose the ability when you select the lineage).
+
+| Lineage  | 1st Level                                                                                                                                                  | 3rd Level    | 5th Level          |
+|----------|------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|--------------------|
+| Drow     | The range of your Darkvision increases to 120 feet.  You also know the Dancing Lights cantrip.                                                             | Faerie Fire  | Darkness           |
+| High Elf | You know the Prestidigitation cantrip.  Whenever you finish a Long Rest, you can replace that cantrip with a different cantrip from the Arcane Spell List. | Detect Magic | Misty Step         |
+| Wood Elf | Your Speed increases to 35 feet.  You also know the Druidcraft cantrip.                                                                                    | Longstrider  | Pass without Trace |
+
+
+*Gnomish Lineage.* [4 Points] Choose a lineage from the Gnomish Lineages table and gain its benefits.<br> Intelligence, Wisdom, or Charisma is your spellcasting ability for the Spells you cast with this trait (choose the ability when you select the lineage).
+
+| Lineage      | Benefits                                                                                                                                                                                                                                                                                                |
+|--------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Forest Gnome | You know the Minor Illusion cantrip.  You can also cast the Speak with Animals Spell with this trait.  You can cast it a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.  You can also use any Spell Slots you have to cast the Spell. |
+| Rock Gnome   | You know the Mending and Prestidigitation cantrips.  In addition, you learn to create a Tiny Clockwork Device (see below).                                                                                                                                                                              |
+
+=== Tiny Clockwork Device ===
+You can spend 10 minutes casting Prestidigitation to create a Tiny clockwork device (AC 5, 1 HP), such as a toy, a fire starter, or a music box.  Casting the Spell in this way consumes 10 GP worth of raw material (string, gears, and the like), which you provide during the casting.  
+
+When you create the device, you determine its function by choosing one effect from Prestidigitation; the device produces that effect whenever you or another creature takes a Bonus Action to touch the device and activate it.  If the chosen effect has options within it, you choose one of those options for the device when you create it.  For example, if you choose the spell's ignite-extinguish effect, you determine whether the device ignites or extinguishes fire; the device does not do both.
+
+You can have three such devices in existence at a time, and each one dismantles itself 8 hours after its creation.  You can also touch one of your devices and dismantle it as an Action.  After a device is dismantled, the 10 GP of materials used to create it can be reclaimed.
+
+*Fiendish Legacy.* [4 Points] Choose a legacy from the Fiendish Legacies table.  At 1st level, you gain Resistance to the specified Damage Type and you know the specified cantrip.  At 3rd level and again at 5th level, you gain the ability to cast a higher-level Spell with this trait, as shown on the table. Once you cast the Spell with this trait, you can't cast that Spell with it again until you finish a Long Rest; however, you can cast the Spell using any Spell Slots you have of appropriate level.<br> Intelligence, Wisdom, or Charisma is your spellcasting ability for the Spells you cast with this trait (choose the ability when you select the legacy).
+
+| Legacy   | Alignment    | Damage Type | Cantrip      | 3rd Level       | 5th Level           |
+|----------|--------------|-------------|--------------|-----------------|---------------------|
+| Abyssal  | Chaotic Evil | Poison      | Poison Spray | Ray of Sickness | Hold Person         |
+| Chthonic | Neutral Evil | Necrotic    | Chill Touch  | False Life      | Ray of Enfeeblement |
+| Infernal | Lawful Evil  | Fire        | Fire Bolt    | Hellish Rebuke  | Darkness            |
+
