@@ -1,24 +1,28 @@
 = Movement =
-When a creature Moves, it can go a distance up to its Speed, which represents how far a creature can move in short, adrenaline-driven bursts of movement.  It can also use its Speed to climb or swim, but if it does so, every foot the creature moves costs 1 extra point of Speed. A creature can also break up its Move, using some of its movement before and after any Action it takes on the same turn.  If it does so, its total distance moved must not exceed its Speed.  If a creature has multiattack, Extra Attack or any other feature that allows it to attack more than once, then it can move between attacks as well.
+A creature has one or more Movement Types, each associated with a Movement Speed. 
 
-Some creatures have special speeds, such as a Climb Speed, a Fly Speed, a Swim Speed, or a Burrow Speed. If a creature has more than one speed, it must choose which one to use each time it takes its Move.  If the creature takes more than on Move, such as with a Dash Action, it can choose to use the same speed for each move or different ones. 
+== Movement Speed ==
+A creature's Movement Speed represents how far in feet it can move with short, energetic burts.  When a creature takes a Move Action, it can move any number of feet up to its speed.  A creature can break up its Move, using some of its movement before and after any other Action it takes on the same turn or between discrete activities that are part of an Action such as between attacks, if the creature has Multiattack or Extra Attack, or between the beam attacks provided by Eldritch Blast or similar spell.  If the creature breaks up its move in this way, its total distance moved must not exceed its Speed.
 
-== Burrow Speed ==
-A Burrow Speed can be used to move through sand, earth, mud or ice.  It can’t burrow through solid rock unless it has a special trait that allows it to do so.
+If a creature has more than one Movement Type, it must choose which one to use each time it takes a Move Action.
 
-== Climb Speed ==
-A Climb Speed can be used to move on a vertical surface without expending the extra movement normally associated with climbing. A Climb Speed can also be used in any situation in which your Speed is usable.
-Some creatures have the Spider Climb trait, which allows their Climb Speed to work even on the underside of horizontal surfaces. 
+== Movement Type ==
+Movement Type describes how a creature gets around.  The most common Movement Type is Walk, but others are Burrow, Climb, Fly, Jump, or Swim.  These movement types are described below.
 
-== Fly Speed ==
-A Fly Speed can be used to move through the air. While you have a Fly Speed, you can stay aloft until you land, fall, or die.
-While flying, you fall if you are Incapacitated or Restrained. If you have the Hover trait, you can stay aloft even while Incapacitated or Restrained
+*Walk.* A creature with a Walk Speed uses its arms, legs, pseudopods, tentacles or other body part or appendage to amble, slither, or slide across solid, horizontal surfaces such as land.  If the creature has a Walk Speed, it can also use its Speed to Climb, Jump, or Swim, but if it does so, every foot the creature moves costs 1 extra foot of its Walk Speed.
 
-== Swim Speed ==
-A Swim Speed can be used to move through a liquid without expending the extra movement normally associated with swimming.  A creature can't breath underwater unless it has a special trait that allows it to do so.
+*Burrow.* A creature with a Burrow Speed can move through sand, dirt, mud or ice.  It can’t burrow through solid rock unless it has a special trait that allows it to do so.
 
-== Jump [Action] ==
-With the Jump Action, you attempt to leap more than 5 feet (a jump of 5 feet or less is treated as Difficult Terrain). When you take this Action, your Speed must be greater than 0, and you must make a DC 10 Strength Check (Acrobatics or Athletics). If you don’t Move at least 10 feet immediately before this Action, you have Disadvantage on the check.  On a failed check, you leap 5 feet horizontally or vertically. On a successful check, the check’s total determines the distance in feet that you can clear horizontally, or half that total if you’re jumping vertically (round down). This jump doesn’t expend your movement, but the distance you clear can’t exceed your Speed.
+*Climb.* A creature with a Climb Speed can move along a vertical surface, so long as there are sufficient handholds.  A GM may still call for Athletics or Acrobatics checks to climb across slick or treacherous surfaces, unless the creature has the Spider Climb trait, which allows them to move along the underside of horizontal surfaces. 
+
+*Fly.* A creature with a Fly Speed can move through the air, and can stay aloft until it lands, falls, or dies.  A flying creature falls if it becomes Incapacitated or Restrained.  If you have the Hover trait, you can stay aloft even while Incapacitated or Restrained.
+
+*Jump.* A creature with a Jump Speed can move through the air across short distances.  Like a flying creature, if a jumper becomes Incapacitated or Restrained mid-jump, they fall.  Unlike a flying creature, the Jumper must end their movement on the ground, though they may remain in the air between attacks or other actions when splitting movement.  A jumper may cover a number of feet horizontally up to their Speed, or vertically up to half their speed.
+
+*Swim.* A creature with a Swim Speed can move effortlessly through water.  A creature can't breath underwater unless it has a special trait that allows it to do so.
+
+== Dashing ==
+A creature that takes more than one Move Action a turn is Dashing.  Dashing is an excellent way to cover a lot of ground in a short amount of time, and it comes into play a lot, especially during a chase.  However, dashing is a very taxing activity.  A creature can dash a number of rounds equal to 3 + their Constitution Modifier.  Each additional turn spent Dashing without rest requires the creature to succeed on a DC 10 Constitution Saving Throw at the end of its turn or gain one level of Exhaustion.  A creature regains their ability to dash by sitting and resting for a minute, which is assumed to occur during a Long or Short Rest.
 
 == Difficult Terrain ==
 A creature moving through Difficult Terrain is [[../conditions#Hindered|Hindered]].  This is true even if multiple things in a space count as difficult terrain.  Some examples of difficult terrain are Low furniture, rubble, undergrowth, steep stairs, snow, shallow bogs, poisonous fumes, and the space of another creature (whether hostile or not).  Note that other movement effects stack with difficult terrain, so using your Speed to Crawl through difficult terrain will cost 2 feet of movement for every 1 foot gained, and doing so while Slowed will cost 3 feet of movement for every 1 foot moved.

@@ -1,0 +1,20 @@
+
+Action Economy
+ * A creature can take 2 actions during their turn - often a move action and something else.  A creature may choose to perform an action more than once during a turn unless that action is prevented by another effect.
+ * A creature can take as many free actions as is reasonable, adjudicated by the table as usual.
+ * A creature may take a Bonus Action as long as they also perform the associated qualifying Action.  They may take the Bonus Action before or after the qualifying action, but they must both occur on the same turn.
+ * A creature may take a reaction, but only when it is not their turn.  Some effects may grant a creature more than one reaction per round, but there is only time to take one reaction each turn.
+
+Move Action
+Attack Action
+Magic Action
+Utilize Action
+Ready Action
+Search Action
+
+Encounter Timing
+An encounter is broken into Rounds.  Rounds continue until the encounter is resolved.
+ * A round is broken into turns.  One turn for every creature involved in the round.
+  * When it is their turn, a creature can take up to two actions plus one bonus action they qualify for and any number of free actions (opening a door, drawing a weapon, etc.) that cound reasonably be completed during the 6 second round.
+  * During another creature's turn, a creature can take any reaction that was triggered during the turn.  A creature can only take one reaction during a turn, and cannot take the same reaction more than once a round unless otherwise stated.
+

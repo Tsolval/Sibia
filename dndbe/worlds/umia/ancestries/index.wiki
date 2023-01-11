@@ -1,0 +1,35 @@
+Ancestries
+
+
+TODO: create additional Racial Traits based on various cultures. 
+[[traits|Traits]]
+
+This section provides descriptions and rules for the following Ancestry options:
+[[human|Human]], [[ardling|Ardling]], [[dragonborn|Dragonborn]], [[dwarf|Dwarf]], [[elf|Elf]], [[gnome|Gnome]], [[halfling|Halfling]], [[orc|Orc]], [[tiefling|Tiefling]]
+
+=== Umia ===
+[[human|Human]]
+[[ardling|Ardling]]
+[[dragonborn|Dragonborn]]
+[[dwarf|Dwarf]]
+[[elf|Elf]]
+[[gnome|Gnome]]
+[[halfling|Halfling]]
+[[orc|Orc]]
+[[tiefling|Tiefling]]
+[[piney|Piney]]
+[[kijani|Kijani]]
+[[leshy|Leshy]]
+
+Ursanon
+Leonin
+Kenku
+Harpy
+Centaur
+Yuan-ti
+Goliath
+Verbeeg
+Oni
+Elf
+Fairy
+Alesid

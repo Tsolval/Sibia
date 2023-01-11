@@ -1,0 +1,7 @@
+Features
+
+Features are all the things your character is explicitly capable of doing.  They consist of two types: Traits and Abilities.
+
+Traits are passive features that are always in effect.
+
+Abilites are active features that can be utilized to manipulate the world around you.

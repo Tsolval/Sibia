@@ -1,58 +1,20 @@
 = Character Ancestry =
-When you choose your character's Ancestry, you determine whether your character is a member of the human race or of a fantastical race.  The description of each Ancestry includes a section of game traits, which your character gains if you select that Ancestry.  NPCs of the same ancestry don't necessarily have the same traits, as explained in the Monster Manual; the traits here are options for player characters.
+Your chosen Ancestry determines your species and the culture of your upbringing, all of which can grant you a choice of starting features.  An Ancestry is a template, not a mold, and not all members of the same group have the same features, though the following traits are determined by your choice in Ancestry. 
 
- * [[creature-type|Creature Type]] - A Tag that identifies the Creature Type of your character.
- * [[creature-size|Size]] - A tag that identifies the Size of your character.  Depending on your chosen Ancestry, you may get a choice.
- * [[movement|Speed]] - A value, usually 30, that indicates the base Speed of your character.
- * Life Span - A number that indicates the average life span of others from your Ancestry.
+ * [[creature-type|Creature Type]] - A Tag that identifies the Creature Type of your character.  Some Ancestries have more than one Creature Type tag.  All of the tags are relevant to you.
+ * [[creature-size|Size]] - A tag that identifies the Size of your character.  If your Ancestry provides more than one Size, choose one.
+ * [[movement|Movement]] - The primary Movement Type and base Movement Speed of your character.
  * [[../languages/index|Languages]] - Choose one language from the Standard languages table, which is the language you grew up speaking.  You know that language and Common.
- * [[feats|Ancestral Feats]] - You have 8 Points to spend purchasing Ancestral Feats.  Depending on your DM and your Campaign World, the feats you select may be fixed based on your chosen Ancestry, or there may be restrictions on the Ancestral Feats you may select based on your chosen Ancestry.  It's also possible your DM may give you a different number of points to spend.
+ * Appearance - A description of surface characteristics like height, weight and color of eyes, skin, hair, scale, horn, etc.
+ * Culture - A description of the known cultures from whih this Ancestry may be taken.
+ * Life Span - The average life span for members of your Ancestry.
+ * [[feats|Ancestral Feats]] - You have 8 Points to spend purchasing Ancestral Feats that you may choose from the list of General Ancestral Feats or from those specified by the Ancestry.  Your DM may add, remove, or change the list of available feats or the number of points available to spend to suit the Campaign World or table playstyle. 
 
 == Ancestral Traits ==
-Each Ancestry provides racial traits, which are a collection of abilities that characters gain from their ancestors by biology and culture.  By default, all Ancestry options have a total of 8 points of racial traits allotted to them.  In order to tailor their campaign to a less magical setting or to increase difficulty, a Dungeon Master could specify a lesser amount of points to allocate to your character.  By contrast, if a DM wanted to run a higher powered campaign, they could increase the number of points they allot and allow players to choose additional traits.
+Each Ancestry provides Ancestral Feats, which are a collection of abilities that characters gain from their ancestors by biology and culture.  Each of the Ancestral Feats has a point cost associated with it.  By default, you have a pool of 8 points to use when purchasing these feats.  A GM may choose to tailor the point pool and/or the list of available Ancestral Feats in order to customize the Campaign Setting and difficulty for their table.
 
-== Children of Different Humanoid Kinds ==
-Thanks to the magical workings of the multiverse, Humanoids of different kinds sometimes have children together.  For example, folk who have a human parent and an orc or elf parent are particularly common.  Many other combinations are possible.  
+== Mixing Ancestry ==
+Occasionally, characters of mixed Ancestry appear in the world.  These children often arise as much from magic and the work of the gods as they do from biology.  If you would like to play a child of mixed Ancestry, work with your GM to determine by what mechanism or magic enabled your birth.  You gain the same 8 point pool with which to purchase Ancestral Feats, and you may choose from Traits, Tags, and Ancestral Feats provided by either Ancestry, or average them for things like Life Span or Height/Weight.  GM, you get final say over whether the player is allowed any combination of features, but do attempt to work with the player to allow the concept they are trying to emulate.  This may mean altering the provided mechanics to ensure the character is not over or under powered.
 
-If you would like to play the child of such a wondrous pairing, choose two Ancestry options that are Humanoid to represent your parents.  Determine which of those Ancestry options provides your Size, Speed, and Racial Traits.  Then, with your DMs approval, you can choose to replace one or more of your chosen Racial Traits with traits from your other parent, so long as they result in the same point value.
-
-Once you have selected your Racial Traits, you can then mix and match visual characteristics - color, ear shape, and the like - of the two options.  For example, if your character has a halfling and a gnome parent, you might choose Halfling for your game traits, replace your Naturally Stealthy trait with the gnome's Darkvision trait, and then decide that your character has the pointed ears that are characteristic of a gnome.
-
-Finally, determine the average of the two option's Life Span traits to figure out how long your character might live.  For example, a child of a halfling and a gnome has an average life span of 288 years.
-
-== Ancestry in the Multiverse ==
-Ancestry can differ across different worlds of the Multiverse.  The elves of one realm may have different traits to choose from than those from another.  Your DM will provide you with your Ancestral traits.
-
-
-TODO: create additional Racial Traits based on various cultures. 
-[[traits|Traits]]
-
-This section provides descriptions and rules for the following Ancestry options:
-[[human|Human]], [[ardling|Ardling]], [[dragonborn|Dragonborn]], [[dwarf|Dwarf]], [[elf|Elf]], [[gnome|Gnome]], [[halfling|Halfling]], [[orc|Orc]], [[tiefling|Tiefling]]
-
-=== Umia ===
-[[human|Human]]
-[[ardling|Ardling]]
-[[dragonborn|Dragonborn]]
-[[dwarf|Dwarf]]
-[[elf|Elf]]
-[[gnome|Gnome]]
-[[halfling|Halfling]]
-[[orc|Orc]]
-[[tiefling|Tiefling]]
-[[piney|Piney]]
-[[kijani|Kijani]]
-[[leshy|Leshy]]
-
-Ursanon
-Leonin
-Kenku
-Harpy
-Centaur
-Yuan-ti
-Goliath
-Verbeeg
-Oni
-Elf
-Fairy
-Alesid
+== Example Ancestries ==
+[[../../worlds/umia/ancestries/index|Example Ancestries]] are listed in the setting guide.

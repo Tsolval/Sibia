@@ -1,0 +1,27 @@
+= Revised Classes =
+You take a class feat which grants you one or more game tags, your class defining proficiencies, a class resource, a number of class features which consume your resource, and 2 more options of your choice from the given selections.  You also gain a purse of coins which you can use to buy starting equipment.
+
+== The Class Progression Table ==
+| Level | Proficiency Bonus | Features           | Resource Die |
+|:-----:|:-----------------:|--------------------|:------------:|
+|  1st  |        +2         | Class Resource     |     1d4      |
+|  2nd  |        +2         | Class Feat         |     1d4      |
+|  3rd  |        +2         | Subclass Archetype |     1d4      |
+|  4th  |        +2         | General Feat       |     1d4      |
+|  5th  |        +3         | Class Feat         |     1d6      |
+|  6th  |        +3         | Class Feat         |     1d6      |
+|  7th  |        +3         | Subclass Feat      |     1d6      |
+|  8th  |        +3         | General Feat       |     1d6      |
+|  9th  |        +4         | Class Feat         |     1d8      |
+| 10th  |        +4         | Class Feat         |     1d8      |
+| 11th  |        +4         | Subclass Feat      |     1d8      |
+| 12th  |        +4         | General Feat       |     1d8      |
+| 13th  |        +5         | Class Feat         |     1d10     |
+| 14th  |        +5         | Class Feat         |     1d10     |
+| 15th  |        +5         | Subclass Feat      |     1d10     |
+| 16th  |        +5         | General Feat       |     1d10     |
+| 17th  |        +6         | Class Feat         |     1d12     |
+| 18th  |        +6         | Class Feat         |     1d12     |
+| 19th  |        +6         | General Feat       |     1d12     |
+| 20th  |        +6         | Class Capstone     |     1d12     |
+

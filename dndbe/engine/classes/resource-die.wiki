@@ -1,0 +1,27 @@
+== Class Resource ==
+Every Class has a Class Resource, which represents an expendable core ability of that Class.  Every member of the class has access to this resource, though individual members of a class may use that resource differently.  Barbarians have Rage, Bards have Inspiration, Clerics have Divinity, Druids have Earthcalling, Fighters have Tactics, Monks have Ki, Paladins have Aura, Rangers have Focus, Rogues have Cunning, Sorcerers have Metamagic, Warlocks have Invocations, and Wizards have Scholarship. Every Class Resource is represented by a Resource Die and a Resource Value.
+
+Your Class will grant you features that call for the use of your Class Resource Die.  If you have more than one Class, you also have more than one Class Resource Die.
+
+When you gain your first level in a Class, your Resource Die is a 1d4.  As you gain power in the Class, this Resource die increases, which, in turn, increases the effectiveness and longevity of your Class Resource.  Your Resource Die increases by a step at Class Level 5(1d6), 9(1d8), 13(1d10), and 17(1d12). 
+
+Your Resource Value maximum is the maximum face value of your Resource Die.  So at Class Level 1, when your Resource Die is a 1d4, your Resource Level maximum is 4.  When you expend your Class Resource, you roll the Resource Die and apply the result as described in the ability that called for the roll.  If the result of your Resource Die roll is the maximum value for that die, then increase your Resource Value by one, up to its maximum.  If the result of your Resource Die roll is less than or equal to your current Resource Value, reduce the Resource Value by one.  While the Resource Value is 0, your Class Resource is exhausted and cannot be used.  Your Resource Value increases by 1, up to its maximum, whenever you finish a Short Rest or when you roll a 1 on a D20 Test.  Your Resource Value is reset to its maximum whenever you finish a Long Rest.
+
+_*Example*_
+For example, the level 1 Barbarian, Ranik, has a Rage Resource Die, which is a d4.  When he wakes up in the morning, having completed a Long Rest, he sets the resource value at 4, which is the maximum face of his d4.  As his party adventures during the day, the rogue fails to open a door, so Ranik decides to break it down.  The DM asks him to make a DC 18 Strength (Athletics) check.  Ranik is proficient in that skill, but wants to make sure he succeeds to show up the arrogant rogue, so he decides to harness his Rage for this attempt.  He makes his Strength (Athletics) check, getting a 17 (12 on D20, +3 STR Mod, +2 Prof. Bonus), then adding in a roll of his Rage die, (2) for a total of 19.  Because the result of his Rage die was a 2, which is less than his current value of 4, the Resource Level drains, becoming a 3, but he smashes noisily through the door.  
+
+On the other side of the door, a brace of goblins await, and Ranik engages them with the full fury of his Rage.  The following table shows how Ravik expends his Rage over the course of the fight.
+
+| Rage Level | Rage Die Roll | Result                                                                   |
+|:----------:|:-------------:|--------------------------------------------------------------------------|
+|     4      |       2       | Rarik breaks down the door! His Rage Level lowers to 3.                  |
+|     3      |       1       | Rarik adds 1 Rage damage to his attack. His Rage Level lowers to 2.      |
+|     2      |       3       | Rarik negates 3 damage taken.  His Rage Level remains 2.                 |
+|     2      |       1       | Rarik adds 1 Rage to damage. His Rage Level lowers to 1.                 |
+|     1      |       4       | Rarik negates 4 damage taken!  His Rage Level raises to 2!               |
+|     2      |       2       | Rarik adds 2 Rage damage to his attack.  His Rage Level drops back to 1. |
+|     1      |       2       | Rarik negates 2 damage taken.  His Rage level remains 1.                 |
+|     1      |       1       | Rarik adds 1 Rage damage to his attack.  His Rage Level drops to 0.      |
+
+Rarik got a bit unlucky, and is already out of Rage.  He will need to rest to let his Rage rebuild. 
+

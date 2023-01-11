@@ -27,6 +27,101 @@ Some classes share features.  For instance, several classes can take the Extra A
 
 = Revised Classes =
 You take a class feat which grants you one or more game tags, your class defining proficiencies, a class resource, a number of class features which consume your resource, and 2 more options of your choice from the given selections.  You also gain a purse of coins which you can use to buy starting equipment.
- * [[barbarian_v2|Barbarian]]
- * [[fighter_v2|Fighter]]
+ * [[barbarian|Barbarian]]
+ * [[fighter|Fighter]]
+
+
+= Class Feats =
+
+== Barbarian: Rage ==
+*Level.* 0
+*Requirements.* First class or 13+ Constitution if Multiclassing
+*Repeatable.* No
+*Multiclass Proficiencies.* Shields, Simple Weapons, Martial Weapons
+
+*Rage.* You have a Rage [[../resource-die|Resource Die]] which starts as a 1d4.  As you grow in power as a Barbarian, your Resource Die will grow with you, and you will gain other abilities that utilize your Resource Die as well.
+
+*Rage DC.*  If your Rage Resource action calls for a save, the DC for the check is equal to 8 + your Proficiency Bonus + your Constitution Modifier.  
+
+You can use your Rage Resource Die to perform the following actions so long as you aren't wearing heavy armor.  You will gain more features that consume your resource as you advance in this class.
+ * *Raging Blows.* When you take the Attack Action on your turn and hit with a Weapon Attack, you can roll the Resource Die and add the result to your weapon damage.  
+ * *Raging Strength.* When you make a d20 Test involving Strength, you can roll your Resource Die and add the result to your d20 Test.
+ * *Raging Resistance.* Until you have exhausted your Rage, you are resistant to Bludgeoning, Piercing, and Slashing damage.  When you are damaged by an attack that deals Bludgeoning, Piercing, or Slashing damage, you may attempt to reduce that damage further.  As a reaction, roll your Rage Resource Die and subtract the result from the resisted damage of the triggering attack.
+
+== Fighter: Tactics ==
+*Level.* 0
+*Requirements.* First class or 13+ Strength or Dexterity if Multiclassing
+*Repeatable.* No
+*Multiclass Proficiencies.* Light Armor, Medium Armor, Shields, Simple Weapons, Martial Weapons
+
+*Tactics.* You have a Tactics Resource Die which starts as a 1d4.  As you grow in power as a Fighter, your Resource Die will grow with you, and you will gain other abilities that utilize your Tactics Resource Die as well.
+
+*Tactics DC.* The DC is 8 + your Proficiency Bonus + your Strength or Dexterity Modifier (your choice).
+
+You can use your Tactics Resource Die to perform the following actions.
+
+ * *Second Wind.* As a Bonus Action, you can expend one of your Hit Dice.  Roll it and your Resource Die.  You regain Hit Points equal to the sum of the two dice plus your Fighter level.
+ * *Trip.* When you hit a creature with a Weapon Attack, you can attempt to knock your target down.  Roll your Resource Die and add the result to your attack's damage roll.  If the target is no more than one size larger than you, it must make a Strength saving throw.  
+ * *Grapple.* When you hit a creature with a Weapon Atttack, you can attempt to grapple your target.  To do so, you must have at least one hand free and your target must be no more than one Size larger than you.  Roll your Tactics Resource Die and add the result to the damage of the attack.  The target is Grappled, and the grapple's escape DC is equal to your Tactics DC.
+ * *Shove.* When you hit a creature with a Weapon Attack, you can choose to either push the target 5 feet away or knock the target Prone.  This shove is only possible if the target is no more than one Size larger than you.  Roll your Tactics Resource die and add the result to the damage of your attack.
+
+== Monk: Ki ==
+*Level.* 0
+*Requirements.* First class or 13+ Dexterity if Multiclassing
+*Repeatable.* No
+*Multiclass Proficiencies.* Simple Weapons, Shortswords
+
+== Bard: Influence ==
+*Level.* 0
+*Requirements.* First class or 13+ Charisma if Multiclassing
+*Repeatable.* No
+*Multiclass Proficiencies.* Light Armor, one Skill, one Musical Instrument
+
+== Cleric: Divinity ==
+*Level.* 0
+*Requirements.* First class or 13+ Wisdom if Multiclassing
+*Repeatable.* No
+*Multiclass Proficiencies.* Light Armor, Medium Armor, Shields
+
+== Druid: Shapeshifting ==
+*Level.* 0
+*Requirements.* First class or 13+ Wisdom if Multiclassing
+*Repeatable.* No
+*Multiclass Proficiencies.* Light Amor, Medium Armor, Shields
+
+== Paladin: Aura ==
+*Level.* 0
+*Requirements.* First class or 13+ Strength if Multiclassing
+*Repeatable.* No
+*Multiclass Proficiencies.* Light Armor, Medium Armor, Shields, Simple Weapons, Martial Weapons
+
+== Ranger: Bushcraft ==
+*Level.* 0
+*Requirements.* First class or 13+ Strength or Dexterity if Multiclassing
+*Repeatable.* No
+*Multiclass Proficiencies.* Light Armor, Medium Armor, Shields, Simple Weapons, Martial Weapons, one Skill
+
+== Rogue: Cunning ==
+*Level.* 0
+*Requirements.* First class or 13+ Intelligence if Multiclassing
+*Repeatable.* No
+*Multiclass Proficiencies.* Light Armor, one Skill, Thieves' Tools
+
+== Sorcerer: Metamagic ==
+*Level.* 0
+*Requirements.* First class or 13+ Constitution if Multiclassing
+*Repeatable.* No
+*Multiclass Proficiencies.* None
+
+== Warlock: Invocations ==
+*Level.* 0
+*Requirements.* First class or 13+ Charisma if Multiclassing
+*Repeatable.* No
+*Multiclass Proficiencies.* Light Armor, Simple Weapons
+
+== Wizard: Thesis ==
+*Level.* 0
+*Requirements.* First class or 13+ Intelligence if Multiclassing
+*Repeatable.* No
+*Multiclass Proficiencies.* None
 

@@ -1,4 +1,17 @@
-== Fighter ==
+= Fighter =
+Anyone can swing a sword or throw a punch.  We take peasants out of the streets every day and put them to work in the guard and the army.  Training them how to kill the enemy without killing themselves doesn't make these people fighters.  A Fighter has something special on their side.  They think tactically and they place their blades exactly where they are needed and with exactly the force required, no more.  A true Fighter can end a conflict without drawing a single drop of blood.
+
+== Creating a Fighter ==
+When you create your Fighter character, think about where they come from.  Where did they learn to fight?  Do they have a preferred weapon?  Are they working as a guard or in the army?  Are they fighting in underground tourneys or gladiator pits?  Or are they trying to leave that life behind?  
+
+When you build your Fighter, you should put your highest Ability Scores into Strength or Dexterity, depending on your weapon of choice, and Constitution.  Spellcasting Fighters might take their spellcasting ability as their second highest value instead.
+
+== Multiclassing ==
+You can take any class you want at 1st level, whether you qualify for it or not.  But in order to take levels in a different class, you must qualify for both your original class and the class you wish to take a level in. 
+
+To multiclass as a Fighter, you must have a Strength or Dexterity Score of at least 13.
+
+== Details ==
 Class Goals: Single Target Melee and Control, Skilled Damage; 
 Tags: Fighter, Warrior
 Hit Dice: 1d10

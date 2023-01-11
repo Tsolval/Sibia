@@ -1,0 +1,7 @@
+= Resource Level =
+A Resource Level is a number representing how much of a resource the character has remaining.  Resource Levels can be used for resources such as ammunition or health.  
+
+When determining if a resource level decreases, make a saving throw against a DC.  If they succeed, the resource level remains the same.  If they fail, it decreases.
+
+For instance, a retainer has health levels instead of hit points.  When something does damage to a retainer, they make a Constitution Saving Throw versus the average damage of the attack.  On a success the creature loses no health, but on a failure they lose one health level.
+
