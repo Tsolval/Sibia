@@ -10,6 +10,7 @@ Knowledge of a language means your character can communicate in that language an
 |----------------------|---------------|----------|
 | Common               | Anyone        | Common   |
 | Common Sign Language | Anyone        |          |
+| Obra                 | Obran         | Human    |
 | Dwarvish             | Dwarves       | Dwarvish |
 | Elvish               | Elves         | Elvish   |
 | Giant                | Giants        | Dwarvish |

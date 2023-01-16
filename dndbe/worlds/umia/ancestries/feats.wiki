@@ -1,0 +1,36 @@
+= Feats =
+The following feats are available to characters that qualify for them.
+
+== Ability Score Improvement ==
+_4th-Level Feat_
+
+*Prerequisite:* None
+*Repeatable:* Yes
+
+You increase one Ability Score of your choice by 2, or you increase two Ability Scores of your choice by 1.  You can't increase an Ability Score above 20 with this Feat.
+
+== Actor ==
+_4th-Level Feat_
+
+*Prerequisite:* Charisma 13+
+*Repeatable:* No
+
+Skilled at mimicry and dramatics, you gain the following benefits:
+
+*Ability Score Increase.* Increase your Charisma Score by 1, to a maximum of 20.
+*Impersonation.* While you're disguised as a person other than yourself, you have Advantage on Charisma (Performance) Checks to convince others that you are that person.
+*Mimicry.* You can mimic the sounds of other creatures, including speech.  To mimic a sound or way of speaking, you must listen to it for at least 1 minute.  Any time thereafter, you can make a DC 15 Charisma (Performance) Check to perform the mimicry.  On a success you perform it convincingly for up to 1 hour.
+
+== Athlete ==
+_4th-Level Feat_
+
+*Prerequisite:* Strength, Dexterity, or Constitution 13+
+*Repeatable:* No
+
+You have undergone extensive physical training to gain the following benefits:
+
+*Ability Score Increase.* Increase your Charisma Score by 1, to a maximum of 20.
+*Impersonation.* While you're disguised as a person other than yourself, you have Advantage on Charisma (Performance) Checks to convince others that you are that person.
+*Mimicry.* You can mimic the sounds of other creatures, including speech.  To mimic a sound or way of speaking, you must listen to it for at least 1 minute.  Any time thereafter, you can make a DC 15 Charisma (Performance) Check to perform the mimicry.  On a success you perform it convincingly for up to 1 hour.
+
+

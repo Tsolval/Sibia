@@ -9,13 +9,13 @@ If a creature has more than one Movement Type, it must choose which one to use e
 == Movement Type ==
 Movement Type describes how a creature gets around.  The most common Movement Type is Walk, but others are Burrow, Climb, Fly, Jump, or Swim.  These movement types are described below.
 
-*Walk.* A creature with a Walk Speed uses its arms, legs, pseudopods, tentacles or other body part or appendage to amble, slither, or slide across solid, horizontal surfaces such as land.  If the creature has a Walk Speed, it can also use its Speed to Climb, Jump, or Swim, but if it does so, every foot the creature moves costs 1 extra foot of its Walk Speed.
+*Walk.* A creature with a Walk Speed uses its arms, legs, pseudopods, tentacles or other body part or appendage to amble, slither, or slide across solid, horizontal surfaces such as land.  If the creature has a Walk Speed, it can also use its Speed to Crawl, Climb, Jump, or Swim, but if it does so, every foot the creature moves costs 1 extra foot of its Walk Speed.
 
 *Burrow.* A creature with a Burrow Speed can move through sand, dirt, mud or ice.  It can’t burrow through solid rock unless it has a special trait that allows it to do so.
 
 *Climb.* A creature with a Climb Speed can move along a vertical surface, so long as there are sufficient handholds.  A GM may still call for Athletics or Acrobatics checks to climb across slick or treacherous surfaces, unless the creature has the Spider Climb trait, which allows them to move along the underside of horizontal surfaces. 
 
-*Fly.* A creature with a Fly Speed can move through the air, and can stay aloft until it lands, falls, or dies.  A flying creature falls if it becomes Incapacitated or Restrained.  If you have the Hover trait, you can stay aloft even while Incapacitated or Restrained.
+*Fly.* A creature with a Fly Speed can move through the air, and can stay aloft until it lands, falls, or dies.  A flying creature falls if it becomes Prone, Incapacitated, or Restrained.  If you have the Hover trait, you can stay aloft even while Incapacitated or Restrained.
 
 *Jump.* A creature with a Jump Speed can move through the air across short distances.  Like a flying creature, if a jumper becomes Incapacitated or Restrained mid-jump, they fall.  Unlike a flying creature, the Jumper must end their movement on the ground, though they may remain in the air between attacks or other actions when splitting movement.  A jumper may cover a number of feet horizontally up to their Speed, or vertically up to half their speed.
 
@@ -25,25 +25,25 @@ Movement Type describes how a creature gets around.  The most common Movement Ty
 A creature that takes more than one Move Action a turn is Dashing.  Dashing is an excellent way to cover a lot of ground in a short amount of time, and it comes into play a lot, especially during a chase.  However, dashing is a very taxing activity.  A creature can dash a number of rounds equal to 3 + their Constitution Modifier.  Each additional turn spent Dashing without rest requires the creature to succeed on a DC 10 Constitution Saving Throw at the end of its turn or gain one level of Exhaustion.  A creature regains their ability to dash by sitting and resting for a minute, which is assumed to occur during a Long or Short Rest.
 
 == Difficult Terrain ==
-A creature moving through Difficult Terrain is [[../conditions#Hindered|Hindered]].  This is true even if multiple things in a space count as difficult terrain.  Some examples of difficult terrain are Low furniture, rubble, undergrowth, steep stairs, snow, shallow bogs, poisonous fumes, and the space of another creature (whether hostile or not).  Note that other movement effects stack with difficult terrain, so using your Speed to Crawl through difficult terrain will cost 2 feet of movement for every 1 foot gained, and doing so while Slowed will cost 3 feet of movement for every 1 foot moved.
+A creature moving through Difficult Terrain is [[../conditions#Hindered|Hindered]].  This is true even if multiple things in a space count as difficult terrain.  Some examples of difficult terrain are Low furniture, rubble, undergrowth, steep stairs, snow, shallow bogs, poisonous fumes, and the space of another creature (whether hostile or not).  Note that other movement effects stack with difficult terrain, so using your Speed to Crawl through difficult terrain will cost 3 feet of movement for every 1 foot gained, and doing so while Slowed will cost 4 feet of movement for every 1 foot moved.
 
 At the DMs discretion, climbing a vertical surface that is slippery or has few handholds, or gaining any distance in rough water might be Difficult Terrain, or it might require a successful Strength (Athletics) check to pass.
 
 == Being Prone ==
-Combatants often find themselves lying on the ground, either because they are knocked down or because they throw themselves down. In the game, they are [[../conditions#Prone|Prone]]. You can drop Prone without using any of your speed. Standing up from Prone costs 15 feet of movement.  You can't stand up if you don't have enough movement left or if your speed is 0.
-
-Prone creatures are vulnerable to attackers within 5 feet, but are harder to hit from further away.
+Combatants often find themselves lying on the ground, either because they are knocked down or because they throw themselves down. In game terms, they are [[../conditions#Prone|Prone]]. You can drop Prone without using any of your speed, but standing up from Prone costs 15 feet of movement.  You can't stand up if you don't have enough movement left or if your speed is 0.
 
 To move while Prone, you must crawl or use magic such as teleportation.
 
-If a flying creature is knocked prone, then it will fall and take damage unless it can hover.    
+Prone creatures are [[../conditions#Vulnerable|Vulnerable]] to attackers within 5 feet, but [[../conditions#Braced|Braced]] against attackers from further away. 
+
+If a creature becomes [[../conditions#Prone|Prone]] while flying, then it will fall and take damage unless it can hover.    
 
 == Moving Around Other Creatures ==
-During its Move, a creature can pass through the space of an ally, an Incapacitated creature, or any creature that is two Sizes larger or smaller than it.  Another creature’s space is [[#Difficult Terrain|Difficult Terrain]].  A creature can’t willingly end its Move in a space occupied by another creature.
+During its Move, a creature can pass through a space occupied by an ally, an Incapacitated creature, or any creature that is two Sizes larger or smaller than it.  Another creature’s space is [[#Difficult Terrain|Difficult Terrain]].  A creature can’t willingly end its Move or attack while in a space occupied by another creature.
 
 An effect may throw you into another creature's space against your will.  If this happens, both creatures are knocked [[../conditions#Prone|Prone]].
 
-If a creature is Mountable, it costs 15 feet of movement to mount the creature, at which point the two creatures may occupy the same space.  A creature may dismount with no movement cost, so long as there is an unoccupied space within 5 feet of their mount that they can occupy.
+If a creature is Mountable, it costs 15 feet of movement to mount the creature, at which point the two creatures may occupy the same space.  A creature may dismount with no movement cost, so long as there is an unoccupied space within 5 feet of their mount that they can occupy.  A creature and its mount can both attack despite occupying the same space.  
 
 == Travel Pace ==
 The following rules determine how far a creature can move in a minute, an hour, or a day.

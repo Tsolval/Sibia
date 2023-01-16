@@ -1,20 +1,21 @@
 = Character Ancestry =
 Your chosen Ancestry determines your species and the culture of your upbringing, all of which can grant you a choice of starting features.  An Ancestry is a template, not a mold, and not all members of the same group have the same features, though the following traits are determined by your choice in Ancestry. 
 
+== Ancestral Traits ==
  * [[creature-type|Creature Type]] - A Tag that identifies the Creature Type of your character.  Some Ancestries have more than one Creature Type tag.  All of the tags are relevant to you.
  * [[creature-size|Size]] - A tag that identifies the Size of your character.  If your Ancestry provides more than one Size, choose one.
  * [[movement|Movement]] - The primary Movement Type and base Movement Speed of your character.
- * [[../languages/index|Languages]] - Choose one language from the Standard languages table, which is the language you grew up speaking.  You know that language and Common.
- * Appearance - A description of surface characteristics like height, weight and color of eyes, skin, hair, scale, horn, etc.
+ * Languages - Choose one language from the Standard languages table for your campaign world, which is the language you grew up speaking.  You know that language and Common.
+ * Appearance - A description of surface characteristics like average height, weight and color of eyes, skin, hair, scale, horn, etc.
  * Culture - A description of the known cultures from whih this Ancestry may be taken.
  * Life Span - The average life span for members of your Ancestry.
- * [[feats|Ancestral Feats]] - You have 8 Points to spend purchasing Ancestral Feats that you may choose from the list of General Ancestral Feats or from those specified by the Ancestry.  Your DM may add, remove, or change the list of available feats or the number of points available to spend to suit the Campaign World or table playstyle. 
+ * Ancestral Traits - You have 8 Points to spend purchasing Ancestral Traits that you may choose from the list of General Ancestral Traits or from those specified by the Ancestry.  Your DM may add, remove, or change the list of available feats or the number of points available to spend to suit the Campaign World or table playstyle. 
 
 == Ancestral Traits ==
-Each Ancestry provides Ancestral Feats, which are a collection of abilities that characters gain from their ancestors by biology and culture.  Each of the Ancestral Feats has a point cost associated with it.  By default, you have a pool of 8 points to use when purchasing these feats.  A GM may choose to tailor the point pool and/or the list of available Ancestral Feats in order to customize the Campaign Setting and difficulty for their table.
+Each Ancestry provides Ancestral Traits, which are a collection of abilities that characters gain from their ancestors by biology and culture.  Each of the Ancestral Traits has a point cost associated with it.  By default, you have a pool of 8 points to use when purchasing these feats.  A GM may choose to tailor the point pool and/or the list of available Ancestral Traits in order to customize the Campaign Setting and difficulty for their table.
 
 == Mixing Ancestry ==
-Occasionally, characters of mixed Ancestry appear in the world.  These children often arise as much from magic and the work of the gods as they do from biology.  If you would like to play a child of mixed Ancestry, work with your GM to determine by what mechanism or magic enabled your birth.  You gain the same 8 point pool with which to purchase Ancestral Feats, and you may choose from Traits, Tags, and Ancestral Feats provided by either Ancestry, or average them for things like Life Span or Height/Weight.  GM, you get final say over whether the player is allowed any combination of features, but do attempt to work with the player to allow the concept they are trying to emulate.  This may mean altering the provided mechanics to ensure the character is not over or under powered.
+Occasionally, characters of mixed Ancestry appear in the world.  These children often arise as much from magic and the work of the gods as they do from biology.  If you would like to play a child of mixed Ancestry, work with your GM to determine by what mechanism or magic enabled your birth.  You gain the same 8 point pool with which to purchase Ancestral Traits, and you may choose from Traits, Tags, and Ancestral Traits provided by either Ancestry, or average them for things like Life Span or Height/Weight.  GM, you get final say over whether the player is allowed any combination of features, but do attempt to work with the player to allow the concept they are trying to emulate.  This may mean altering the provided mechanics to ensure the character is not over or under powered.
 
 == Example Ancestries ==
 [[../../worlds/umia/ancestries/index|Example Ancestries]] are listed in the setting guide.

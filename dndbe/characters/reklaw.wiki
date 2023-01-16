@@ -1,0 +1,15 @@
+= Reklaw Smada =
+*Ancestry.* [[../worlds/umia/obran|Obran]]
+*Background.* Nomad
+*Class.* Barbarian
+
+Ancestral Traits
+ * *Creature Type.* Humanoid (Human)
+ * *Size.* Medium (6'8", 223 lbs)
+ * *Movement.* Walk 30 feet
+ * *Languages.* Common, Obra
+ * *Appearance.* Tall, rugged, bronze-skinned, muscle-bound Obran man with brown eyes and silver-grey hair
+ * *Culture.* Nomadic warrior and hunter
+ * *Life Span.* ~70 years
+ * *Versatile (5 points).* 
+

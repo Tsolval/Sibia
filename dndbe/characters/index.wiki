@@ -1,0 +1,4 @@
+= Characters =
+ * [[reklaw|Reklaw]] - Human Barbarian
+ * Tsolval - Wood Elf Druid
+ * Pyka - Wood Elf Ranger

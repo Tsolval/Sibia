@@ -1,0 +1,51 @@
+= Ancestral Traits =
+The following Ancestral traits may be available for your characters to choose from.  Your Ancestry will determine which of the following you gain access.
+
+== Artisan ==
+*Cost.* 1 point
+*Description.* You gain Proficiency in one Artisan's Tool of your choice.
+
+== Crafter ==
+*Cost.* 1 point
+*Description.* When you make any ability check involving Artisan's Tools, you can add 1d4 to the ability check.
+
+== Farmer ==
+*Cost.* 1 point
+*Description.* When you make a Wisdom (Animal Handling) or Intelligence (Nature) check, you can add 1d4 to the ability check.
+
+== Hunter ==
+*Cost.* 1 point
+*Description.* Once per Encounter, when you take the Attack Action, you can add 1d4 to the attack roll.
+
+== Low-Light Vision ==
+*Cost.* 1 point
+*Description.* You can see details in dim light as if it were bright light. Though you still can't discern color in dim light, it is no longer considered to be lightly obscured for you.
+
+== Musician ==
+*Cost.* 1 point
+*Description.* You gain Proficiency in one Musical Instrument of your choice.
+
+== Polyglot ==
+*Cost.* 1 point
+*Description.* You gain Proficiency in one Language of your choice.
+
+== Resourceful ==
+*Cost.* 1 point
+*Description.* You gain Inspiration whenever you finish a Long Rest.
+
+== Skillful ==
+*Cost.* 1 point
+*Description.* You gain Proficiency in one Skill of your choice.
+
+== Strider ==
+*Cost.* 2 points
+*Description.* Your base Walk Speed increases by 5 ft.
+
+== Tracker ==
+*Cost.* 1 point
+*Description.* When you make a Wisdom (Perception) or Wisdom (Survival) check, you can add 1d4 to the ability check.
+
+== Versatile ==
+*Cost.* 5 points
+*Description.* You gain one 1st level Feat of your choice.
+

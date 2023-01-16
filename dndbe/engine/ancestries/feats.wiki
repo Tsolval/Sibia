@@ -1,4 +1,4 @@
-= Ancestral Feats =
+= Ancestral Traits =
 Each Ancestry provides racial traits, which are a collection of abilities that characters gain from their ancestors by biology and culture.  By default, all Ancestry options have a total of 8 points of racial traits allotted to them.  In order to tailor their campaign to a less magical setting or to increase difficulty, a Dungeon Master could specify a lesser amount of points to allocate to your character.  By contrast, if a DM wanted to run a higher powered campaign, they could increase the number of points they allot and allow players to choose additional traits.
 
 The following are feats that can be chosen from for an Ancestry.  Depending on the campaign and world, the DM may decide to disallow any of these feats or allow them for specific races only.

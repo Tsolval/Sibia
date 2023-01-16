@@ -1,0 +1,26 @@
+= Obran =
+The humans of the Obran Plains are noted for their fierce independence.  Most Obran are nomads who roam the plains, making their living hunting and foraging while serving their people as soldiers and scouts protecting the country.  The others reside in or near the few permanent settlements which are the agricultural and trading hubs of Obran culture.
+
+== Obran Traits ==
+ * *Creature Type.* Humanoid
+ * *Size.* Medium or Small.  Choose when you select the ancestry.  The Obran people humans, like any other.
+ * *Movement.* Walk 30 feet
+ * *Languages.* Common, Obra
+ * *Appearance.* Rugged, world-savvy humans, the Obran skin color is brown and ranges in shade from bronze to chocolate.  Their eyes are typically brown, though some rare individuals have silver, blue, or green.
+ * *Culture.* Mostly nomadic hunter-gatherers, the Obran do have a few large permanent settlements where their people grow crops and offer trade.
+ * *Life Span.* 70 years on average
+ * *Ancestral Traits.* As an Obran, you have access to the following ancestral traits.  You have 8 points to spend choosing the traits that your character inherited from their ancestors or mastered growing up in this culture.
+   * [[traits#Crafter|Crafter]]
+   * [[traits#Polyglot|Polyglot]]
+   * Farmer's Intuition
+   * Hunter's Intuition 
+   * Hunter's Instinct 
+   * Low-Light Vision 
+   * Resourceful 
+   * Skillful 
+   * Strider 
+   * Versatile
+
+== Mixing Ancestry ==
+Occasionally, characters of mixed Ancestry appear in the world.  These children often arise as much from magic and the work of the gods as they do from biology.  If you would like to play a child of mixed Ancestry, work with your GM to determine by what mechanism or magic enabled your birth.  You gain the same 8 point pool with which to purchase Ancestral Feats, and you may choose from Traits, Tags, and Ancestral Feats provided by either Ancestry, or average them for things like Life Span or Height/Weight.  GM, you get final say over whether the player is allowed any combination of features, but do attempt to work with the player to allow the concept they are trying to emulate.  This may mean altering the provided mechanics to ensure the character is not over or under powered.
+
