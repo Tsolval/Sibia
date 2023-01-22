@@ -1,0 +1,104 @@
+= Rocor Bhotta =
+_Kellid (Human) Scout - Ranger_
+Heritage: Versatile 
+
+*STR   DEX   CON   WIS   INT   CHA    HP  Comment*
+ 10    10    10    10    10    10    00
+       +2    +2                      08   Human 
+       +2          +2                08   Scout 
+
+*Base Speed   Comment*
+25 feet       Human
+
+*Size:* Medium
+
+== Proficiencies ==
+=== Skills ===
+*Skill         Ability   Modifier   Ranks   Misc   Total*
+*Acrobatics*      DEX        
+*Appraise*
+Bluff
+Climb
+Craft: xxx
+Diplomacy
+Disable Device*
+Disguise
+Escape Artist
+Fly
+Handle Animal*
+Heal
+Intimidate
+Knowledge (Arcana)*
+Knowledge (Dungeoneering)*
+Knowledge (Engineering)*
+Knowledge (Geography)*
+Knowledge (History)*
+Knowledge (Local)*
+Knowledge (Nature)*
+Knowledge (Nobility)*
+Knowledge (Planes)*
+Knowledge (Religion)*
+Linguistics*
+Perception
+Perform: xxx
+Profession*: xxx
+Ride
+Sense Motive
+Sleight of Hand
+Spellcraft*
+Stealth
+Survival
+Swim
+Use Magical Device*
+
+
+* Trained only
+
+
+Nature: Trained
+Survival: Trained
+{4+INT Mod}: Trained
+
+=== Languages ===
+*Language   Comment*
+Common      Human
++{INT Modifier} accessible languages of choice. Human
+
+
+Ancestral Feats
+Lvl 1: 
+
+General Feats
+Versatile: 
+
+== Attack Proficiencies ==
+Simple Weapons: Trained
+Martial Weapons: Trained
+Unarmed Attacks: Trained
+
+== Defense Proficiencies ==
+Light Armor: Trained
+Medium Armor: Trained
+Unarmored Defense: Trained
+
+== Class DC ==
+Ranger Class DC: Trained
+
+
+
+Ancestry
+Human {DEX:+2, CON:+2, HP:8, Speed:25ft, Size:Medium, Languages:{Common, +[INT Mod] Languages}
+   Heritage: {Name: Versatile Heritage, +1 General Feat }
+   Ancestry Feat: {Name: Natural Ambition, +1 Class Feat }
+Background 
+Scout {DEX: +2, WIS: +2, Skills: [Survival: Trained, Lore (Steppes): Trained], Skill Feats: [Forager]}
+Class {DEX: +2, HP: [+10, +CON], Perception: Expert, Fortitude: Expert, Reflex: Expert, Will: Trained, Nature: Trained, Survival: Trained, Other Skills: Trained in 4+INT Mod, Class Feats: [
+Hunt Prey
+Hunter's Edge: Precision (+1d8 precision damage/round)
+Ranger Feat: Monster Hunter
+]}
+
+
+Human: CRB:CH2:Human
+Versatile Heritage: CRB:CH2:Human
+Kellid: CRB:CH8:Cultures

@@ -8,3 +8,9 @@ This is a modified version of Dungeons and Dragons based on 5th edition.  It has
 
 == Playtesting ==
   * [[characters/index|Characters]]
+
+== Pathfinder ==
+ * [[pf2e/characters|Characters]]
+ * 
+
+[[dos/index|Dragons Over Sibia]]
