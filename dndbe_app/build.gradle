@@ -20,6 +20,7 @@ dependencies {
 	implementation 'org.apache.groovy:groovy'
 	implementation 'org.flywaydb:flyway-core'
 	runtimeOnly 'com.h2database:h2'
+	testImplementation 'org.apache.groovy:groovy-test-junit5:4.0.7'
 	testImplementation 'org.springframework.boot:spring-boot-starter-test'
 }
 
