@@ -12,7 +12,6 @@ class MainController {
 
     @GetMapping
     def showDashboard() {
-        'Greetings from Spring Boot!'
         new ModelAndView ('views/home', [bootVersion  : Banner.package.implementationVersion,
                                          groovyVersion: GroovySystem.version])
     }
