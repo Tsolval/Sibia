@@ -19,10 +19,10 @@ html(lang: 'en') {
         div(class:'collapse navbar-collapse', id:'navbarsExample04') {
           ul(class:'navbar-nav col-md-8 me-auto mb-3 mb-md-0 justify-content-md-center') {
             li(class:'nav-item mx-3') {
-              a(class:'nav-link active', 'aria-current':'page', href:'#', 'Home')
+              a(class:'nav-link active', 'aria-current':'page', href:'/', 'Home')
             }
             li(class:'nav-item mx-3') {
-              a(class:'nav-link active', 'aria-current':'page', href:'#', 'Characters')
+              a(class:'nav-link active', 'aria-current':'page', href:'/characters', 'Characters')
             }
             li(class:'nav-item mx-3') {
               a(class:'nav-link', href:'#', 'Game Masters')
