@@ -11,6 +11,8 @@ class CharacterController {
 
     @GetMapping
     def listCharacters() {
-        new ModelAndView ('views/characters' )
+        def neo = new Expando(name: 'Neo', player: 'Keanu')
+        def characters = [neo]
+        new ModelAndView ('views/characters', [toons: characters] )
     }
 }
