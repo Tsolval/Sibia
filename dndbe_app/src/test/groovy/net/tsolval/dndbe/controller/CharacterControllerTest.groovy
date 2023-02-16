@@ -12,15 +12,15 @@ import static org.springframework.test.web.servlet.request.MockMvcRequestBuilder
 
 @SpringBootTest
 @AutoConfigureMockMvc
-class MainControllerTest {
+class CharacterControllerTest {
 
     @Autowired
     MockMvc mvc
 
     @Test
-    void testShowDashboard() {
-        def response = mvc.perform(get('/').accept(APPLICATION_JSON)).andReturn().response
+    void testListCharacters() {
+        def response = mvc.perform(get('/characters').accept(APPLICATION_JSON)).andReturn().response
         assert response.status == OK.value()
-        assert response.contentAsString ==~ /.*This is an application using Boot.*and Groovy templates.*/
+        assert response.contentAsString ==~ /.*Characters List.*/
     }
 }

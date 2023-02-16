@@ -1,10 +1,11 @@
 package net.tsolval.dice.service
 
+import net.tsolval.dice.config.DiceConfig
 import org.junit.jupiter.api.Test
 import org.springframework.beans.factory.annotation.Autowired
 import org.springframework.boot.test.context.SpringBootTest
 
-@SpringBootTest
+@SpringBootTest(classes = [DiceService, DiceConfig])
 class DiceServiceTest {
 
     @Autowired
