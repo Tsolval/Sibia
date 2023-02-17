@@ -1,5 +1,7 @@
 package net.tsolval.dndbe.controller
 
+import net.tsolval.dndbe.service.CharacterService
+import org.springframework.beans.factory.annotation.Autowired
 import org.springframework.stereotype.Controller
 import org.springframework.web.bind.annotation.GetMapping
 import org.springframework.web.bind.annotation.RequestMapping
@@ -9,10 +11,12 @@ import org.springframework.web.servlet.ModelAndView
 @RequestMapping("/characters")
 class CharacterController {
 
+    @Autowired
+    CharacterService service
+
     @GetMapping
     def listCharacters() {
-        def neo = new Expando(name: 'Neo', player: 'Keanu')
-        def characters = [neo]
-        new ModelAndView ('views/characters', [toons: characters] )
+        new ModelAndView ('views/characters', [toons: service.allCharacters] )
     }
+
 }
