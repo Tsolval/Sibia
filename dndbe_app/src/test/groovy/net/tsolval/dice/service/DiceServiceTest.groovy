@@ -1,6 +1,6 @@
-package net.tsolval.dice.service
+package net.tsolval.dndbe.dice.service
 
-import net.tsolval.dice.config.DiceConfig
+import net.tsolval.dndbe.dice.config.DiceConfig
 import org.junit.jupiter.api.Test
 import org.springframework.beans.factory.annotation.Autowired
 import org.springframework.boot.test.context.SpringBootTest

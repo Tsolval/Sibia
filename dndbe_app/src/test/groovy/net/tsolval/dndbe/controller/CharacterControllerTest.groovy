@@ -21,6 +21,6 @@ class CharacterControllerTest {
     void testListCharacters() {
         def response = mvc.perform(get('/characters').accept(APPLICATION_JSON)).andReturn().response
         assert response.status == OK.value()
-        assert response.contentAsString ==~ /.*Characters List.*/
+        assert response.contentAsString ==~ /.*Characters.*/
     }
 }

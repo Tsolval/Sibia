@@ -1,4 +1,4 @@
-package net.tsolval.dice.config
+package net.tsolval.dndbe.dice.config
 
 import org.springframework.context.annotation.Bean
 import org.springframework.context.annotation.Configuration

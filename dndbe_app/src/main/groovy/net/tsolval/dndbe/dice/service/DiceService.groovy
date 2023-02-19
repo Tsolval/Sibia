@@ -1,4 +1,4 @@
-package net.tsolval.dice.service
+package net.tsolval.dndbe.dice.service
 
 import org.springframework.beans.factory.annotation.Autowired
 import org.springframework.stereotype.Service
@@ -24,14 +24,14 @@ class DiceService {
      * @param phrase - a die phrase, such as "1d4" or "4d6"
      * @return an array of Integers where the first number is count and the second number is size
      */
-    def parse(String dieString) { dieString.split('d').collect {it as int} }
+    static def parse(String dieString) { dieString.split('d').collect { it as int } }
 
     /** Roll a number of die and return a collection of the results of each die.  Use sum() to get the value.
      * @param number - the number of dice to roll
      * @param sides - the number of sides of the die being rolled
      * @return a collection of the results from each individual die
      */
-    def roll(int number, int sides) { (1..number).collect{ roll(sides) } }
+    def roll(int number, int sides) { (1..number).collect { roll(sides) } }
 
     /** Roll a number of die signified by a die phrase and return a collection of the results of each die.
      * A die phrase indicates the number of dice to roll and the size of the dice separated by a letter d.
