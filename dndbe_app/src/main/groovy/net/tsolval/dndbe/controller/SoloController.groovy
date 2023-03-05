@@ -1,5 +1,6 @@
 package net.tsolval.dndbe.controller
 
+import net.tsolval.dndbe.model.Odds
 import net.tsolval.dndbe.model.view.OracleResponse
 import net.tsolval.dndbe.service.OracleService
 import org.springframework.beans.factory.annotation.Autowired
@@ -19,13 +20,11 @@ class SoloController {
 
     @GetMapping
     def getSoloTools() {
-        new ModelAndView('views/solo', [tools: 'oracle'])
+        new ModelAndView('views/solo', [odds: Odds.values()])
     }
 
     @GetMapping('/oracle')
     @ResponseBody
-//    OracleResponse consultOracle(@RequestParam(name = 'chaosLevel') int chaosLevel = 5,
-//                                 @RequestParam(name = 'odds') Odds odds = Odds.POSSIBLE) {
     OracleResponse consultOracle(@RequestParam(name = 'cl', defaultValue = '5') int chaosLevel,
                                  @RequestParam(name = 'odds', defaultValue = 'POSSIBLE') Odds odds) {
         return oracle.consult(chaosLevel, odds)

@@ -1,7 +1,7 @@
 package net.tsolval.dndbe.service
 
 import net.tsolval.dndbe.dice.service.DiceService
-import net.tsolval.dndbe.controller.Odds
+import net.tsolval.dndbe.model.Odds
 import net.tsolval.dndbe.model.view.OracleResponse
 import org.springframework.beans.factory.annotation.Autowired
 import org.springframework.stereotype.Service
@@ -31,12 +31,12 @@ class OracleService {
         response.dieResult = dice.roll('1d20')[0]
         response.modifier = oracleTable[odds][chaosLevel - 1]
         response.totalResult = response.dieResult + response.modifier
-        response.description = getDescription(response.dieResult, response.totalResult)
+        response.description = buildOracleResultString(response.dieResult, response.totalResult)
 
         response
     }
 
-    String getDescription(int dieResult, int totalResult) {
+    static String buildOracleResultString(int dieResult, int totalResult) {
         String answer
         String qualifier = ''
         if (totalResult <= 10) {

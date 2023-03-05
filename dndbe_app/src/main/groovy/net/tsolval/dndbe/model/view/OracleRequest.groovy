@@ -3,7 +3,7 @@ package net.tsolval.dndbe.model.view
 import jakarta.validation.constraints.Max
 import jakarta.validation.constraints.Min
 import jakarta.validation.constraints.NotNull
-import net.tsolval.dndbe.controller.Odds
+import net.tsolval.dndbe.model.Odds
 
 class OracleRequest {
     @Min(1)

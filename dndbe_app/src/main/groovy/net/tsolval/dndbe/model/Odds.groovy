@@ -1,4 +1,4 @@
-package net.tsolval.dndbe.controller
+package net.tsolval.dndbe.model
 
 enum Odds {
     IMPOSSIBLE,
@@ -9,5 +9,5 @@ enum Odds {
     PROBABLE,
     LIKELY,
     EXPECTED,
-    GUARANTEED,
+    GUARANTEED
 }

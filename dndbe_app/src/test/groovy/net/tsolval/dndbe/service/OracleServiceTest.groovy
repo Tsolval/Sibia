@@ -1,6 +1,6 @@
 package net.tsolval.dndbe.service
 
-import net.tsolval.dndbe.controller.Odds
+import net.tsolval.dndbe.model.Odds
 import org.junit.jupiter.api.Test
 import org.springframework.beans.factory.annotation.Autowired
 import org.springframework.boot.test.context.SpringBootTest

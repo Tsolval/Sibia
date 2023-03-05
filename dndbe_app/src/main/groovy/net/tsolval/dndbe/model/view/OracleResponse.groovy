@@ -1,7 +1,7 @@
 package net.tsolval.dndbe.model.view
 
 
-import net.tsolval.dndbe.controller.Odds
+import net.tsolval.dndbe.model.Odds
 
 class OracleResponse {
     int chaosLevel
