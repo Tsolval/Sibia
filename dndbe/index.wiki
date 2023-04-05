@@ -5,12 +5,10 @@ This is a modified version of Dungeons and Dragons based on 5th edition.  It has
   * [[worlds/umia/index|The World of Umia]]
   * [[odnd/index|One D&D]]
 
-
 == Playtesting ==
   * [[characters/index|Characters]]
 
 == Pathfinder ==
  * [[pf2e/characters|Characters]]
- * 
 
 [[dos/index|Dragons Over Sibia]]

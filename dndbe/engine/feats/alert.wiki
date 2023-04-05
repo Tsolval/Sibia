@@ -1,6 +1,6 @@
 = Alert =
-_1st Level Feat_
 
+*Level.* 1
 *Prerequisite:* None
 *Repeatable:* No
 

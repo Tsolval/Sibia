@@ -7,77 +7,139 @@ When you create your Fighter character, think about where they come from.  Where
 When you build your Fighter, you should put your highest Ability Scores into Strength or Dexterity, depending on your weapon of choice, and Constitution.  Spellcasting Fighters might take their spellcasting ability as their second highest value instead.
 
 == Multiclassing ==
-You can take any class you want at 1st level, whether you qualify for it or not.  But in order to take levels in a different class, you must qualify for both your original class and the class you wish to take a level in. 
+You can take a level in any class you want at 1st level, whether you qualify for it or not.  But in order to gain features of another class, you must start by taking the class resource feat for that class.  When you do so, you must meet the Multiclass Requirements for both your original class and the new one.
 
-To multiclass as a Fighter, you must have a Strength or Dexterity Score of at least 13.
+When you take a multiclass level, you gain the proficiencies listed in class resource feat Proficiencies instead of the Armor, Weapon, Tool, Saving Throw, and Skill proficiencies listed under Proficiencies. 
 
 == The Fighter Table ==
-| Level | Proficiency Bonus | Features                | Tactics Die |
-|:-----:|:-----------------:|-------------------------|:-----------:|
-|  1st  |        +2         | Tactics, Fighting Style |     1d4     |
-|  2nd  |        +2         |                         |     1d4     |
-|  3rd  |        +2         |                         |     1d4     |
-|  4th  |        +2         |                         |     1d4     |
-|  5th  |        +3         |                         |     1d6     |
-|  6th  |        +3         |                         |     1d6     |
-|  7th  |        +3         |                         |     1d6     |
-|  8th  |        +3         |                         |     1d6     |
-|  9th  |        +4         |                         |     1d8     |
-| 10th  |        +4         |                         |     1d8     |
-| 11th  |        +4         |                         |     1d8     |
-| 12th  |        +4         |                         |     1d8     |
-| 14th  |        +5         |                         |    1d10     |
-| 15th  |        +5         |                         |    1d10     |
-| 16th  |        +5         |                         |    1d10     |
-| 17th  |        +6         |                         |    1d12     |
-| 18th  |        +6         |                         |    1d12     |
-| 19th  |        +6         |                         |    1d12     |
-| 20th  |        +6         |                         |    1d12     |
+| Level | Proficiency Bonus | Features | Tactics Die |
+|:-----:|:-----------------:|----------|:-----------:|
+|  1st  |        +2         | Tactics  |     1d4     |
+|  2nd  |        +2         |          |     1d4     |
+|  3rd  |        +2         |          |     1d4     |
+|  4th  |        +2         |          |     1d4     |
+|  5th  |        +3         |          |     1d6     |
+|  6th  |        +3         |          |     1d6     |
+|  7th  |        +3         |          |     1d6     |
+|  8th  |        +3         |          |     1d6     |
+|  9th  |        +4         |          |     1d8     |
+| 10th  |        +4         |          |     1d8     |
+| 11th  |        +4         |          |     1d8     |
+| 12th  |        +4         |          |     1d8     |
+| 14th  |        +5         |          |    1d10     |
+| 15th  |        +5         |          |    1d10     |
+| 16th  |        +5         |          |    1d10     |
+| 17th  |        +6         |          |    1d12     |
+| 18th  |        +6         |          |    1d12     |
+| 19th  |        +6         |          |    1d12     |
+| 20th  |        +6         |          |    1d12     |
 
-== Class Features ==
-You gain the following features when you take up the Fighter Class.
+== Starting as a Fighter ==
+When you choose Fighter as your first class, you gain the following:
 
-=== Hit Points ===
-*Hit Dice:* 1d10 per Fighter level
-*Hit Points at 1st Level:* 10 + Constitution modifier
-*Hit Points at Higher Levels:* 1d10 (6) + your Constitution Modifier per Fighter level after 1st.
+*Hit Points.* 10 
 
-=== Proficiencies ===
-*Armor:* Heavy, Medium, Light, Shields
-*Weapons:* Martial, Simple
-*Tools:* None
-*Saving Throws:* Strength, Constitution
-*Skills:* Choose two skills from Acrobatics, Animal Handling, Athletics, History, Insight, Intimidation, Perception, and Survival
+*Saving Throw Proficiency.* Strength, Constitution
 
-=== Equipment ===
-You start with either 200 gold or your choices from the following equipment, in addition to the equipment granted by your background.
+*Skill Proficiency.* Choose two skills from Acrobatics, Animal Handling, Athletics, History, Insight, Intimidation, Perception, and Survival
 
- * chain mail                    or leather armor, longbow and 20 arrows
- * a martial weapon and a shield or two martial weapons
- * a light crossbow and 20 bolts or two handaxes
- * a dungeoneer's pack           or an explorer's pack
+*Equipment.* Fighters start with up to 200 gold that they can spend on equipment.  Alternatively, you can quickly choose your equipment from the following list of options. 
+ * chain mail          or a longbow and 20 arrows and leather armor
+ * two martial weapons or a martial weapon and a shield
+ * two handaxes        or a light crossbow and 20 bolts
+ * a dungeoneer's pack or an explorer's pack
 
-=== Tactics ===
-At level 1, you have a Tactics Resource Die which is a 1d4.  You also have an associated Resource Level which is equal to the largest face of the die, and which changes based on the result of your roll.  If you roll the highest face of your Resource Die, you increase the Resource Level by one, up to the die's maximum.  If the result of your Resource Die roll is less than or equal to your current Resource Level, you lose one Resource Level.  If your Resource Level is 1 and you lose a level, you lose the resource.  You will regain your Resource Die after you finish a Long Rest.
+== Class Feats ==
 
-As you grow in power as a Fighter, your Resource Die will grow with you, and you will gain other abilities that utilize your Tactics Resource Die as well.
+=== Fighter: Tactics ===
+*Fighter* *Resource* *Feat*
 
-*Tactics DC.* The DC is 8 + your Proficiency Bonus + your Strength or Dexterity Modifier (your choice).
+*Requirements.* Starting as Fighter or Strength 13 or Dexterity 13
 
-You can use your Tactics Resource Die to perform the following actions.
+*Hit Dice.* You should have a number of hit die equal to your level.  When you take this feat, and again every subsequent level when you take a Fighter Feat, you gain a hit die which is a 1d10.
 
- * *Second Wind.* As a Bonus Action, you can expend one of your Hit Dice.  Roll it and your Resource Die.  You regain Hit Points equal to the sum of the two dice plus your Fighter level.
- * *Trip.* When you hit a creature with a Weapon Attack, you can attempt to knock your target down.  Roll your Resource Die and add the result to your attack's damage roll.  If the target is no more than one size larger than you, it must make a Strength saving throw.  
+*Hit Points.* You gain hit points whenever you gain a level.  Roll a 1d10 (Minimum of 6) + your Constitution Modifier when you take this feat, and again every subsequent level when you take a Fighter feat.
+
+*Armor Proficiency.* Heavy, Medium, Light, Shields
+
+*Weapon Proficiency.* Simple, Martial
+
+*Class Ability.* Choose one from Strength or Dexterity.
+
+*Fighting Style.* Choose one of the following options.  You can't choose an option more than once, even if you get to choose again later.
+
+*Tactics.* You have a Tactics Resource Die which starts as a 1d4.  As you grow in power, your Resource Die will grow with you, as shown in the class progression table, and you will gain other abilities that utilize your Tactics Resource Die.
+
+*Tactics DC.* The DC is 8 + your Proficiency Bonus + your Class Ability Modifier.
+
+*Tactical Maneuvering.* You can use your Tactics Resource Die to perform the following actions.
+ * *Second Wind.* As an Action, you can expend one of your Hit Die.  Roll it and your Resource Die.  You regain Hit Points equal to the sum of the two dice plus your Fighter level.
+ * *Trip.* When you hit a creature with a Weapon Attack, you can attempt to knock your target down.  Roll your Resource Die and add the result to your attack's damage roll.  If the target is no more than one size larger than you, it must make a Strength saving throw against your Tactics DC, falling prone on a failure.
  * *Grapple.* When you hit a creature with a Weapon Atttack, you can attempt to grapple your target.  To do so, you must have at least one hand free and your target must be no more than one Size larger than you.  Roll your Tactics Resource Die and add the result to the damage of the attack.  The target is Grappled, and the grapple's escape DC is equal to your Tactics DC.
- * *Shove.* When you hit a creature with a Weapon Attack, you can choose to either push the target 5 feet away or knock the target Prone.  This shove is only possible if the target is no more than one Size larger than you.  Roll your Tactics Resource die and add the result to the damage of your attack.
+ * *Shove.* When you hit a creature with a Weapon Attack, you can push the target 5 feet into an unoccupied space.  This shove is only possible if the target is no more than one Size larger than you.  Roll your Tactics Resource die and add the result to the damage of your attack.
 
 === Fighting Style ===
-Choose one of the following options.  You can't choose an option more than once, even if you get to choose again later.
+*Fighter* *Feat*
 
-*Archery.* You gain a +2 bonus to attack rolls you make with ranged weapons.
-*Defense.* While you are wearing armor, you gain a +1 bonus to AC.
-*Dueling.* When you are wielding a melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon.
-*Great Weapon Fighting.* When you roll a 1 or 2 on a damage die for an attack you make with a Melee Weapon that you are wielding with two hands, you can reroll the die and must use the new roll, even if the new roll is a 1 or 2.  The weapon must have the two-handed or versatile property for you to gain this benefit.
-*Protection.* When a creature you can see attacks a target other than you that is within 5 feet of you, you can use your reaction to impose disadvantage on the attack roll.  You must be wielding a shield.
-*Two-Weapon Fighting.* When you engage in two-weapon fighting, you can add your ability modifier to the damage of the second attack.
+*Level.* 1
+*Repeatable.* Yes; You may select this feat multiple times, but you cannot take the same option more than once.
+
+ * *Archery.* You gain a +2 bonus to attack rolls you make with ranged weapons.
+ * *Defense.* While you are wearing armor, you gain a +1 bonus to AC.
+ * *Dueling.* When you are wielding a melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon.
+ * *Great Weapon Fighting.* When you roll a 1 or 2 on a damage die for an attack you make with a Melee Weapon that you are wielding with two hands, you can reroll the die and must use the new roll, even if the new roll is a 1 or 2.  The weapon must have the two-handed or versatile property for you to gain this benefit.
+ * *Protection.* When a creature you can see attacks a target other than you that is within 5 feet of you, you can use your reaction to impose disadvantage on the attack roll.  You must be wielding a shield.
+ * *Two-Weapon Fighting.* When you engage in two-weapon fighting, you can add your ability modifier to the damage of the second attack.
+ * *Blind Fighting.* You have blindsight with a range of 10 feet.  Within that range, you can effectively see anything that isn't behind total cover, even if you're blinded or in darkness.  Moreover, you can see an invisible creature within that range, unless the creature successfully hides from you.
+ * *Interception.* When a creature you can see hits a target, other than you, within 5 feet of you with an attack, you can use your reaction to reduce the damage the target takes by 1d10 + your Proficiency Bonus (to a minimum of 0 damage). 
+ * *Superior Technique.* *Rework!* You learn one level one Tactics Feat.  You learn one maneuver of your choice from among those available to the Battle Master archetype. If a maneuver you use requires your target to make a saving throw to resist the maneuver’s effects, the saving throw DC equals 8 + your proficiency bonus + your Strength or Dexterity modifier (your choice).
+You gain one superiority die, which is a d6 (this die is added to any superiority dice you have from another source). This die is used to fuel your maneuvers. A superiority die is expended when you use it. You regain your expended superiority dice when you finish a short or long rest.
+ * *Thrown Weapon Fighting.* You can draw a weapon that has the thrown property as part of the attack you make with the weapon.
+In addition, when you hit with a ranged attack using a thrown weapon, you gain a +2 bonus to the damage roll.
+ * *Unarmed Fighting.* Your unarmed strikes can deal bludgeoning damage equal to 1d6 + your Class Ability modifier on a hit. If you aren’t wielding any weapons or a shield when you make the attack roll, the d6 becomes a d8. At the start of each of your turns, you can deal 1d4 bludgeoning damage to one creature grappled by you.
+
+=== Action Surge ===
+*Fighter* *Feat*
+
+*Level.* 1
+*Repeatable.* No
+
+You have learned to push yourself in combat. On your turn, you can take one additional action, for a total of 5. 
+
+=== Advanced Action Surge ===
+*Fighter* *Feat*
+
+*Level.* 16
+*Repeatable.* No.
+*Requirements.* Action Surge
+
+You have learned to push yourself even further in combat.  On your turn, you can take one more additional action, for a total of 6.
+
+=== Martial Form ===
+*Fighter* *Martial Form* *Feat*
+
+*Level.* 1
+*Repeatable.* No.
+*Requirements.* 2 Fighter Class Feats
+
+This feat qualifies you for Martial Form feats.  Choose one of the Martial Form types listed below.  You gain one feat of that type now, and may select any additional feats of that type whenever you choose a Class Feat.
+
+ * *Arcane Archer.* You are an archer who channels magical energy into your shots to create spectacular effects.
+ * *Cavalier.* You are a mounted warrior of great skill.
+ * *Champion.* A warrior who focuses on accuracy and efficiency of movement.
+ * *Echo Knight.* A warrior who calls forth shades of themselves from other timelines to aid them in battle.
+ * *Eldritch Knight.* You are a warrior who integrates spellcraft with your swordcraft.
+ * *Gunslinger.* You design your own guns and ammunition, with which you rule the battlefield.
+ * *Psi Warrior.* Your psionic powers have made you a powerful force to reckon with.
+ * *Banneret.* Your inspiration and leadership guide your allies to victory.
+ * *Rune Knight.* Using the power of runes, you empower your equipment to augment your fighting abilities.
+ * *Samurai.* You fight with great spirit and willpower, dominating your opponents.
+
+=== Ability Score Improvement ===
+*General* *Feat*
+
+*Level.*  4
+*Repeatable.* Yes
+
+You increase one Ability Score of your choice by 2, or you increase two Ability Scores of your choice by 1. You can’t increase an Ability Score above 20 with this feat.
 

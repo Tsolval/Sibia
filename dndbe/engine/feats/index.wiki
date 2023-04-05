@@ -4,25 +4,76 @@ This section offers a collection of 1st-level Feats, which are special features 
 == Parts of a Feat ==
 The description of a Feat contains the following parts, which are presented after the Feat’s name:
 
-*Level.* Each Feat has a level. To take a Feat, your level must equal or exceed the Feat’s level.
-
-*Prerequisite.* You must meet any prerequisite specified in a Feat to take that Feat. If you lose a Feat’s prerequisite, you can’t use that Feat until you regain the prerequisite.
-
-*Repeatable.* If a Feat is repeatable, you can take it more than once. If it isn’t repeatable, you can take the Feat only once.
+*Type.* These tags identify the Feat Types.  Anyone can take Feats with the General type.  Feat types, such ase Resource, Fighting Style, etc., subdivide Feats into groups.
+*Level.* Each Feat has a level. To take a Feat, your level must equal or exceed the Feat’s level.  If a level is not listed, it's level is 1.
+*Class.* Each Feat is available to one or more classes.  To take this feat, you must be a member of the class or class group listed.  If nothing is listed, this Feat is available to everyone.  
+*Repeatable.* If a Feat is repeatable, you can take it more than once. If it isn’t repeatable, you can take the Feat only once. Some feats are Repeatable on a condition. 
+*Prerequisite.* If a Feat requires any other prerequisite, like race or abilty score restrictions, they will be mentioned here.
 
 = Feat List =
 
-| Name                                | Level | Prerequisite | Repeatable | Summary             |
-|-------------------------------------|-------|--------------|------------|---------------------|
-| [[alert|Alert]]                     | 1     | N            | N          | Initiative          |
-| [[crafter|Crafter]]                 | 1     | N            | N          | Crafting, Trading   |
-| [[healer|Healer]]                   | 1     | N            | N          | Healing             |
-| [[lucky|Lucky]]                     | 1     | N            | N          | Luck                |
-| [[magic-initiate|Magic Initiate]]   | 1     | N            | Y          | Magic               |
-| [[musician|Musician]]               | 1     | N            | N          | Musical Inspiration |
-| [[savage-attacker|Savage Attacker]] | 1     | N            | N          | Damage              |
-| [[skilled|Skilled]]                 | 1     | N            | Y          | Skills              |
-| [[tavern-brawler|Tavern Brawler]]   | 1     | N            | N          | Unarmed Combat      |
-| [[tough|Tough]]                     | 1     | N            | N          | Hit Points          |
-
-
+| Name                                                                           | Level | Class        | Repeatable | Prerequisite                             | Summary                                                               |
+|--------------------------------------------------------------------------------|-------|--------------|------------|------------------------------------------|-----------------------------------------------------------------------|
+| [[ability-score-improvement|Ability Score Improvement]]                        | 4     | All          | Y          |                                          | +2 to one Ability or +1 to two Abilities                              |
+| [[actor|Actor]]                                                                | 4     | All          | N          | 13+ Charisma                             | +1 Charisma; Impersonation and Mimicry                                |
+| [[alert|Alert]]                                                                | 1     | All          | N          |                                          | Initiative Proficiency; Initiative Swap                               |
+| [[athlete|Athlete]]                                                            | 4     | All          | N          | 13+ Strength, Dexterity, or Constitution | +1 Strength, Dexterity, or Constitution; Climb Speed; Hop Up; Jumping |
+| [[charger|Charger]]                                                            | 4     | All          | N          | Proficiency with a Martial Weapon        | +1 Strength, Dexterity; Improved Dash; Charge Attack                  |
+| [[crafter|Crafter]]                                                            | 1     | All          | N          |                                          | Tool Proficiency; Discount; Faster Crafting                           |
+| [[crossbow-expert|Crossbow Expert]]                                            | 4     | All          | N          | Proficiency with a Martial Weapon        | +1 Dexterity; Ignore Loading; Firing in Melee; Dual Wielding          |
+| [[defensive-duelist|Defensive Duelist]]                                        | 4     |              |            |                                          |                                                                       |
+| [[dual-wielder|Dual Wielder]]                                                  |       |              |            |                                          |                                                                       |
+| [[durable|Durable]]                                                            |       |              |            |                                          |                                                                       |
+| [[elemental-adept|Elemental Adept]]                                            |       |              |            |                                          |                                                                       |
+| [[epic-boon-of-combat-prowess|Epic Boon of Combat Prowess]]                    |       |              |            |                                          |                                                                       |
+| [[epic-boon-of-dimensional-travel|Epic Boon of Dimensional Travel]]            |       |              |            |                                          |                                                                       |
+| [[epic-boon-of-energy-resistance|Epic Boon of Energy Resistance]]              |       |              |            |                                          |                                                                       |
+| [[epic-boon-of-fate|Epic Boon of Fate]]                                        | 20    | Mage, Priest | N          |                                          | Limited D20 Modification                                              |
+| [[epic-boon-of-fortitude|Epic Boon of Fortitude]]                              |       |              |            |                                          |                                                                       |
+| [[epic-boon-of-irrestible-offense|Epic Boon of Irrestible Offense]]            |       |              |            |                                          |                                                                       |
+| [[epic-boon-of-luck|Epic Boon of Luck]]                                        |       |              |            |                                          |                                                                       |
+| [[epic-boon-of-night-spirit|Epic Boon of Night Spirit]]                        |       |              |            |                                          |                                                                       |
+| [[epic-boon-of-peerless-aim|Epic Boon of Peerless Aim]]                        |       |              |            |                                          |                                                                       |
+| [[epic-boon-of-recovery|Epic Boon of Recovery]]                                |       |              |            |                                          |                                                                       |
+| [[epic-boon-of-skill-prificiency|Epic Boon of Skill Proficiency]]              |       |              |            |                                          |                                                                       |
+| [[epic-boon-of-speed|Epic Boon of Speed]]                                      |       |              |            |                                          |                                                                       |
+| [[epic-boon-of-spell-recall|Epic Boon of Spell Recall]]                        | 20    | Mage, Priest | N          |                                          | Potential Free Spells                                                 |
+| [[epic-boon-of-the-unfettered|Epic Boon of The Unfettered]]                    |       |              |            |                                          |                                                                       |
+| [[epic-boon-of-truesight|Epic Boon of Truesight]]                              | 20    | Priest       | N          |                                          | Truesight                                                             |
+| [[epic-boon-of-undetectability|Epic Boon of Undetectability]]                  |       |              |            |                                          |                                                                       |
+| [[fighting-style/archery|Fighting Style: Archery]]                             |       |              |            |                                          |                                                                       |
+| [[fighting-style/defense|Fighting Style: Defense]]                             |       |              |            |                                          |                                                                       |
+| [[fighting-style/dueling|Fighting Style: Dueling]]                             |       |              |            |                                          |                                                                       |
+| [[fighting-style/great-weapon-fighting|Fighting Style: Great Weapon Fighting]] |       |              |            |                                          |                                                                       |
+| [[fighting-style/protection|Fighting Style: Protection]]                       |       |              |            |                                          |                                                                       |
+| [[fighting-style/two-weapon-fighting|Fighting Style: Two-Weapon Fighting]]     |       |              |            |                                          |                                                                       |
+| [[grappler|Grappler]]                                                          |       |              |            |                                          |                                                                       |
+| [[great-weapon-master|Great Weapon Master]]                                    |       |              |            |                                          |                                                                       |
+| [[healer|Healer]]                                                              | 1     | N            | N          |                                          | Healing                                                               |
+| [[heavily-armor-master|Heavy Armor Master]]                                    |       |              |            |                                          |                                                                       |
+| [[heavily-armored|Heavily Armored]]                                            |       |              |            |                                          |                                                                       |
+| [[inspiring-leader|Inspiring Leader]]                                          |       |              |            |                                          |                                                                       |
+| [[keen-mind|Keen Mind]]                                                        |       |              |            |                                          |                                                                       |
+| [[lightly-armored|Lightly Armored]]                                            |       |              |            |                                          |                                                                       |
+| [[lucky|Lucky]]                                                                | 1     | N            | N          |                                          | Luck                                                                  |
+| [[mage-slayer|Mage Slayer]]                                                    |       |              |            |                                          |                                                                       |
+| [[magic-initiate|Magic Initiate]]                                              | 1     | N            | Y          |                                          | Magic                                                                 |
+| [[medium-armor-master|Medium Armor Master]]                                    |       |              |            |                                          |                                                                       |
+| [[mounted-combatant|Mounted Combatant]]                                        |       |              |            |                                          |                                                                       |
+| [[musician|Musician]]                                                          | 1     | N            | N          |                                          | Musical Inspiration                                                   |
+| [[observant|Observant]]                                                        |       |              |            |                                          |                                                                       |
+| [[polearm-master|Polearm Master]]                                              |       |              |            |                                          |                                                                       |
+| [[resilient|Resilient]]                                                        |       |              |            |                                          |                                                                       |
+| [[ritual-caster|Ritual Caster]]                                                |       |              |            |                                          |                                                                       |
+| [[savage-attacker|Savage Attacker]]                                            | 1     | N            | N          |                                          | Damage                                                                |
+| [[sentinel|Sentinel]]                                                          |       |              |            |                                          |                                                                       |
+| [[sharpshooter|Sharpshooter]]                                                  |       |              |            |                                          |                                                                       |
+| [[shield-master|Shield Master]]                                                |       |              |            |                                          |                                                                       |
+| [[skilled|Skilled]]                                                            | 1     | N            | Y          |                                          | Skills                                                                |
+| [[skulker|Skulker]]                                                            |       |              |            |                                          |                                                                       |
+| [[speedster|Speedster]]                                                        |       |              |            |                                          |                                                                       |
+| [[spell-sniper|Spell Sniper]]                                                  |       |              |            |                                          |                                                                       |
+| [[tavern-brawler|Tavern Brawler]]                                              | 1     | N            | N          |                                          | Unarmed Combat                                                        |
+| [[tough|Tough]]                                                                | 1     | N            | N          |                                          | Hit Points                                                            |
+| [[war-caster|War Caster]]                                                      |       |              |            |                                          |                                                                       |
+| [[weapon-training|Weapon Training]]                                            |       |              |            |                                          |                                                                       |
