@@ -1,4 +1,4 @@
-package net.tsolval.dndbe.controller
+package net.tsolval.dndbe.controller.web
 
 import net.tsolval.dndbe.service.CharacterService
 import org.springframework.beans.factory.annotation.Autowired

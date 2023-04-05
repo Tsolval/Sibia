@@ -38,7 +38,7 @@ dependencies {
 	developmentOnly 'org.springframework.boot:spring-boot-devtools'
 }
 
-test {
+tasks.test {
 	useJUnitPlatform()
 	filter {
 		excludeTestsMatching('net.tsolval.dndbe.controller.*')

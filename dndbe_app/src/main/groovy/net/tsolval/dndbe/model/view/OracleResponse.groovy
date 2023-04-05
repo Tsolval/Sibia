@@ -1,6 +1,5 @@
 package net.tsolval.dndbe.model.view
 
-
 import net.tsolval.dndbe.model.Odds
 
 class OracleResponse {

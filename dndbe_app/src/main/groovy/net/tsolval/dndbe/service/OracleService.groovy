@@ -13,7 +13,7 @@ class OracleService {
     DiceService dice
 
     def oracleTable = [
-            // Chaos Level: 1,   2,   3,   4,   5,   6,   7,   8,   9
+            // Chaos Level:        1,   2,   3,   4,   5,   6,   7,   8,   9
             (Odds.IMPOSSIBLE):  [-10, -10, -10, -10, -10,  -8,  -7,  -5,   0],
             (Odds.UNEXPECTED):  [-10,  -9,  -9,  -8,  -8,  -5,  -3,   0,   5],
             (Odds.UNLIKELY)  :  [ -9,  -9,  -8,  -7,  -5,  -1,   0,   3,   7],
@@ -39,12 +39,17 @@ class OracleService {
     static String buildOracleResultString(int dieResult, int totalResult) {
         String answer
         String qualifier = ''
+
         if (totalResult <= 10) {
             answer = 'No'
             if (dieResult == 1) {
                 qualifier = ', and...'
             } else if (dieResult == 20) {
                 qualifier = ', but...'
+            } else if (dieResult == 13) {
+                qualifier = ', and something happens.  Roll a Negative Event.'
+            } else if (dieResult == 7) {
+                qualifier = ', but something happens.  Roll a Neutral/Positive Event.'
             }
         } else {
             answer = 'Yes'
@@ -52,6 +57,10 @@ class OracleService {
                 qualifier = ', but...'
             } else if (dieResult == 20) {
                 qualifier = ', and...'
+            } else if (dieResult == 13) {
+                qualifier = ', but something happens.  Roll a Negative Event.'
+            } else if (dieResult == 7) {
+                qualifier = ', and something happens.  Roll a Neutral/Positive Event.'
             }
         }
 

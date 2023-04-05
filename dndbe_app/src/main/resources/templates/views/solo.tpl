@@ -8,24 +8,24 @@ mainBody: contents {
     form (id: 'solo-form') {
       div (class: 'form-check form-check-inline') { h5 ('Chaos Level:') }
       (1..9).each { idx ->
-        div (class: 'form-check form-check-inline') {
+        div (class: 'form-check form-check-inline p-2 g-2') {
           if (idx == 5) {
-            input (class: 'btn-check form-check-input', type: 'radio', id: "chaos-level-selection-${idx}",
+            input (class: 'btn-check form-check-input p-2 g-2', type: 'radio', id: "chaos-level-selection-${idx}",
                     name: 'chaos-level-selections', value: "${idx}", checked: 'true')
           } else {
-            input (class: 'btn-check form-check-input', type: 'radio', id: "chaos-level-selection-${idx}",
+            input (class: 'btn-check form-check-input p-2 g-2', type: 'radio', id: "chaos-level-selection-${idx}",
                     name: 'chaos-level-selections', value: "${idx}")
           }
-          label (class: 'btn btn-outline-secondary form-check-label', id: "chaos-level-selection-${idx}-label",
+          label (class: 'btn btn-outline-primary form-check-label p-2 g-2', id: "chaos-level-selection-${idx}-label",
                    for: "chaos-level-selection-${idx}", "CL ${idx}")
         }
       }
       br{}
       div (class: 'row') {
         div (class: 'col-md-1 text-end') {
-          label (id: 'odds-select-label', for: 'odds-select', 'Odds: ')
+          label (class: 'h5', id: 'odds-select-label', for: 'odds-select', 'Odds: ')
         }
-        div (class: 'col-md-3') {
+        div (class: 'col-md-2') {
           select (class: 'form-select-sm', id: 'odds-select') {
             odds.each {
               if (it.name() == 'POSSIBLE') {
@@ -36,8 +36,17 @@ mainBody: contents {
             }
           }
         }
-        div (class: 'col-md-4') {
-          button (class: 'btn btn-primary', type: "submit", 'Ask the Oracle')
+        div (class: 'col-md-2') {
+          button (class: 'btn btn-primary', type: 'button', id: 'chaos', 'Roll for Chaos')
+        }
+        div (class: 'col-md-2') {
+          button (class: 'btn btn-primary', type: 'button', id: 'oracle', 'Ask the Oracle')
+        }
+        div (class: 'col-md-2') {
+          button (class: 'btn btn-primary', type: 'button', id: 'negative-event', 'Negative Event')
+        }
+        div (class: 'col-md-3') {
+          button (class: 'btn btn-primary', type: 'button', id: 'positive-event', 'Neutral/Positive Event')
         }
       }
       br{}
@@ -49,15 +58,22 @@ mainBody: contents {
         div (class: 'card') {
           div (class: 'card-body') {
             div (class: 'card-title') {
-              h4 {
-                yield 'Oracle Results: '
-              }
-              span (id: 'solo-console-title'){}
+              p {span (class: 'small', id: 'solo-console-title'){}}
             }
             div (class: 'card-text', id: 'solo-console') {}
           }
         }
       }
+    }
+    div (class: 'row') {
+    p (class: 'g-2 h5', 'Instructions')
+      span (class: 'row', 'Step 1: Choose the theme and the initial hook.')
+      span (class: 'row', 'Step 2: Prepare the opening scene.')
+      span (class: 'row', 'Step 3: Create the characters.')
+      span (class: 'row', 'Step 4: Set or Adjust the Chaos Level.')
+      span (class: 'row', 'Step 5: Make a Chaos Roll and apply it to your scene.')
+      span (class: 'row', 'Step 6: Play the Scene.')
+      span (class: 'row', 'Step 7: Return to Step 4 until the Adventure is Concluded.')
     }
   }
 }

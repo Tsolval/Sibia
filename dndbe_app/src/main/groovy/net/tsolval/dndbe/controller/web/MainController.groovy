@@ -1,4 +1,4 @@
-package net.tsolval.dndbe.controller
+package net.tsolval.dndbe.controller.web
 
 import org.springframework.boot.Banner
 import org.springframework.stereotype.Controller
