@@ -1,0 +1,34 @@
+= Bearn =
+
+Attributes: [STR: 15, DEX: 13, CON: 14, INT: 12, WIS: 10, CHA: 8]
+Ancestry: [Name: Human, Creature Type: Humanoid, Size: Medium, Movement: 30 ft, Life Span: 80 years, Traits: [
+  Trait: [Name: Resourceful, Point Value: 2, Description: You gain Inspiration whenever you finish a Long Rest.]
+  Trait: [Name: Skillful, Point Value: 1, Description: You gain Proficiency in one Skill of your choice.]
+  Trait: [Name: Versatile, Point Value: 5, Description: You gain the Skilled Feat or another 1st level Feat of your choice.]]]
+Background: [Name: Blacksmith, Attributes: [STR: +1, CON: +2], Skills: [Athletics, Crafting], Tools: [Smith's Tools], Languages: [Dwarven]]
+Class: [Name: Fighter, HP: 10, Saves: [Strength, Constitution], Skills: [Acrobatics, Animal Handling], Equipment: [chain mail, longsword, shield, light crossbow, 20 bolts, explorer's pack], 
+Resource: [Name: Tactics, HD: 1d10, HP: 6+CON, 
+Armor Proficiency: [Heavy, Medium, Light, Shields], 
+Weapon Proficiency: [Simple, Martial, Firearms],
+Class Ability: Strength,
+Fighting Style: Dueling,
+Resource Die: 1d4,
+Resource Level: 4,
+Resource DC: 8 + @PB + @CA,
+Abilities: [
+Ability: [Name: Second Wind, Cost: 1 Action, Effect: Expend 1 Hit Die; Regain HP equal to 1HD + 1TD + CON ],
+Ability: [Name: Trip, Cost: 1 Action, Trigger: When you hit a creature with a Weapon Attack, Save: Strength, 
+  Restriction: Target is no more than one size Larger than you, Effect: +Tactics Damage, +Prone ],
+Ability: [Name: Grapple, Cost: 1 Action, Trigger: When you hit a creature with a Weapon Attack, 
+  Restriction: Target is no more than one size larger than you; You have at least one hand free, 
+  Effect: +Tactics Damage, +Grappled (Tactics DC)], 
+Ability: [Name: Shove, Cost: 1 Action, Trigger: When you hit a creature with a Weapon Attack],
+  Restriction: The target is no more than one size larger than you,
+  Effect: +Tactics Damage, Push target 5 feet.
+]]]
+
+
+STR: 3[16]  DEX: 1[13]  CON: 3[16]  INT: 1[12]  WIS: 0[10]  CHA: -1[08]
+AC: 10 +2 [Shield] +6 [Chain Mail] (18)
+HD: 1d10, HP: 19/19
+

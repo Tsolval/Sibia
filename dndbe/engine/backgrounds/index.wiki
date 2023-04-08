@@ -11,21 +11,33 @@ No matter which Background you choose, consider these questions from your charac
 * Do you embrace or reject your Background?
 * Did you form any relationships during your Background that endure today?
 
-== Background Features ==
+== Build your Background ==
+Think about where your character comes from and what they did before they became an adventurer.  This past experience influenced how your character grew and what skills and abilities they gained.  To illustrate this, we will think about a character who had a background as a Farmer.  They grew up in a rural area and raised crops, the surplus of which they carted to the nearby city to be sold.
+
 === Ability Scores ===
 When you determine your character’s ability scores, choose two of them, and increase one by 2 and the other one by 1. Alternatively, choose three ability scores, and increase each of them by 1.
+
+Our farmer spent a lot of time outdoors, digging in the dirt and toiling under the open sky.  They gained a resilience against disease and an enhanced endurance.  So we'll give them a +2 to their Constitution.  In addition, a farmer has to be able to read the signs of nature to know when they need to provide water or fertilizer, and how to deal with natural predators.  So we'll give the farmer a +1 to their Wisdom as well.
 
 === Skill Proficiencies ===
 Choose two Skills. Your character gains Proficiency in them.
 
+Our farmer should be skilled in Nature, naturally.  And because of how closely they worked with their oxen, horses, dogs, etc, they should gain the Animal handling skill as well.
+
 === Tool Proficiency ===
 Choose one tool. Your character gains Tool Proficiency* with it.
+
+Our farmer had to build their home, their shed, and all their chicken pens as well, so we'll give them proficiency with Carpenter's Tools.
 
 === Language ===
 Choose one language from the Standard Languages and Rare Languages tables (these appear later in the document). Your character knows that language.
 
+Our farmer's biggest customers when they went to sell their grain were hafling brewers, so it was only natural that they picked up the Halfling language.
+
 === Feat ===
 Choose one 1st-level Feat. Your character gains that Feat.
+
+A farmer's life is tough, and ours took a lot of abuse while making this life for themselves.  So we'll give our farmer the Tough feat.
 
 === Equipment ===
 Your character gains 50 GP to spend on starting equipment. The character keeps any unspent GP as spare coin.

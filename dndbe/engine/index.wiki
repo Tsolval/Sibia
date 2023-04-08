@@ -6,7 +6,7 @@ It's time you learn about the ABCs of character creation!  Each choice you make 
   * 'C' is for [[classes/index|Class]]
   * 'D' is for Details 
   * 'E' is for Equipment
-  * 'F' is for [[Features]]
+  * 'F' is for [[feats/index|Features]]
 
 === Leveling Up ===
 The following steps will turn your zero into a hero!  The real meat of your character will come in phase two of character creation, below.
@@ -17,3 +17,16 @@ The following steps will turn your zero into a hero!  The real meat of your char
 == [[spells/index|Spells]] ==
 == [[equipment/index|Equipment]] ==
 
+
+= TODO =
+== Attributes ==
+D&D uses an attribute score - a number between 3 and 18, to start, usually with a max of 20 - to determine what the ability mod is, and then uses the ability mod almost everywhere.  The only exceptions I can think of deal with the amount of weight you can carry or the distance you can jump.
+
+We can replace the score with the modifier to simplify the system.
+
+== Skills ==
+Add the Crafting Skill to the skills list.
+Evaluate adding a Lore skill.  Maybe move Arcana, History, Nature, and Religion to Lore skills.  Other Lore Skills: Technology, Alchemy
+
+== Fighting Style: Superior Technique ==
+Rework the Superior Technique fighting style so that it allows the player to choose an additional tactics feat.
