@@ -431,3 +431,8 @@ An fighter who uses magical techniques to augment their archery talents.  When y
 *Primal Archer.* You gain proficiency in Nature and learn the Druidcraft Cantrip.  You gain a secondary Class Attribute of Wisdom and a Primal Archer DC which is 8 + your Proficiency Bonus + your Wisdom Modifier.
 *Divine Archer.* You gain proficiency in Religion and learn the Thaumaturgy Cantrip.  You gain a secondary Class Attribute of Charisma and a Divine Archer DC which is 8 + your Proficiency Bonus + your Charisma Modifier.
 
+*Arcane Arrows.* You can produce arrows from nothing.  These arrows are considered magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.  You can ignore the ammunition property of the Ranged Weapon you are using.  These arrows disappear after they hit or miss their targets and cannot be reused.
+
+*Bow Master.* If you make a melee attack with a bow you are wielding, it is not considered to be an improvised weapon for you.  For you, a shortbow acts as a club and a longbow acts as a quarterstaff.
+
+*Weave Shot.* You learn to unleash special magical effects with some of your shots.  You know the Weave Shot options listed below.  After a Long or Short Rest, you can prepare two Weave Shots and may fire them so long as you have the actions to do so. The number of shots you can use between rests increases to 3 at level 7, 4 at level 10, 5 at level 15, and 6 at level 18.

@@ -1,0 +1,59 @@
+4 Criminal NPCs
+Thieves, moderately trained, CR5
+
+2 muscle-bound thugs
+2 lock pickers (second story men)
+
+Dwarf Thug, & Goliath Thug - "brothers"
+
+Halfling pickpocket, human second-story man
+
+CR 5 Stats:
+PB: +3
+AC: 15
+HP: 131-145
+AB: +6
+D/R: 33-38
+Save: 15
+
+== Appearance ==
+1) Unusual Skin Color
+2) Piercings
+3) Unusual eye color (or two different colors)
+4) Missing Fingers
+
+== Abilities ==
+Dwarf: Constitution (hardy, hale, healthy)
+Goliath: Strength (powerful, brawny, strong as an ox)
+Halfling: Dexterity (lithe, agile, graceful)
+Human: Intelligence (studious, learned, inquisitive)
+
+== Mannerisms ==
+Goliath: Tugs beard
+Human: Chews something
+Halfling: Whispers
+Dwarf: Uses colorful oaths and exclamations
+
+== Ideals ==
+Greed
+Might
+Independence
+Whimsy
+
+== Bonds ==
+Protective of "Brother"
+Dedicated to fulfilling a personal life goal
+Loyal to a benefactor, patron or employer
+Protective of close family members
+
+== Flaws ==
+Overpowering Greed
+Prone to sudden suspicion
+Prone to rage
+Foolhardy bravery
+
+Dwarf Male:      Regnus Loudbraid
+Goliath Male:    Regdar Loudbraid (oddly normal Dwarven name for a Goliath)
+Human Male:      Pevel Bladegust
+Halfling Female: Gralie Strongeye
+

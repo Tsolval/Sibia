@@ -43,4 +43,21 @@ These races are extremely rare and can be found in any racial grouping except wh
 
 *Genasi* - Half Human, Half Elemental.  Whether they are the result of a magical experiment or the evolution of an elemental with a long association with humans.
 
+== Magic Items ==
+=== Undefined Magic Items ===
+* "Faerie Chainmail"
+* "Espagra Saddle"
+* "Talisman Statue"
+* "Purse Ever Bountiful"
+* "Espagra Boots"
+* "Oratory Necklace"
+
+=== Brooch of Might ===
+When discovered, this brooch is just a pretty trinket that appears to have a magical potential to anyone in tune with the Arcane.
+ * *Rank 1.* When the attuned wearer discovers the name of this item, the brooch grants them +1 AC.
+ * *Rank 2.* When the attuned wearer discovers the name of the artist who created it (a dwarven craftsman named Holgar Sharpeye), the brooch grants them +1 to all Strength based damage rolls.
+ * *Rank 3.* When the attuned wearer discovers who the brooch was crafted for (the hero Kailin Sureaxe), the brooch grants +1 to saving throws, and the additional damage increases to +2. 
+ * *Rank 4*. When the attuned wearer performs a ritual bonding the brooch to them in blood, the brooch grants one additional hit die of a size appropriate to the character's primary class when you finish a Long Rest. If this hit die isn't used, it expires when you start your next Long Rest.
+ * *Rank 5.* When the attuned wearer kills more than two creatures in a single combat, the brooch now restores health to the wearer when they make a kill.  When a creature dies in direct consequence to an attack by the attuned wearer of this item, roll a die determined by the type of hit die granted in Rank 4 and heal your character by that much.  This item is now cursed.  Should the wearer loose the brooch, their maximum hit points will be reduced by one each day until they recover it or they die.
+
 

@@ -1,0 +1,21 @@
+Warriors
+Barbarian - Rage - Diminishing Resource Regenerates with damage and according to Path.
+Fighter - Tactics - Resource steadily increases
+Monk - Spirit - Resource Generator
+
+Priests
+Cleric - Prayer - Diminishing Resource regenerates with buffs and according to Domain
+Paladin - Aura - Resource steadily increases
+Druid - Natural Bond - Resource Generator
+
+Mages
+Warlock - Contract - Diminishing Resource regenerates with debuffs and according to Patron
+Wizard - Thesis - Resource Generator
+Sorcerer - Conduit - Resource steadily increases
+
+Experts
+Bard - Influence - Resource Generator
+Rogue - Cunning - Resource Diminishes over Time
+Ranger - Bushcraft - Resource Pool
+
+

@@ -1,4 +1,5 @@
 = Classes =
+[[Class Worksheet]]
 == Expert Classes ==
  * Bard
  * Ranger
