@@ -65,7 +65,7 @@ class EventService {
 
     def rollEvent(boolean isNegativeEvent) {
         int dieResult = dice.roll('1d20')[0]
-        String type = isNegativeEvent? eventFocusNegative(dieResult) : eventFocusPositive(dieResult)
+        String type = isNegativeEvent ? eventFocusNegative(dieResult) : eventFocusPositive(dieResult)
         String description = eventDefinitions[type]
         new EventResponse(dieResult: dieResult, type: type, description: description)
     }

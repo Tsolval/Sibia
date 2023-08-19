@@ -7,7 +7,9 @@ function getChaosLevel() {
     // set chaos level
     let cl = '5';
     document.getElementsByName("chaos-level-selections").forEach(element => {
-        if (element.checked) { return cl = element.value; }
+        if (element.checked) {
+            return cl = element.value;
+        }
     })
     return cl;
 }
@@ -22,7 +24,7 @@ function getUrl(url, callback) {
 function reportOracle() {
     let head = document.getElementById('solo-console-title');
     let target = document.getElementById('solo-console');
-    if(this.readyState === 4 && this.status === 200) {
+    if (this.readyState === 4 && this.status === 200) {
         let data = JSON.parse(this.responseText);
         head.innerHTML = `${data.dieResult} + ${data.modifier} = ${data.totalResult}`
         target.innerHTML = `${data.description}`;
@@ -32,7 +34,7 @@ function reportOracle() {
 function reportChaos() {
     let head = document.getElementById('solo-console-title');
     let target = document.getElementById('solo-console');
-    if(this.readyState === 4 && this.status === 200) {
+    if (this.readyState === 4 && this.status === 200) {
         let data = JSON.parse(this.responseText);
         head.innerHTML = `${data.dieResult}: ${data.factor}`;
         target.innerHTML = `${data.description}`;
@@ -42,7 +44,7 @@ function reportChaos() {
 function reportEvent() {
     let head = document.getElementById('solo-console-title');
     let target = document.getElementById('solo-console');
-    if(this.readyState === 4 && this.status === 200) {
+    if (this.readyState === 4 && this.status === 200) {
         let data = JSON.parse(this.responseText);
         head.innerHTML = `${data.dieResult}: ${data.type}`;
         target.innerHTML = `${data.description}`;

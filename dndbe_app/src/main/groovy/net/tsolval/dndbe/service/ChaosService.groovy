@@ -23,15 +23,15 @@ class ChaosService {
     ]
 
     def chaosRollTable = [
-            1: 'Nothing',
-            2: 'Nothing',
-            3: 'Nothing',
-            4: 'Transmutation',
-            5: 'Abjuration',
-            6: 'Conjuration',
-            7: 'Necromancy',
-            8: 'Evocation',
-            9: 'Divination-',
+            1 : 'Nothing',
+            2 : 'Nothing',
+            3 : 'Nothing',
+            4 : 'Transmutation',
+            5 : 'Abjuration',
+            6 : 'Conjuration',
+            7 : 'Necromancy',
+            8 : 'Evocation',
+            9 : 'Divination-',
             10: 'Divination+',
             11: 'Illusion',
             12: 'Enchantment',
@@ -46,16 +46,16 @@ class ChaosService {
     ]
 
     def chaosRollDescriptions = [
-            'Nothing': 'Nothing needs to be changed in the scene.',
+            'Nothing'      : 'Nothing needs to be changed in the scene.',
             'Transmutation': 'A small change, good or bad, changes the scene slightly.',
-            'Abjuration': 'An element, previously of the scene, is no longer.',
-            'Conjuration': 'An element, previously not of the scene, now is.',
-            'Necromancy': 'Begin the scene with a Negative Event.',
-            'Evocation': 'Begin the scene with a Neutral or Positive Event.',
-            'Divination-': 'Create a new scene with a Negative Event and run it before, or after this one.',
-            'Divination+': 'Create a new scene with a Neutral or Positive Event and run it before or after ths one.',
-            'Illusion': 'Something hidden or unexpected is revealed in this scene.',
-            'Enchantment': 'This scene changes an NPCs mood or behavior or presents a different feeling than planned.'
+            'Abjuration'   : 'An element, previously of the scene, is no longer.',
+            'Conjuration'  : 'An element, previously not of the scene, now is.',
+            'Necromancy'   : 'Begin the scene with a Negative Event.',
+            'Evocation'    : 'Begin the scene with a Neutral or Positive Event.',
+            'Divination-'  : 'Create a new scene with a Negative Event and run it before, or after this one.',
+            'Divination+'  : 'Create a new scene with a Neutral or Positive Event and run it before or after ths one.',
+            'Illusion'     : 'Something hidden or unexpected is revealed in this scene.',
+            'Enchantment'  : 'This scene changes an NPCs mood or behavior or presents a different feeling than planned.'
     ]
 
     ChaosResponse chaosRoll(int cl) {

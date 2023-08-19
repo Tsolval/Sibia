@@ -16,7 +16,7 @@ class CharacterController {
 
     @GetMapping
     def listCharacters() {
-        new ModelAndView ('views/characters', [toons: service.allCharacters] )
+        new ModelAndView('views/characters', [toons: service.allCharacters])
     }
 
 }
